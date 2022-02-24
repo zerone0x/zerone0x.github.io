@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>draft - 分类 - FireShip</title>
+    <link>http://example.org/categories/draft/</link>
+    <description>draft - 分类 - FireShip</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 26 Jan 2022 22:31:27 &#43;0000</lastBuildDate><atom:link href="http://example.org/categories/draft/" rel="self" type="application/rss+xml" /><item>
+  <title>Health</title>
+  <link>http://example.org/posts/health/</link>
+  <pubDate>Wed, 26 Jan 2022 22:31:27 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/posts/health/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>Gitblog</title>
+  <link>http://example.org/posts/gitblog/</link>
+  <pubDate>Wed, 19 Jan 2022 13:25:56 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/posts/gitblog/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>Reblog</title>
+  <link>http://example.org/posts/reblog/</link>
+  <pubDate>Tue, 14 Dec 2021 11:02:50 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/posts/reblog/</guid>
+  <description><![CDATA[]]></description>
+</item></channel>
+</rss>

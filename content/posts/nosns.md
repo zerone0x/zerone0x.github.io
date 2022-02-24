@@ -1,0 +1,51 @@
+---
+title: 论少发动态的必要性
+date: 2022-01-25 22:10:48
+tags: ['feelings','ing']
+---
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [发**不好好说话动态**的危害性](#%E5%8F%91%E4%B8%8D%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D%E5%8A%A8%E6%80%81%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%80%A7)
+- [看**不好好说话**动态的危害性](#%E7%9C%8B%E4%B8%8D%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D%E5%8A%A8%E6%80%81%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%80%A7)
+- [用sns聊天的危害性](#%E7%94%A8sns%E8%81%8A%E5%A4%A9%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%80%A7)
+- [用戒瘾的方式戒社交软件](#%E7%94%A8%E6%88%92%E7%98%BE%E7%9A%84%E6%96%B9%E5%BC%8F%E6%88%92%E7%A4%BE%E4%BA%A4%E8%BD%AF%E4%BB%B6)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## 发**不好好说话动态**的危害性
+发动态/写blog/弄懂某个问题/搞定某个project。
+
+前者是最易完成的。
+
+动态由点赞、评论、转发组成。
+
+点赞无信息交换，只有个数字。
+
+动态本是分享，不能完全否定它，毕竟存在着不少有价值的动态。否定的是“不好好说话”的动态。
+
+[怎么好好说话](https://www.zhihu.com/question/19864656/answer/14137629)
+[逻辑谬误](https://www.douban.com/note/750613323/?_i=4904570Vck065M)
+
+希望以后好好说话，为避免自说废话，少用sns。(也许短暂无法彻底做到，慢慢改掉这个坏习惯)
+每当想发动态，就去stackoverflow搜问题。试着描述出问题的解答。写成blog的#qa。
+
+> 不认真想说什么，只是想到什么说什么，自己也不知道说出来的是什么，感到很难过。
+
+## 看**不好好说话**动态的危害性
+1. 不好好说话的动态，占大脑cpu
+2. 分散注意力
+3. 浪费时间和精力
+4. 理解有误，信息虚假
+5. 私人性质的动态更和我无关。甚至某些github的动态。在我理解范围之外的，一概无关。
+
+## 用sns聊天的危害性
+1. sns的消息。很容易分散注意力
+2. 消息 == 不好好说话的动态。
+3. 有不好好说话动态的所有缺点
+
+珍爱生命，远离社交软件和社交网络。划清界限，很重要。
+
+## 用戒瘾的方式戒社交软件
+1. 记录
+2. 分析用社交软件的根本原因

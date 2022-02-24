@@ -1,0 +1,162 @@
+---
+title: factorio
+date: 2021-12-26 16:20:26
+tags: ["game","sandbox","factorio"]
+---
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [结构](#%E7%BB%93%E6%9E%84)
+- [细节：](#%E7%BB%86%E8%8A%82)
+- [分类](#%E5%88%86%E7%B1%BB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+About dev and design of factorio.
+```mermaid
+graph TD;
+    AW[铁矿] --> A;
+    AX[铜矿] --> F;
+    AW --> A;
+    N --> A;
+    AX --> F;
+    N --> F;
+    AC --> P;
+    N --> P;
+    A[铁板] --> C[钢材];
+    A --> D[铁齿轮];
+    A --> E[管道];
+    A --> L[弹匣];
+    A --> AA[铁棒];
+	F[铜板] --> G[铜线];
+    AC[石矿] --> P[石砖];
+    G --> H[电路板];
+    A --> H;
+    F --> I[Red];
+    D --> I;
+    A --> J[传送带]; %% 一次
+    D --> J;
+    A --> K[机械臂]; %% 一次
+    D --> K;
+    H --> K;
+    J --> AD[Green];
+    K --> AD;
+    F --> M[穿中弹匣]; %% 一次
+    C --> M;
+    L --> M;
+    N[煤炭] --> O[手雷]; %% 一次
+    A --> O;
+    P[石砖] --> Q[墙壁];
+    M --> R[Grey];
+    O --> R;
+    Q --> R;
+    S[石油气] --> T[硫磺];
+    U[水] --> T[硫磺];
+    S --> V[塑料];
+    N --> V;
+    V --> W[集成电路];
+    G --> W;
+    H --> W;
+    C --> X[内燃机]; %% Yellow
+    D --> X;
+    E --> X;
+    T --> Y[Blue];
+    W --> Y;
+    X --> Y;
+    H --> Z[插件];
+    W --> Z;
+    F --> AB[中电线杆]; %% 可去掉
+    AA --> AB; %% 可去掉
+    C --> AB; %% 可去掉
+    AC --> AE[铁轨]; %% 一次
+    C --> AE;
+    AA --> AE;
+    P --> AF[电炉]; %% 一次
+    C --> AF;
+    W --> AF;
+    AE --> AG[Purple];
+    AF --> AG;
+    cZ --> AG;
+    AK[重油] --> AL[润滑油];
+    F --> AH[轻质框架];
+    C --> AH;
+    V --> AH;
+    H --> AJ[电动机]; %% 一次
+    X --> AJ;
+    AL --> AJ;
+    A --> AL[硫酸];
+    T --> AL;
+    U --> AL;
+    A --> AU[电池];
+    F --> AU;
+    AL --> AU;
+    C --> AI[机器人构架]; %% 一次
+    H --> AI;
+    AJ --> AI;
+    AU --> AI;
+    H --> AM[处理器];
+    W --> AM;
+    AL --> AM;
+    AH --> AN[Yellow];
+    AI --> AN;
+    AM --> AN;
+    F --> AP[太阳能板]; %% 以下都是一次
+    C --> AP;
+    H --> AP;
+    A --> AQ[雷达]; 
+    D --> AQ;
+    H --> AQ;
+    AV[轻油] --> AR[火箭燃剂];
+    AS[固体燃料] --> AR;
+    A --> AT[蓄电器];
+    AU --> AT;
+    AM --> AO[White];
+    AH --> AO;
+    AP --> AO;
+    AQ --> AO;
+    AR --> AO;
+    AT --> AO;
+```
+#### 结构
+
+1. ##### 可扩展(留空间，多接口). 降低依赖
+   1. 给重要度大并且未研发生产的对象留空间
+   2. 接口多加个箱子，四个方向。
+
+2. ##### 模块化。
+   1. 按照比例分类。(排序按照重要度)
+      1. ##TODO 用数据分析可视化一下。
+   2. 按照层数分类。层数越低，密集度越高，复杂度越低。
+      1. 底层(矿石)
+      2. 中层(组装机)
+      3. 高层(信息时代 研发中心 核武器)
+   3. 输入输出为1.
+
+3. ##### 连接。
+   1. 连接灵活。
+      1. 位置  
+      2. 运输 (学习铁路)
+
+#### 细节：
+* 科技研发重要度：科技>武器>=生产
+* 提高科技发展速度：
+    1. 在电路板后加组装机生产插件
+    2. 将瓶子生产自上而下模块化扩展
+    3. 电路板扩展 再加一组 3个
+    4. 平衡瓶子数量产出
+
+
+#### 分类
+1. 科技 
+2. 生产
+3. 武器 
+   1. 新武器打虫子
+   2. 弹药和炮塔自动化
+   3. 瓶颈 -> 留余
+
+0119 通关
+太空mod有很多新的剧情。再就是铁路信号，通过信号来规划线路，没有用过，蛮好奇。它能怎么用，用来做什么。
+
+0125
+nullius 和 重新计算。

@@ -1,0 +1,56 @@
+---
+title: 减法
+date: 2021-09-27
+tag: "log"
+---
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Trip](#trip)
+- [Game](#game)
+- [Personal Things](#personal-things)
+- [随心做(放弃或做不确定)](#随心做放弃或做不确定)
+- [Tool](#tool)
+- [Write](#write)
+- [Feelings](#feelings)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+inbox很多todo，攒了很久。仔细想想，也没有几件是非做不可的。写的东西平台分散，整合时，发现也没写多少(没多少有用的)
+### Trip
+1. 登山杖。本地买最好，拿着方便。(大体型号已了解)
+2. 冲锋衣裤。等双十一打折买就好(日常再看看款式)
+3. 背包升级。26L是个尴尬的大小，平时太大，出门太小。先挂闲鱼。等双十一看看38L的价格。
+4. 雨衣。雨衣还没了解过。
+5. 自行车学习练习。争取十月前看完自行车圣经
+6. 帐篷，生火，锅，坐垫等。还未了解过，准备找本野外户外指南看看。
+7. 地点。四姑娘山，南方沿长江的城市
+8. 激情。看旅行的纪录片。
+   
+### Game
+想写一份游戏简历。但还没开始写。大概内容：
+- 最喜欢的游戏。挺多的，但从来没仔细整理过
+- 工具经验 Unity Pico8 cocos js相关库(了解图形学)
+- 作品。
+- 设计总结(latex整理游戏相关的书)
+- 1.分类 2.机制 3.受众 4.经验
+  
+### Personal Things
+
+
+### 随心做(放弃或做不确定)
+- 职业百科和分析工作有无意义的对象是我本身的父集。看这些或许能跳出当前集合。
+- 延伸，图形学和信息安全也是同样的道理。(但总会告知自己是补过去的坑，本质并不是)
+
+### Tool
+工具用过太多，workflow需要扩展改变适应。
+
+### Write
+想把个人健身的要点整理一下，但对他人没什么帮助，身体差异太大了。
+有时想把过去写的汇总在一起，但文字又总会过期，比如创作那篇，对现在来说，很多都已成为习惯或者被摒弃。
+
+### Feelings
+时间太快，八九月匆匆，由于个人原因，短时记忆力和图像记忆很差。在不同的环境输入下会输出不同的结果。结果随着环境转换而遗忘。
+

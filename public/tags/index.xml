@@ -1,0 +1,77 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Tags - 标签 - FireShip</title>
+    <link>http://example.org/tags/</link>
+    <description>Tags - 标签 - FireShip</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 21 Feb 2022 17:51:37 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>tool</title>
+  <link>http://example.org/tags/tool/</link>
+  <pubDate>Mon, 21 Feb 2022 17:51:37 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/tool/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>learn</title>
+  <link>http://example.org/tags/learn/</link>
+  <pubDate>Thu, 17 Feb 2022 20:33:09 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/learn/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>ing</title>
+  <link>http://example.org/tags/ing/</link>
+  <pubDate>Thu, 17 Feb 2022 20:23:11 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/ing/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>trip</title>
+  <link>http://example.org/tags/trip/</link>
+  <pubDate>Thu, 17 Feb 2022 20:23:11 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/trip/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>music</title>
+  <link>http://example.org/tags/music/</link>
+  <pubDate>Sat, 29 Jan 2022 21:54:30 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/music/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>draft</title>
+  <link>http://example.org/tags/draft/</link>
+  <pubDate>Wed, 26 Jan 2022 22:31:27 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/draft/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>feelings</title>
+  <link>http://example.org/tags/feelings/</link>
+  <pubDate>Tue, 25 Jan 2022 22:10:48 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/feelings/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>history</title>
+  <link>http://example.org/tags/history/</link>
+  <pubDate>Fri, 31 Dec 2021 11:07:21 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/history/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>game</title>
+  <link>http://example.org/tags/game/</link>
+  <pubDate>Fri, 31 Dec 2021 00:31:20 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/game/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>Minecraft</title>
+  <link>http://example.org/tags/minecraft/</link>
+  <pubDate>Fri, 31 Dec 2021 00:31:20 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/tags/minecraft/</guid>
+  <description><![CDATA[]]></description>
+</item></channel>
+</rss>

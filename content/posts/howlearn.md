@@ -1,0 +1,57 @@
+---
+title: "学习的阻碍"
+subtitle: ""
+date: 2022-02-24T16:56:08+08:00 
+draft: false
+author: ""
+authorLink: ""
+description: ""
+keywords: ""
+license: ""
+comment: false
+weight: 0
+
+tags:
+- draft
+categories:
+- draft
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+
+summary: ""
+resources:
+- name: featured-image
+  src: featured-image.jpg
+- name: featured-image-preview
+  src: featured-image-preview.jpg
+
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
+seo:
+  images: []
+
+# See details front matter: /theme-documentation-content/#front-matter
+---
+
+<!--more-->
+抛开环境这种相对难以改变的因素和他人存在对自己的影响，将重点落在自己的身上。
+
+学习该如何定义，勿把时间和经验的积累当作学习本身，所谓客观的评判制度也只是在某个目的下的检测。
+
+外界的标志和结果都很难形象化学习的过程。
+
+学习是扩充自己的已有的经验，或者在原有的观点上remake。
+
+1. 复制粘贴
+	复制粘贴是假性的自我满足。复制粘贴变成收藏书签更好，或者按照主题来搜索，而不是碎片的信息。
+
+2. 比较
+	初入某一领域前，是因为零碎的评论或推荐介绍来有兴趣进入。
+	但入门时，由于经验的不对等，很容易出现气妥。
+	若比较，最好与时间线左边的自己比较。或者经验相匹配的。
+
+3. 没有激情。有太多不做的犹豫，却没有一个开始的动力。
