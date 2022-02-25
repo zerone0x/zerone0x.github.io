@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noodp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <title>tryhackme - FireShip</title><meta name="author" content=": ">
+<meta name="description" content="Table of Contents generated with DocToc 为什么学hack 目标 How to 如何记笔记 如何提高效率 入门科普的ctf全面的知识link TOOLS 附 为什么学hack 提高检索信息速度和定位并解决" />
+<meta name="keywords" content="" /><meta itemprop="name" content="tryhackme">
+<meta itemprop="description" content="Table of Contents generated with DocToc 为什么学hack 目标 How to 如何记笔记 如何提高效率 入门科普的ctf全面的知识link TOOLS 附 为什么学hack 提高检索信息速度和定位并解决"><meta itemprop="datePublished" content="2021-12-09T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-12-09T00:00:00+00:00" />
+<meta itemprop="wordCount" content="385">
+<meta itemprop="keywords" content="" /><meta property="og:title" content="tryhackme" />
+<meta property="og:description" content="Table of Contents generated with DocToc 为什么学hack 目标 How to 如何记笔记 如何提高效率 入门科普的ctf全面的知识link TOOLS 附 为什么学hack 提高检索信息速度和定位并解决" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/ctf/" /><meta property="article:section" content="" />
+<meta property="article:published_time" content="2021-12-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-12-09T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="tryhackme"/>
+<meta name="twitter:description" content="Table of Contents generated with DocToc 为什么学hack 目标 How to 如何记笔记 如何提高效率 入门科普的ctf全面的知识link TOOLS 附 为什么学hack 提高检索信息速度和定位并解决"/>
+<meta name="application-name" content="FireShip">
+<meta name="apple-mobile-web-app-title" content="FireShip"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="canonical" href="http://example.org/ctf/" /><link rel="prev" href="http://example.org/human/" /><link rel="next" href="http://example.org/blog/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "tryhackme",
+    "inLanguage": "zh-CN",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "http:\/\/example.org\/ctf\/"
+    },"genre": "page","wordcount":  385 ,
+    "url": "http:\/\/example.org\/ctf\/","datePublished": "2021-12-09T00:00:00+00:00","dateModified": "2021-12-09T00:00:00+00:00","publisher": {
+      "@type": "Organization",
+      "name": "作者"},"author": {
+        "@type": "Person",
+        "name": "作者"
+      },"description": ""
+  }
+  </script></head>
+  <body header-desktop="" header-mobile=""><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+    <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+  <div class="header-wrapper">
+    <div class="header-title">
+      <a href="/" title="FireShip"><span class="header-title-text">FireShip</span></a></div>
+    <div class="menu">
+      <div class="menu-inner"><a class="menu-item" href="/posts/"> 文章 </a><a class="menu-item" href="/tags/"> 标签 </a><a class="menu-item" href="/categories/"> 分类 </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+          <i class="fas fa-adjust fa-fw"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</header><header class="mobile" id="header-mobile">
+  <div class="header-container">
+    <div class="header-wrapper">
+      <div class="header-title">
+        <a href="/" title="FireShip"><span class="header-title-text">FireShip</span></a></div>
+      <div class="menu-toggle" id="menu-toggle-mobile">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+    <div class="menu" id="menu-mobile"><a class="menu-item" href="/posts/" title="">文章</a><a class="menu-item" href="/tags/" title="">标签</a><a class="menu-item" href="/categories/" title="">分类</a><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+        <i class="fas fa-adjust fa-fw"></i>
+      </a></div>
+  </div>
+</header>
+<div class="search-dropdown desktop">
+  <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+  <div id="search-dropdown-mobile"></div>
+</div>
+<main class="container" page-style="normal"><div class="page single special"><h1 class="single-title animated pulse faster">tryhackme</h1><div class="content" id="content"><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p><strong>Table of Contents</strong>  <em>generated with <a
+  href="https://github.com/thlorenz/doctoc"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>DocToc</a></em></p>
+<ul>
+<li><a
+  href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AD%A6hack"
+  
+  
+  
+  
+  
+  
+>为什么学hack</a></li>
+<li><a
+  href="#%E7%9B%AE%E6%A0%87"
+  
+  
+  
+  
+  
+  
+>目标</a></li>
+<li><a
+  href="#how-to"
+  
+  
+  
+  
+  
+  
+>How to</a>
+<ul>
+<li><a
+  href="#%E5%A6%82%E4%BD%95%E8%AE%B0%E7%AC%94%E8%AE%B0"
+  
+  
+  
+  
+  
+  
+>如何记笔记</a></li>
+<li><a
+  href="#%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87"
+  
+  
+  
+  
+  
+  
+>如何提高效率</a></li>
+</ul>
+</li>
+<li><a
+  href="#%E5%85%A5%E9%97%A8%E7%A7%91%E6%99%AE%E7%9A%84ctf%E5%85%A8%E9%9D%A2%E7%9A%84%E7%9F%A5%E8%AF%86link"
+  
+  
+  
+  
+  
+  
+>入门科普的ctf全面的知识link</a>
+<ul>
+<li><a
+  href="#tools"
+  
+  
+  
+  
+  
+  
+>TOOLS</a></li>
+<li><a
+  href="#%E9%99%84"
+  
+  
+  
+  
+  
+  
+>附</a></li>
+</ul>
+</li>
+</ul>
+<!-- raw HTML omitted -->
+<h4 id="为什么学hack">为什么学hack</h4>
+<p>提高检索信息速度和定位并解决问题的能力。hack是一个对计算机知识/工具的爬虫。</p>
+<h4 id="目标">目标</h4>
+<p>能完成简单的实验，和理解入侵的原理，获得基础的网络及设备知识。</p>
+<h4 id="how-to">How to</h4>
+<ol>
+<li>看视频 了解完整的流程</li>
+<li>完成并记录学到的（笔记</li>
+</ol>
+<h5 id="如何记笔记">如何记笔记</h5>
+<ol>
+<li>主干</li>
+<li>新的不懂的。思考很久才想到的。</li>
+</ol>
+<h5 id="如何提高效率">如何提高效率</h5>
+<ol>
+<li>整体计划的结构，final time</li>
+<li>拆分为最重要的主干和其他的细节</li>
+<li>思考如何解决主干问题</li>
+<li>细节，可放弃</li>
+</ol>
+<h4 id="入门科普的ctf全面的知识link">入门科普的ctf全面的知识link</h4>
+<ul>
+<li><a
+  href="https://www.ctfhub.com/#/top"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>https://www.ctfhub.com/#/top</a></li>
+<li><a
+  href="https://www.ctftools.com/down/"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>https://www.ctftools.com/down/</a></li>
+<li><a
+  href="https://capturetheflag.withgoogle.com/"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>google ctf</a></li>
+</ul>
+<h5 id="tools">TOOLS</h5>
+<ul>
+<li><a
+  href="https://crackstation.net/"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>https://crackstation.net/</a></li>
+<li><a
+  href="https://www.exploit-db.com/"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>https://www.exploit-db.com/</a></li>
+<li><a
+  href="https://webhook.site/#!/d79bf0c9-b458-41b0-91a7-2d09a733afb9"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>https://webhook.site/#!/d79bf0c9-b458-41b0-91a7-2d09a733afb9</a></li>
+</ul>
+<ul>
+<li><a
+  href="https://www.tunnelsup.com/hash-analyzer/"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>hash analyzer</a></li>
+<li><a
+  href="https://hashes.com/en/tools/hash_identifier"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>https://hashes.com/en/tools/hash_identifier</a></li>
+</ul>
+<blockquote>
+<p>最好的hash identifier是python的hashid</p>
+</blockquote>
+<ul>
+<li><a
+  href="https://hashes.com/en/decrypt/hash"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>https://hashes.com/en/decrypt/hash</a>
+<a
+  href="https://hashcat.net/wiki/doku.php?id=example_hashes"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>hashcat hash type finder</a></li>
+</ul>
+<blockquote>
+<p><a
+  href="https://tryhackme.com/resources/blog/free_path"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>Path</a></p>
+</blockquote>
+<h5 id="附">附</h5>
+<ul>
+<li><a
+  href="https://adventofcode.com/2021/day/1"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>aoc</a>
+像玩游戏一样写代码
+这个令我吸引的不是如何写代码去解决，而是如何不写代码去思考最优的解，思考过程本身是值得的。
+后：没想到这么难，做了三天就做不下去了。希望明年能做点。</li>
+<li><a
+  href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/videos"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>stream code</a>
+了解有多少还不懂</li>
+</ul>
+<hr>
+<p><a
+  href="https://web.stanford.edu/class/cs253/"
+  
+  
+    
+    target="_blank"
+  
+  
+    rel="external nofollow noopener noreffer"
+  
+  
+  
+  
+>cs253</a></p>
+</div></div></main><footer class="footer">
+    <div class="footer-container"><div class="footer-line powered">由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer" title="Hugo 0.91.0">Hugo</a> 强力驱动 | 主题 - <a href="https://github.com/Lruihao/FixIt" target="_blank" rel="external nofollow noopener noreffer" title="FixIt 0.2.13"><img class="fixit-icon" src="/images/fixit.svg" alt="FixIt logo" /> FixIt</a>
+        </div></div>
+  </footer></div>
+
+    <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+        <i class="fas fa-arrow-up fa-fw"></i>
+      </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+        <i class="fas fa-comment fa-fw"></i>
+      </a>
+    </div><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js" async defer></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js" defer></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":10},"comment":{},"enablePWA":null};</script><script type="text/javascript" src="/js/theme.min.js" defer></script></body>
+</html>
