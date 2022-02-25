@@ -7,13 +7,461 @@ languageCode = "zh-CN"
 hasCJKLanguage = true
 # 网站标题
 title = "FireShip"
-disqusShortname = "fireship"
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "FixIt"
 
 [params]
   # FixIt 主题版本
   version = "0.2.X"
+[params.page]
+    # whether to hide a page from home page
+    # 是否在主页隐藏一篇文章
+    hiddenFromHomePage = false
+    # whether to hide a page from search results
+    # 是否在搜索结果中隐藏一篇文章
+    hiddenFromSearch = false
+    # whether to enable twemoji
+    # 是否使用 twemoji
+    twemoji = false
+    # whether to enable lightgallery
+    # 是否使用 lightgallery
+    lightgallery = false
+    # whether to enable the ruby extended syntax
+    # 是否使用 ruby 扩展语法
+    ruby = true
+    # whether to enable the fraction extended syntax
+    # 是否使用 fraction 扩展语法
+    fraction = true
+    # whether to enable the fontawesome extended syntax
+    # 是否使用 fontawesome 扩展语法
+    fontawesome = true
+    # license info (HTML format is supported)
+    # 许可协议信息（支持 HTML 格式）
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    # whether to show link to Raw Markdown content of the content
+    # 是否显示原始 Markdown 文档内容的链接
+    linkToMarkdown = true
+    # whether to show the full text content in RSS
+    # 是否在 RSS 中显示全文内容
+    rssFullText = false
+    # Page style ("normal", "wide", ...) since v0.2.13
+    # 页面样式 ("normal", "wide", ...) since v0.2.13
+    pageStyle = "normal"
+    # Table of the contents config
+    # 目录配置
+    [params.page.toc]
+      # whether to enable the table of the contents
+      # 是否使用目录
+      enable = true
+      # whether to keep the static table of the contents in front of the post
+      # 是否保持使用文章前面的静态目录
+      keepStatic = false
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      # 是否使侧边目录自动折叠展开
+      auto = true
+      # position of TOC ("left", "right") since v0.2.13
+      # 目录位置 ("left", "right") since v0.2.13
+      position = "right"
+    # Display a message at the beginning of an article to warn the reader that its content might be expired. since v0.2.13
+    # 在文章开头显示提示信息，提醒读者文章内容可能过时。 since v0.2.13
+    [params.page.expirationReminder]
+      enable = true
+      # Display the reminder if the last modified time is more than 90 days ago
+      # 如果文章最后更新于这天数之前，显示提醒
+      reminder = 90
+      # Display warning if the last modified time is more than 180 days ago
+      # 如果文章最后更新于这天数之前，显示警告
+      warning = 180
+      # If the article expires, close the comment or not
+      # 如果文章到期是否关闭评论
+      closeComment = false
+    # Code config
+    # 代码配置
+    [params.page.code]
+      # whether to show the copy button of the code block
+      # 是否显示代码块的复制按钮
+      copy = true
+      # the maximum number of lines of displayed code by default
+      # 默认展开显示的代码行数
+      maxShownLines = 10
+    # KaTeX mathematical formulas config (KaTeX https://katex.org/)
+    # KaTeX 数学公式配置 (KaTeX https://katex.org/)
+    [params.page.math]
+      enable = false
+      # default block delimiter is $$ ... $$ and \\[ ... \\]
+      # 默认块定界符是 $$ ... $$ 和 \\[ ... \\]
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # default inline delimiter is $ ... $ and \\( ... \\)
+      # 默认行内定界符是 $ ... $ 和 \\( ... \\)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # KaTeX extension copy_tex
+      # KaTeX 插件 copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      # KaTeX 插件 mhchem
+      mhchem = true
+    # Mapbox GL JS config (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
+    # Mapbox GL JS 配置 (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
+    [params.page.mapbox]
+      # access token of Mapbox GL JS
+      # Mapbox GL JS 的 access token
+      accessToken = "pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ"
+      # style for the light theme
+      # 浅色主题的地图样式
+      lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
+      # style for the dark theme
+      # 深色主题的地图样式
+      darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
+      # whether to add NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
+      # 是否添加 NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
+      navigation = true
+      # whether to add GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
+      # 是否添加 GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
+      geolocate = true
+      # whether to add ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
+      # 是否添加 ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
+      scale = true
+      # whether to add FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
+      # 是否添加 FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
+      fullscreen = true
+    # Social share links in post page
+    # 文章页面的分享信息设置
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+      Linkedin = false
+      Whatsapp = false
+      Pinterest = false
+      Tumblr = false
+      HackerNews = true
+      Reddit = false
+      VK = false
+      Buffer = false
+      Xing = false
+      Line = true
+      Instapaper = false
+      Pocket = false
+      Digg = false
+      Stumbleupon = false
+      Flipboard = false
+      Weibo = true
+      Renren = false
+      Myspace = false
+      Blogger = false
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = false
+      Trello = false
+      Mix = false
+    # Comment config
+    # 评论系统设置
+    [params.page.comment]
+      enable = true
+      # Artalk comment config (https://artalk.js.org/) since v0.2.13
+      # Artalk 评论系统设置 (https://artalk.js.org/) since v0.2.13
+      [params.page.comment.artalk]
+        enable = false
+        server = "https://yourdomain/api/"
+        site = "默认站点"
+        placeholder = ""
+        noComment = ""
+        sendBtn = ""
+        editorTravel = true
+        flatMode = 'auto'
+        maxNesting = 3
+        # It take effect when `params.page.lightgallery` is enabled
+        # 当 `params.page.lightgallery` 启用时生效
+        lightgallery = false
+      # Disqus comment config (https://disqus.com/)
+      # Disqus 评论系统设置 (https://disqus.com/)
+      [params.page.comment.disqus]
+        enable = true
+        # Disqus shortname to use Disqus in posts
+        # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
+        shortname = "fireship"
+      # Gitalk comment config (https://github.com/gitalk/gitalk)
+      # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
+      [params.page.comment.gitalk]
+        enable = false
+        owner = ""
+        repo = ""
+        clientId = ""
+        clientSecret = ""
+      # Valine comment config (https://github.com/xCss/Valine)
+      # Valine 评论系统设置 (https://github.com/xCss/Valine)
+      [params.page.comment.valine]
+        enable = false
+        appId = ""
+        appKey = ""
+        placeholder = ""
+        avatar = "mp"
+        meta= ""
+        pageSize = 10
+        lang = ""
+        visitor = true
+        recordIP = true
+        highlight = true
+        enableQQ = false
+        serverURLs = ""
+        # emoji data file name, default is "google.yml"
+        # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
+        # located in "themes/FixIt/assets/data/emoji/" directory
+        # you can store your own data files in the same path under your project:
+        # "assets/data/emoji/"
+        # emoji 数据文件名称, 默认是 "google.yml"
+        # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
+        # 位于 "themes/FixIt/assets/data/emoji/" 目录
+        # 可以在你的项目下相同路径存放你自己的数据文件:
+        # "assets/data/emoji/"
+        emoji = ""
+        commentCount = true # since v0.2.13
+      # Waline comment config (https://waline.js.org) since v0.2.13
+      # Waline 评论系统设置 (https://waline.js.org) since v0.2.13
+      [params.page.comment.waline]
+        enable = false
+        serverURL = ""
+        visitor = false
+        emoji = ['https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo']
+        meta = ['nick', 'mail', 'link']
+        requiredMeta = []
+        login = 'enable'
+        wordLimit = 0
+        pageSize = 10
+        uploadImage = false
+        highlight = true
+        mathTagSupport = false
+        commentCount = false
+      # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
+      # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
+      [params.page.comment.facebook]
+        enable = false
+        width = "100%"
+        numPosts = 10
+        appId = ""
+        languageCode = ""
+      # Telegram comments config (https://comments.app/)
+      # Telegram 评论系统设置 (https://comments.app/)
+      [params.page.comment.telegram]
+        enable = false
+        siteID = ""
+        limit = 5
+        height = ""
+        color = ""
+        colorful = true
+        dislikes = false
+        outlined = false
+      # Commento comment config (https://commento.io/)
+      # Commento 评论系统设置 (https://commento.io/)
+      [params.page.comment.commento]
+        enable = false
+      # Utterances comment config (https://utteranc.es/)
+      # Utterances 评论系统设置 (https://utteranc.es/)
+      [params.page.comment.utterances]
+        enable = false
+        # owner/repo
+        repo = ""
+        issueTerm = "pathname"
+        label = ""
+        lightTheme = "github-light"
+        darkTheme = "github-dark"
+      # Twikoo comment config (https://twikoo.js.org/) since v0.2.13
+      # Twikoo 评论系统设置 (https://twikoo.js.org/) since v0.2.13
+      [params.page.comment.twikoo]
+        enable = false
+        envId = ""
+        region = ""
+        path = ""
+        visitor = true
+        commentCount = true
+        # It take effect when `params.page.lightgallery` is enabled
+        # 当 `params.page.lightgallery` 启用时生效
+        lightgallery = false
+    # Third-party library config
+    # 第三方库配置
+    [params.page.library]
+      [params.page.library.css]
+        # someCSS = "some.css"
+        # located in "assets/" 位于 "assets/"
+        # Or 或者
+        # someCSS = "https://cdn.example.com/some.css"
+      [params.page.library.js]
+        # someJavascript = "some.js"
+        # located in "assets/" 位于 "assets/"
+        # Or 或者
+        # someJavascript = "https://cdn.example.com/some.js"
+    # Page SEO config
+    # 页面 SEO 配置
+    [params.page.seo]
+      # image URL
+      # 图片 URL
+      images = []
+      # Publisher info
+      # 出版者信息
+      [params.page.seo.publisher]
+        name = "Lruihao"
+        logoUrl = "/images/avatar.png"
+
+  # TypeIt config
+  # TypeIt 配置
+  [params.typeit]
+    # typing speed between each step (measured in milliseconds)
+    # 每一步的打字速度 (单位是毫秒)
+    speed = 100
+    # blinking speed of the cursor (measured in milliseconds)
+    # 光标的闪烁速度 (单位是毫秒)
+    cursorSpeed = 1000
+    # character used for the cursor (HTML format is supported)
+    # 光标的字符 (支持 HTML 格式)
+    cursorChar = "|"
+    # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
+    # 打字结束之后光标的持续时间 (单位是毫秒, "-1" 代表无限大)
+    duration = -1
+
+  # PanguJS config since v0.2.12
+  # 盘古之白配置 since v0.2.12
+  [params.pangu]
+    # For Chinese writing
+    # 适用于中文写作用户
+    enable = false
+
+  # Watermark config since v0.2.12
+  # Detail config see https://github.com/Lruihao/watermark#readme
+  # 水印配置 since v0.2.12
+  # 详细参数见 https://github.com/Lruihao/watermark#readme
+  [params.watermark]
+    enable = true
+    # watermark's text (HTML format is supported)
+    # 水印内容 (允许 HTML 格式)
+    content = '<img class="fixit-icon" src="/images/fixit.svg" alt="FixIt logo" /> FixIt Theme'
+    # watermark's transparency
+    # 水印透明度
+    opacity = 0.02
+    # parent of watermark's container
+    # 水印父节点
+    appendTo = '.wrapper>main'
+    # watermark's width. unit: px
+    # 单水印宽度 单位：px
+    width = 150
+    # watermark's height. unit: px
+    # 单水印高度 单位：px
+    height = 21
+    # row spacing of watermarks. unit: px
+    # 水印行间距 单位：px
+    rowSpacing = 60
+    # col spacing of watermarks. unit: px
+    # 水印列间距 单位：px
+    colSpacing = 30
+    # watermark's tangent angle. unit: deg
+    # 水印旋转角度 单位：deg
+    rotate = 15
+    # watermark's fontSize. unit: rem
+    # 水印字体大小，单位：rem
+    fontSize = 0.85
+    # watermark's fontFamily
+    # 水印字体
+    fontFamily = 'inherit'
+
+  # Busuanzi count since v0.2.12
+  # 不蒜子统计 since v0.2.12
+  [params.ibruce]
+    enable = true
+    # Enable in post meta
+    # 在文章中开启
+    enablePost = false
+    # Site creation time
+    # 网站创立时间
+    siteTime = '2019-02-03T19:30:34+08:00'
+  
+  # Site verification code for Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
+  # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
+  [params.verification]
+    google = ""
+    bing = ""
+    yandex = ""
+    pinterest = ""
+    baidu = ""
+    so = ""
+    sogou = ""
+
+  # Site SEO config
+  # 网站 SEO 配置
+  [params.seo]
+    # image URL
+    # 图片 URL
+    image = "/images/Apple-Devices-Preview.png"
+    # thumbnail URL
+    # 缩略图 URL
+    thumbnailUrl = "/images/screenshot.png"
+
+  # Analytics config
+  # 网站分析配置
+  [params.analytics]
+    enable = false
+    # Google Analytics
+    [params.analytics.google]
+      id = ""
+      # whether to anonymize IP
+      # 是否匿名化用户 IP
+      anonymizeIP = true
+    # Fathom Analytics
+    [params.analytics.fathom]
+      id = ""
+      # server url for your tracker if you're self hosting
+      # 自行托管追踪器时的主机路径
+      server = ""
+
+  # Cookie consent config
+  # Cookie 许可配置
+  [params.cookieconsent]
+    enable = true
+    # text strings used for Cookie consent banner
+    # 用于 Cookie 许可横幅的文本字符串
+    [params.cookieconsent.content]
+      message = ""
+      dismiss = ""
+      link = ""
+
+  # CDN config for third-party library files
+  # 第三方库文件的 CDN 设置
+  [params.cdn]
+    # CDN data file name, disabled by default
+    # ("jsdelivr.yml")
+    # located in "themes/FixIt/assets/data/cdn/" directory
+    # you can store your own data files in the same path under your project:
+    # "assets/data/cdn/"
+    # CDN 数据文件名称, 默认不启用
+    # ("jsdelivr.yml")
+    # 位于 "themes/FixIt/assets/data/cdn/" 目录
+    # 可以在你的项目下相同路径存放你自己的数据文件:
+    # "assets/data/cdn/"
+    # data = "jsdelivr.yml"
+
+  # Compatibility config
+  # 兼容性设置
+  [params.compatibility]
+    # whether to use Polyfill.io to be compatible with older browsers
+    # 是否使用 Polyfill.io 来兼容旧式浏览器
+    polyfill = false
+    # whether to use object-fit-images to be compatible with older browsers
+    # 是否使用 object-fit-images 来兼容旧式浏览器
+    objectFit = false
+
+  # Custom JS at last. since v0.2.12
+  # "_custom.js" located in "themes/FixIt/assets/js/"
+  # you can store your custom JS file in the same path under your project:
+  # "assets/js/_custom.js"
+  # 页面最后添加自定义 JS since v0.2.12
+  # "_custom.js" 位于 "themes/FixIt/assets/js" 目录
+  # 可以在你的项目下相同路径存放你自己的自定义 JS 文件:
+  # "assets/js/_custom.js"
+  [params.customJS]
+    enable = true
+
+
 
 [menu]
   [[menu.main]]
