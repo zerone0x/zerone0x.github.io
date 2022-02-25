@@ -3,21 +3,6 @@ title: tryhackme
 date: 2021-12-09
 tag: ["hack","ing","code","learn"]
 ---
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [为什么学hack](#为什么学hack)
-- [目标](#目标)
-- [How to](#how-to)
-  - [如何记笔记](#如何记笔记)
-  - [如何提高效率](#如何提高效率)
-- [入门科普的ctf全面的知识link](#入门科普的ctf全面的知识link)
-  - [TOOLS](#tools)
-  - [附](#附)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 #### 为什么学hack
 
 提高检索信息速度和定位并解决问题的能力。hack是一个对计算机知识/工具的爬虫。

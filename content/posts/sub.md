@@ -3,21 +3,6 @@ title: 减法
 date: 2021-09-27
 tag: "log"
 ---
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Trip](#trip)
-- [Game](#game)
-- [Personal Things](#personal-things)
-- [随心做(放弃或做不确定)](#随心做放弃或做不确定)
-- [Tool](#tool)
-- [Write](#write)
-- [Feelings](#feelings)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
 inbox很多todo，攒了很久。仔细想想，也没有几件是非做不可的。写的东西平台分散，整合时，发现也没写多少(没多少有用的)
 ### Trip
 1. 登山杖。本地买最好，拿着方便。(大体型号已了解)

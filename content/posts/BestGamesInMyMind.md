@@ -3,19 +3,6 @@ title: Game I love
 date: 2021-12-29 22:18:35
 tags: ['game','ing']
 ---
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<!-- **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)* -->
-
-- [有趣](#%E6%9C%89%E8%B6%A3)
-- [节奏](#%E8%8A%82%E5%A5%8F)
-- [puzzle](#puzzle)
-- [3d puzzle](#3d-puzzle)
-- [棋类回合制](#%E6%A3%8B%E7%B1%BB%E5%9B%9E%E5%90%88%E5%88%B6)
-- [模拟器游戏](#%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%B8%B8%E6%88%8F)
-- [总结](#%E6%80%BB%E7%BB%93)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 > 大多数游戏都不想打开第二次，以下不是。
 > 有些喜欢玩的目前没发现，希望有人推荐相同类型的游戏。以下可以玩很多遍。
 ---

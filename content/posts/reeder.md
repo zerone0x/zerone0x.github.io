@@ -3,17 +3,6 @@ title: All in reeder
 date: 2021-11-29
 tag: ['tool','blog']
 ---
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [reeder](#reeder)
-- [blog改进](#blog改进)
-- [总结](#总结)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
 ### reeder
 
 把半年内收藏的blog收到reeder里看舒服极了，这让我想起：blog主题是陶醉自己，blog最重要的是文字。

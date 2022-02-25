@@ -3,17 +3,6 @@ title: PlungeIntoMC
 date: 2021-12-31 00:31:20
 tags: ['Minecraft','sandbox','game','ing']
 ---
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [版本](#%E7%89%88%E6%9C%AC)
-- [宣传与找资料](#%E5%AE%A3%E4%BC%A0%E4%B8%8E%E6%89%BE%E8%B5%84%E6%96%99)
-- [上手的兴趣点](#%E4%B8%8A%E6%89%8B%E7%9A%84%E5%85%B4%E8%B6%A3%E7%82%B9)
-- [进一步实践](#%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%AE%9E%E8%B7%B5)
-- [ref](#ref)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 MC是复杂的游戏，在2022年进入我的世界，是一个值得记录的经历。
 
 ### 版本

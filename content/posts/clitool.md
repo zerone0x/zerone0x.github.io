@@ -3,14 +3,6 @@ title: all in terminal
 date: 2021-10-23
 tag: ["code","ing","cli","tool"]
 ---
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [TODO](#todo)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Get used to do everything in CLI and you are gonna be a happy man :)
 
 * [z](https://github.com/agkozak/zsh-z)

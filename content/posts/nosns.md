@@ -3,16 +3,6 @@ title: 论少发动态的必要性
 date: 2022-01-25 22:10:48
 tags: ['feelings','ing']
 ---
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [发**不好好说话动态**的危害性](#%E5%8F%91%E4%B8%8D%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D%E5%8A%A8%E6%80%81%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%80%A7)
-- [看**不好好说话**动态的危害性](#%E7%9C%8B%E4%B8%8D%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D%E5%8A%A8%E6%80%81%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%80%A7)
-- [用sns聊天的危害性](#%E7%94%A8sns%E8%81%8A%E5%A4%A9%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%80%A7)
-- [用戒瘾的方式戒社交软件](#%E7%94%A8%E6%88%92%E7%98%BE%E7%9A%84%E6%96%B9%E5%BC%8F%E6%88%92%E7%A4%BE%E4%BA%A4%E8%BD%AF%E4%BB%B6)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## 发**不好好说话动态**的危害性
 发动态/写blog/弄懂某个问题/搞定某个project。
 
