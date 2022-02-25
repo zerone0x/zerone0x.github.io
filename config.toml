@@ -22,7 +22,7 @@ theme = "FixIt"
     pre = ""
     # 你可以在名称（允许 HTML 格式）之后添加其他信息，例如图标
     post = ""
-    name = "文章"
+    name = "zsh"
     url = "/posts/"
     # 当你将鼠标悬停在此菜单链接上时，将显示的标题
     title = ""
@@ -30,8 +30,8 @@ theme = "FixIt"
   [[menu.main]]
     identifier = "tags"
     pre = ""
-    post = ""
-    name = "标签"
+    post = "."
+    name = ""
     url = "/tags/"
     title = ""
     weight = 2
@@ -39,10 +39,11 @@ theme = "FixIt"
     identifier = "categories"
     pre = ""
     post = ""
-    name = "分类"
+    name = "/"
     url = "/categories/"
     title = ""
     weight = 3
+
 
 # Hugo 解析文档的配置
 [markup]

@@ -1,28 +1,28 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>learn - 标签 - FireShip</title>
-    <link>http://example.org/tags/learn/</link>
+    <link>https://zerone0x.github.io/tags/learn/</link>
     <description>learn - 标签 - FireShip</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 17 Feb 2022 20:33:09 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/learn/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 17 Feb 2022 20:33:09 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/learn/" rel="self" type="application/rss+xml" /><item>
   <title>inboxmaker</title>
-  <link>http://example.org/posts/inboxmaker/</link>
+  <link>https://zerone0x.github.io/posts/inboxmaker/</link>
   <pubDate>Thu, 17 Feb 2022 20:33:09 &#43;0000</pubDate>
-  <author>作者</author>
-  <guid>http://example.org/posts/inboxmaker/</guid>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/inboxmaker/</guid>
   <description><![CDATA[link &ndash; blog or resource &ndash; raindrop read later &ndash; raindrop anki note - issue/logseq]]></description>
 </item><item>
   <title>musicBeginer</title>
-  <link>http://example.org/posts/musicbeginer/</link>
+  <link>https://zerone0x.github.io/posts/musicbeginer/</link>
   <pubDate>Sat, 29 Jan 2022 21:54:30 &#43;0000</pubDate>
-  <author>作者</author>
-  <guid>http://example.org/posts/musicbeginer/</guid>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/musicbeginer/</guid>
   <description><![CDATA[]]></description>
 </item><item>
   <title>Mediterranean</title>
-  <link>http://example.org/posts/mediterranean/</link>
+  <link>https://zerone0x.github.io/posts/mediterranean/</link>
   <pubDate>Fri, 31 Dec 2021 11:07:21 &#43;0000</pubDate>
-  <author>作者</author>
-  <guid>http://example.org/posts/mediterranean/</guid>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/mediterranean/</guid>
   <description><![CDATA[]]></description>
 </item></channel>
 </rss>
