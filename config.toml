@@ -6,7 +6,7 @@ languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "FireShip"
+title = "BackUp"
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "FixIt"
 
@@ -326,7 +326,7 @@ theme = "FixIt"
   [params.pangu]
     # For Chinese writing
     # 适用于中文写作用户
-    enable = false
+    enable = true
 
   # Watermark config since v0.2.12
   # Detail config see https://github.com/Lruihao/watermark#readme

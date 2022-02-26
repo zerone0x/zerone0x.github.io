@@ -11,9 +11,7 @@ license: ""
 weight: 0
 
 tags:
-- draft
 categories:
-- draft
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
