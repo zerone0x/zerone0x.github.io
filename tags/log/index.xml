@@ -1,1 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>log - Tag - BackUp</title><link>https://zerone0x.github.io/tags/log/</link><description>log - Tag - BackUp</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 01 Feb 2022 02:59:19 +0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/log/" rel="self" type="application/rss+xml"/><item><title>Feb22</title><link>https://zerone0x.github.io/posts/feb22/</link><pubDate>Tue, 01 Feb 2022 02:59:19 +0000</pubDate><author>Author</author><guid>https://zerone0x.github.io/posts/feb22/</guid><description>有且只能相信的只有自己，也必须相信自己，利用所能利用的一切，去做事。 需要解决的问题： 找工作 想做的： 移动端使用，了解代理规则 首先更新quanm</description></item><item><title>22Jan</title><link>https://zerone0x.github.io/posts/jan2022/</link><pubDate>Wed, 05 Jan 2022 21:23:49 +0000</pubDate><author>Author</author><guid>https://zerone0x.github.io/posts/jan2022/</guid><description>记录是值得的。 0109 依旧想不通很多事情。 0110 0114凌晨 时间毫无意义。 一天天过的，好像都一样。 又好像不太一样。 0116 timeline 好好说话真的太难了，如果说不好，</description></item><item><title>2021end</title><link>https://zerone0x.github.io/posts/2021end/</link><pubDate>Sun, 26 Dec 2021 22:31:48 +0000</pubDate><author>Author</author><guid>https://zerone0x.github.io/posts/2021end/</guid><description>2021 没啥大改变。丝绸之路，健身，上班，驾照。 2022 没有计划。 写写小计划。 把blog中的#ing写完。 今年多玩几个好游戏，多学点没接触过的东西。 最想</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>log - 标签 - FireShip</title>
+    <link>https://zerone0x.github.io/tags/log/</link>
+    <description>log - 标签 - FireShip</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 26 Dec 2021 22:31:48 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/log/" rel="self" type="application/rss+xml" /><item>
+  <title>2021end</title>
+  <link>https://zerone0x.github.io/posts/2021end/</link>
+  <pubDate>Sun, 26 Dec 2021 22:31:48 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/2021end/</guid>
+  <description><![CDATA[2021 没啥大改变。丝绸之路，健身，上班，驾照。 2022 没有计划。 写写小计划。 把blog中的#ing写完。 今年多玩几个好游戏，多学点没接触过的东西。 最想]]></description>
+</item></channel>
+</rss>

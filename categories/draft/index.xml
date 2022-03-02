@@ -1,1 +1,49 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>draft - Category - BackUp</title><link>https://zerone0x.github.io/categories/draft/</link><description>draft - Category - BackUp</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 25 Feb 2022 12:30:20 +0800</lastBuildDate><atom:link href="https://zerone0x.github.io/categories/draft/" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://zerone0x.github.io/posts/test/</link><pubDate>Fri, 25 Feb 2022 12:30:20 +0800</pubDate><author>Author</author><guid>https://zerone0x.github.io/posts/test/</guid><description></description></item><item><title>决策模型</title><link>https://zerone0x.github.io/posts/choice/</link><pubDate>Thu, 24 Feb 2022 22:25:46 +0800</pubDate><author>Author</author><guid>https://zerone0x.github.io/posts/choice/</guid><description></description></item><item><title>Health</title><link>https://zerone0x.github.io/posts/health/</link><pubDate>Wed, 26 Jan 2022 22:31:27 +0000</pubDate><author>Author</author><guid>https://zerone0x.github.io/posts/health/</guid><description></description></item><item><title>Gitblog</title><link>https://zerone0x.github.io/posts/gitblog/</link><pubDate>Wed, 19 Jan 2022 13:25:56 +0000</pubDate><author>Author</author><guid>https://zerone0x.github.io/posts/gitblog/</guid><description></description></item><item><title>Reblog</title><link>https://zerone0x.github.io/posts/reblog/</link><pubDate>Tue, 14 Dec 2021 11:02:50 +0000</pubDate><author>Author</author><guid>https://zerone0x.github.io/posts/reblog/</guid><description></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>draft - 分类 - FireShip</title>
+    <link>https://zerone0x.github.io/categories/draft/</link>
+    <description>draft - 分类 - FireShip</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 25 Feb 2022 12:30:20 &#43;0800</lastBuildDate><atom:link href="https://zerone0x.github.io/categories/draft/" rel="self" type="application/rss+xml" /><item>
+  <title>Test</title>
+  <link>https://zerone0x.github.io/posts/test/</link>
+  <pubDate>Fri, 25 Feb 2022 12:30:20 &#43;0800</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/test/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>决策模型</title>
+  <link>https://zerone0x.github.io/posts/choice/</link>
+  <pubDate>Thu, 24 Feb 2022 22:25:46 &#43;0800</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/choice/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>学习的阻碍</title>
+  <link>https://zerone0x.github.io/posts/howlearn/</link>
+  <pubDate>Thu, 24 Feb 2022 16:56:08 &#43;0800</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/howlearn/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>Health</title>
+  <link>https://zerone0x.github.io/posts/health/</link>
+  <pubDate>Wed, 26 Jan 2022 22:31:27 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/health/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>Gitblog</title>
+  <link>https://zerone0x.github.io/posts/gitblog/</link>
+  <pubDate>Wed, 19 Jan 2022 13:25:56 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/gitblog/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
+  <title>Reblog</title>
+  <link>https://zerone0x.github.io/posts/reblog/</link>
+  <pubDate>Tue, 14 Dec 2021 11:02:50 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/reblog/</guid>
+  <description><![CDATA[]]></description>
+</item></channel>
+</rss>
