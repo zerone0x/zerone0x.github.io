@@ -1,6 +1,7 @@
 ---
 title: farewell2021
 date: 2021-12-19 00:20:55
+author: "sober"
 draft: true
 ---
 ## body

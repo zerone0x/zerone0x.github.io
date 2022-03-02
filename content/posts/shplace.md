@@ -1,7 +1,11 @@
 ---
 title: History&Buildings in ShangHai
 date: 2021-06-14
-tag: "trip"
+author: "sober"
+tags:
+- shanghai
+categories:
+- trip
 ---
 地方：
 淮海路和黃陂南路路口一帶。 

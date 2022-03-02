@@ -1,7 +1,11 @@
 ---
 title: A path to be a better coder
 date: 2021-11-30
-tag: ["code","ing","v"]
+author: "sober"
+tags:
+- programming
+categories:
+- cs
 ---
 
 ![MrfdzCcxS5X8EAl](https://i.loli.net/2021/12/01/MrfdzCcxS5X8EAl.jpg)

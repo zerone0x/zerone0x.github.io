@@ -3,8 +3,7 @@ title: "me"
 subtitle: ""
 date: 2021-05-07 13:34:50
 draft: false
-author: ""
-authorLink: ""
+author: "sober"
 description: ""
 keywords: ""
 license: ""

@@ -2,36 +2,12 @@
 title: "学习的阻碍"
 subtitle: ""
 date: 2022-02-24T16:56:08+08:00 
+author: "sober"
 draft: false
-author: ""
-authorLink: ""
-description: ""
-keywords: ""
-license: ""
-weight: 0
-
 tags:
+- learn
 categories:
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-summary: ""
-resources:
-- name: featured-image
-  src: featured-image.jpg
-- name: featured-image-preview
-  src: featured-image-preview.jpg
-
-toc:
-  enable: true
-math:
-  enable: false
-lightgallery: false
-seo:
-  images: []
-
-# See details front matter: /theme-documentation-content/#front-matter
+- 疑惑
 ---
 
 <!--more-->

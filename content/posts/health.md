@@ -3,7 +3,7 @@ title: "Health"
 subtitle: ""
 date: 2022-01-26 22:31:27
 draft: false
-author: ""
+author: "sober"
 authorLink: ""
 description: ""
 keywords: ""
@@ -11,9 +11,9 @@ license: ""
 weight: 0
 
 tags:
-- draft
+- fit
 categories:
-- draft
+- sober
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

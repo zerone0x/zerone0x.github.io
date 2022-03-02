@@ -3,7 +3,7 @@ title: "决策模型"
 subtitle: ""
 date: 2022-02-24T22:25:46+08:00 
 draft: false
-author: ""
+author: "sober"
 authorLink: ""
 description: ""
 keywords: ""
@@ -11,9 +11,10 @@ license: ""
 weight: 0
 
 tags:
-- draft
+- 模型
+- 生活
 categories:
-- draft
+- 流星
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

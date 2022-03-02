@@ -1,7 +1,13 @@
 ---
 title: 论少发动态的必要性
 date: 2022-01-25 22:10:48
-tags: ['feelings','ing']
+author: "sober"
+tags:
+- 动态
+- 说话
+- 谬误
+categories:
+- 杂
 ---
 ## 发**不好好说话动态**的危害性
 发动态/写blog/弄懂某个问题/搞定某个project。

@@ -1,7 +1,13 @@
 ---
 title: All in reeder
 date: 2021-11-29
-tag: ['tool','blog']
+author: "sober"
+tags:
+- tool
+- rss
+- reeder
+categories:
+- 解放生产力
 ---
 ### reeder
 

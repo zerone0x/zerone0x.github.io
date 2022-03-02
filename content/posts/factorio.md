@@ -1,7 +1,11 @@
 ---
 title: factorio
 date: 2021-12-26 16:20:26
-tags: ["game","sandbox","factorio"]
+author: "sober"
+tags:
+- factorio
+categories:
+- game
 ---
 About dev and design of factorio.
 ```mermaid

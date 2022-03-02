@@ -1,8 +1,11 @@
 ---
 title: Dec
 date: 2021-12-01
-type: "log" 
-tag: "log"
+author: "sober"
+tags:
+- 2112
+categories:
+- lifelog
 ---
 以天国王朝台词来迎接12月。
 

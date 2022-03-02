@@ -1,7 +1,11 @@
 ---
 title: The House in Fata Morgana
 date: 2021-05-22
-tag: ["game","galgame","review"]
+author: "sober"
+tags:
+- 海市蜃楼之馆
+categories:
+- game
 ---
 先玩的前篇，玩完才知道不是本体。
 

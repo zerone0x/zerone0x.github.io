@@ -1,7 +1,12 @@
 ---
 title: WhyLearnCs61a
 date: 2022-01-04 21:27:19
-tags: ['learn','code']
+author: "sober"
+tags:
+- cs61a
+- sicp
+categories:
+- cs
 ---
 
 有天，翻过去写的todo里有csapp和sicp。玩factorio，高层中包含底层，理解底层后不一定熟练运用高层。不同层相似在解决问题时，对问题的抽象。自底向上的结构是庞大的，走一遍也不理解所有细节。

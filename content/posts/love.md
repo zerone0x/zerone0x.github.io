@@ -1,7 +1,11 @@
 ---
 title: Love
 date: 2022-02-17 19:58:40
-tags: ['feelings','love']
+author: "sober"
+tags:
+- love
+categories:
+- lifelog
 ---
 去年看Star Dust时，意识到Love is no condition.
 

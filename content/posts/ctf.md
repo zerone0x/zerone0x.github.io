@@ -1,7 +1,11 @@
 ---
 title: tryhackme
 date: 2021-12-09
-tag: ["hack","ing","code","learn"]
+author: "sober"
+tags:
+- ctf
+categories:
+- cs
 ---
 #### 为什么学hack
 

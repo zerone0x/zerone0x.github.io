@@ -1,7 +1,11 @@
 ---
 title: Polyhedron
 date: 2021-05-07
-tag: "imagine"
+author: "sober"
+tags:
+- polyhedron
+categories:
+- sober
 ---
 **不同的面 好的 坏的 颜色各异 方向各异**
 *不同的面反弹不同的话语*

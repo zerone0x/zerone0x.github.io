@@ -1,7 +1,12 @@
 ---
 title: Game I love 
 date: 2021-12-29 22:18:35
-tags: ['game','ing']
+author: "sober"
+tags:
+- game
+- list
+categories:
+- game
 ---
 > 大多数游戏都不想打开第二次，以下不是。
 > 有些喜欢玩的目前没发现，希望有人推荐相同类型的游戏。以下可以玩很多遍。

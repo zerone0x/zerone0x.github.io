@@ -1,7 +1,12 @@
 ---
 title: MakeFirstGame
 date: 2021-12-27 00:37:46
-tags: ['game','dev','ing']
+author: "sober"
+tags:
+- mario
+- flash game
+categories:
+- game
 ---
 做游戏是很简单的，对游戏原型来说，最主要的是机制，不是音乐，剧情，美术。
 做第一个游戏很辛苦，它需要大量工作和经历很多失败。

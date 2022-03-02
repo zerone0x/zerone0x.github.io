@@ -1,7 +1,13 @@
 ---
 title: Memory
 date: 2021-05-06
-tag: ["feelings","thoughts"]
+author: "sober"
+tags:
+- memory
+- define
+- lang
+categories:
+- sober
 ---
 >看了自17年在豆瓣写的日记,很多事物的开始都有部分好的，但相对应的负面也在不断长大，就像Adom里的腐蚀度，每次在打败敌人增长经验的同时，腐蚀度也在上升，当腐蚀度上升到一定值，人会变异，到最大值，人会死亡。
   ***

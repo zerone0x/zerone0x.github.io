@@ -1,7 +1,11 @@
 ---
 title: scifictions
 date: 2021-12-21 09:43:20
-tag: ["sci","ReduceCollect"]
+author: "sober"
+tags:
+- scifiction
+categories:
+- book
 ---
 
 分类的话，一是按照作者，一个是按照种类。

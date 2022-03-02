@@ -1,6 +1,11 @@
 ---
 title: 旅行中要解决的问题
 date: 2022-02-17 20:23:11
+author: "sober"
+tags:
+- trip
+categories:
+- trip
 ---
 
 > How to have a better trip in future?

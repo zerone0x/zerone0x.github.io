@@ -1,7 +1,12 @@
 ---
 title: howtomakenotes
 date: 2021-12-14 20:23:54
-tags: ["note","tool"]
+author: "sober"
+tags:
+- tool
+- logseq
+categories:
+- 解放生产力
 ---
 logseq - >
     1. [start](https://discuss.logseq.com/t/three-choices-new-users-need-to-make/3411)

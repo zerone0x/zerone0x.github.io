@@ -1,7 +1,11 @@
 ---
 title: Feb22
 date: 2022-02-01 02:59:19
-tags: ['log']
+author: "sober"
+tags:
+- 2202
+categories:
+- lifelog
 ---
 > 有且只能相信的只有自己，也必须相信自己，利用所能利用的一切，去做事。
 

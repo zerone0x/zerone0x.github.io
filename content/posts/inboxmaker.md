@@ -1,7 +1,11 @@
 ---
 title: inboxmaker
 date: 2022-02-17 20:33:09
-tags: ['learn','tool']
+author: "sober"
+tags:
+- tool
+categories:
+- 解放生产力
 ---
 
 link -- blog or resource -- raindrop

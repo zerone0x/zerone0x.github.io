@@ -1,7 +1,12 @@
 ---
 title: PlungeIntoMC
 date: 2021-12-31 00:31:20
-tags: ['Minecraft','sandbox','game','ing']
+author: "sober"
+tags:
+- game
+- minecraft
+categories:
+- game
 ---
 MC是复杂的游戏，在2022年进入我的世界，是一个值得记录的经历。
 

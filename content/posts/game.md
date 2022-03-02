@@ -1,7 +1,11 @@
 ---
 title: game
 date: 2021-09-27
-tag: ["ing","game"]
+author: "sober"
+tags:
+- game list
+categories:
+- game
 ---
 #### 喜欢的游戏种类：
 ##### 剧情宏大类

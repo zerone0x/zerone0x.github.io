@@ -1,7 +1,11 @@
 ---
 title: story 
 date: 2021-05-08
-tag: "imagine"
+author: "sober"
+tags:
+- flickgame
+categories:
+- draw
 ---
 [tool](https://video-to-markdown.marcomontalbano.com/)
 ![Toilet Skate](https://i.loli.net/2021/05/08/X3ij5I2arvdkN1Z.jpg)

@@ -3,7 +3,7 @@ title: "Gitblog"
 subtitle: ""
 date: 2022-01-19 13:25:56
 draft: false
-author: ""
+author: "sober"
 authorLink: ""
 description: ""
 keywords: ""
@@ -11,9 +11,10 @@ license: ""
 weight: 0
 
 tags:
-- draft
+- github
+- issue
 categories:
-- draft
+- blog
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -45,4 +46,3 @@ TODO
 ---
 * [read note](https://github.com/W1ndl34F/readtrack).
 > issue的平台自由灵活和action合成markdown备份，比笔记软件方便，试用issue写笔记。
-test

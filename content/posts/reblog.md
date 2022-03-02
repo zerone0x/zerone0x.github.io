@@ -3,7 +3,7 @@ title: "Reblog"
 subtitle: ""
 date: 2021-12-14 11:02:50
 draft: false
-author: ""
+author: "sober"
 authorLink: ""
 description: ""
 keywords: ""
@@ -11,9 +11,9 @@ license: ""
 weight: 0
 
 tags:
-- draft
+- blog
 categories:
-- draft
+- blog
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -57,5 +57,5 @@ seo:
 1. [hexo --> hugo](https://liujiacai.net/blog/2020/12/05/hexo-to-hugo/)
    
 ---
-更换框架-->现代化
-tag category link archive comment 目录
+更换框架-->现代化 DONE
+tag category link archive comment 目录 DONE
