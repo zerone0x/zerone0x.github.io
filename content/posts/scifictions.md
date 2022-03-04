@@ -5,7 +5,7 @@ author: "sober"
 tags:
 - scifiction
 categories:
-- book
+- learn
 ---
 
 分类的话，一是按照作者，一个是按照种类。

@@ -6,8 +6,9 @@ author: "sober"
 draft: false
 tags:
 - learn
+- 思考
 categories:
-- 疑惑
+- 流星
 ---
 
 <!--more-->
