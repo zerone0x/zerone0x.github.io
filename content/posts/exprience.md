@@ -1,6 +1,6 @@
 ---
-title: "Exprience"
-subtitle: ""
+title: "敬畏经验"
+subtitle: "经验没想象中那么糟糕"
 date: 2022-03-04T21:19:30+08:00
 draft: false
 author: "sober"
@@ -13,6 +13,7 @@ weight: 0
 
 tags:
 - 经验
+- 思考
 categories:
 - 流星
 
