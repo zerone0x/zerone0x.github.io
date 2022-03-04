@@ -5,7 +5,7 @@ author: "sober"
 tags:
 - flickgame
 categories:
-- draw
+- learn
 ---
 [tool](https://video-to-markdown.marcomontalbano.com/)
 ![Toilet Skate](https://i.loli.net/2021/05/08/X3ij5I2arvdkN1Z.jpg)
