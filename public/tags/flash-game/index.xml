@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>flash game - Tag - BackUp</title>
+    <link>https://zerone0x.github.io/tags/flash-game/</link>
+    <description>flash game - Tag - BackUp</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 27 Dec 2021 00:37:46 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/flash-game/" rel="self" type="application/rss+xml" /><item>
+  <title>MakeFirstGame</title>
+  <link>https://zerone0x.github.io/posts/makefirstgame/</link>
+  <pubDate>Mon, 27 Dec 2021 00:37:46 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/makefirstgame/</guid>
+  <description><![CDATA[做游戏是很简单的，对游戏原型来说，最主要的是机制，不是音乐，剧情，美术。 做第一个游戏很辛苦，它需要大量工作和经历很多失败。 简单的原型，老游戏]]></description>
+</item></channel>
+</rss>

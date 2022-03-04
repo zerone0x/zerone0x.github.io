@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>work - Category - BackUp</title>
+    <link>https://zerone0x.github.io/categories/work/</link>
+    <description>work - Category - BackUp</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 27 Jan 2022 13:04:16 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/categories/work/" rel="self" type="application/rss+xml" /><item>
+  <title>工作</title>
+  <link>https://zerone0x.github.io/posts/%E5%B7%A5%E4%BD%9C/</link>
+  <pubDate>Thu, 27 Jan 2022 13:04:16 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/%E5%B7%A5%E4%BD%9C/</guid>
+  <description><![CDATA[业务]]></description>
+</item><item>
+  <title>离职后</title>
+  <link>https://zerone0x.github.io/posts/quitjob/</link>
+  <pubDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/quitjob/</guid>
+  <description><![CDATA[离职前，想做的事情是浅浅的符号，如果把每个符号，算作离职后选择的小分支，那离职后的大分支势必要付出些什么代价，不然此选择就没有意义。现在的状]]></description>
+</item></channel>
+</rss>

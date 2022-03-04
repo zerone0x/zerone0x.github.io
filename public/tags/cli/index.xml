@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>cli - Tag - BackUp</title>
+    <link>https://zerone0x.github.io/tags/cli/</link>
+    <description>cli - Tag - BackUp</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 21 Feb 2022 17:51:37 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/cli/" rel="self" type="application/rss+xml" /><item>
+  <title>我的工具需求list</title>
+  <link>https://zerone0x.github.io/posts/2202/</link>
+  <pubDate>Mon, 21 Feb 2022 17:51:37 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/2202/</guid>
+  <description><![CDATA[Editor 3 &ndash;&gt; file list + editor + terminal 文件切换 快捷键 分屏 上下左右 Blog 功能性的快和方便,UI的现代化 灵活性和多平台 &ndash;&gt; issue 持续备份 cli alias - git, file, project, tool(tmux) 脚本 得看需求。重复太多 &ndash;]]></description>
+</item><item>
+  <title>all in terminal</title>
+  <link>https://zerone0x.github.io/posts/clitool/</link>
+  <pubDate>Sat, 23 Oct 2021 00:00:00 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/clitool/</guid>
+  <description><![CDATA[Get used to do everything in CLI and you are gonna be a happy man :) z 终端主题 命令 TODO kitty 配置（窗口切换的快捷键，配色 done nvim 插件包（争取替代vscode，vscode查找蛋疼 done 搜索配]]></description>
+</item></channel>
+</rss>

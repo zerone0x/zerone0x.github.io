@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>模型 - Tag - BackUp</title>
+    <link>https://zerone0x.github.io/tags/%E6%A8%A1%E5%9E%8B/</link>
+    <description>模型 - Tag - BackUp</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Feb 2022 22:25:46 &#43;0800</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/%E6%A8%A1%E5%9E%8B/" rel="self" type="application/rss+xml" /><item>
+  <title>决策模型</title>
+  <link>https://zerone0x.github.io/posts/choice/</link>
+  <pubDate>Thu, 24 Feb 2022 22:25:46 &#43;0800</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/choice/</guid>
+  <description><![CDATA[]]></description>
+</item></channel>
+</rss>
