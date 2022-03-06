@@ -25,3 +25,4 @@ How to make notes - >
     1. https://nesslabs.com/dendron-featured-tool
     2. [How to make notes from Quora](https://www.quora.com/What-is-the-best-way-to-take-notes/answer/S%C3%B6nke-Ahrens)
 > Schemas are taxonomies that work over hierarchies. You can write a schema to describe a given hierarchy — projects, meetings, research topics — and attach templates to any node in the hierarchy.
+
