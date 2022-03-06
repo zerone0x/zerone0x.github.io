@@ -10,6 +10,7 @@ title = "BackUp"
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "FixIt"
 
+
 [params]
   # FixIt 主题版本
   version = "0.2.X"
