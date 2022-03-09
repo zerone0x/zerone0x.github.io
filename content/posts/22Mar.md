@@ -61,4 +61,18 @@ seo:
 
 > 千里之行，始于足下。
 
+## 0309
 
+试用typora，不知比vscode好在哪
+
+- 生成toc nope
+
+- 自动保存 yes
+
+- 自动预览 yes
+
+- 快捷键 yes
+
+- 自动分行 yes
+
+  
