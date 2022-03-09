@@ -376,7 +376,26 @@ theme = "FixIt"
     # Site creation time
     # 网站创立时间
     siteTime = '2022-02-25T23:30:34+08:00'
-  
+  [params.search]
+  enable = true
+  # 搜索引擎的类型 ("lunr", "algolia")
+  type = "algolia"
+  # 文章内容最长索引长度
+  contentLength = 4000
+  # 搜索框的占位提示语
+  placeholder = ""
+  # {{< version 0.2.1 >}} 最大结果数目
+  maxResultLength = 10
+  # {{< version 0.2.3 >}} 结果内容片段长度
+  snippetLength = 50
+  # {{< version 0.2.1 >}} 搜索结果中高亮部分的 HTML 标签
+  highlightTag = "em"
+  # {{< version 0.2.4 >}} 是否在搜索索引中使用基于 baseURL 的绝对路径
+  absoluteURL = false
+  [params.search.algolia]
+    index = "fireship"
+    appID = "NSC0M9SBYE"
+    searchKey = "267b388edab77c641038af4c4c6449fb"
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
   [params.verification]

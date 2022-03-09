@@ -53,3 +53,12 @@ seo:
 
 > If you’re underthinking, read.
 
+最近做了什么？
+
+- 骑车
+- 读书
+- 多睡觉，睡好觉
+
+> 千里之行，始于足下。
+
+
