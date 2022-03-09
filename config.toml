@@ -393,7 +393,7 @@ theme = "FixIt"
   # {{< version 0.2.4 >}} 是否在搜索索引中使用基于 baseURL 的绝对路径
   absoluteURL = false
   [params.search.algolia]
-    index = "fireship"
+    index = "timemachines.xyz"
     appID = "NSC0M9SBYE"
     searchKey = "267b388edab77c641038af4c4c6449fb"
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
