@@ -1,13 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="noodp" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-    <title>tryhackme - BackUp</title><meta name="author" content=": ">
-<meta name="description" content="为什么学hack 提高检索信息速度和定位并解决问题的能力。hack是一个对计算机知识/工具的爬虫。 目标 能完成简单的实验，和理解入侵的原理，获得" />
-<meta name="keywords" content="ctf" /><meta itemprop="name" content="tryhackme">
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>tryhackme - BackUp</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="tryhackme">
 <meta itemprop="description" content="为什么学hack 提高检索信息速度和定位并解决问题的能力。hack是一个对计算机知识/工具的爬虫。 目标 能完成简单的实验，和理解入侵的原理，获得"><meta itemprop="datePublished" content="2021-12-09T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2021-12-09T00:00:00+00:00" />
 <meta itemprop="wordCount" content="342">
@@ -21,130 +17,67 @@
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="tryhackme"/>
 <meta name="twitter:description" content="为什么学hack 提高检索信息速度和定位并解决问题的能力。hack是一个对计算机知识/工具的爬虫。 目标 能完成简单的实验，和理解入侵的原理，获得"/>
-<meta name="application-name" content="BackUp">
-<meta name="apple-mobile-web-app-title" content="BackUp"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="canonical" href="https://zerone0x.github.io/posts/ctf/" /><link rel="prev" href="https://zerone0x.github.io/posts/dec/" /><link rel="next" href="https://zerone0x.github.io/posts/blog/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "BlogPosting",
-    "headline": "tryhackme",
-    "inLanguage": "zh-CN",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https:\/\/zerone0x.github.io\/posts\/ctf\/"
-    },"image": ["https:\/\/zerone0x.github.io\/images\/Apple-Devices-Preview.png"],"genre": "posts","keywords": "ctf","wordcount":  342 ,
-    "url": "https:\/\/zerone0x.github.io\/posts\/ctf\/","datePublished": "2021-12-09T00:00:00+00:00","dateModified": "2021-12-09T00:00:00+00:00","publisher": {
-      "@type": "Organization",
-      "name": "Lruihao","logo": "https:\/\/zerone0x.github.io\/images\/avatar.png"},"author": {
-        "@type": "Person",
-        "name": "sober"
-      },"description": ""
-  }
-  </script></head>
-  <body header-desktop="" header-mobile=""><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen" href="https://zerone0x.github.io/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://zerone0x.github.io/css/main.css" />
 
-    <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
-  <div class="header-wrapper">
-    <div class="header-title">
-      <a href="/" title="BackUp"><span class="header-title-text">BackUp</span></a></div>
-    <div class="menu">
-      <div class="menu-inner"><a class="menu-item" href="/posts/"> zsh </a><a class="menu-item" href="/tags/">  .</a><a class="menu-item" href="/categories/"> / </a><a class="menu-item" href="/me/" title="me"> me </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
-            <input type="text" placeholder="Search titles or contents ..." id="search-input-desktop">
-            <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
-              <i class="fas fa-search fa-fw"></i>
-            </a>
-            <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
-              <i class="fas fa-times-circle fa-fw"></i>
-            </a>
-            <span class="search-button search-loading" id="search-loading-desktop">
-              <i class="fas fa-spinner fa-fw fa-spin"></i>
-            </span>
-          </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
-          <i class="fas fa-adjust fa-fw"></i>
-        </a>
-      </div>
-    </div>
-  </div>
-</header><header class="mobile" id="header-mobile">
-  <div class="header-container">
-    <div class="header-wrapper">
-      <div class="header-title">
-        <a href="/" title="BackUp"><span class="header-title-text">BackUp</span></a></div>
-      <div class="menu-toggle" id="menu-toggle-mobile">
-        <span></span><span></span><span></span>
-      </div>
-    </div>
-    <div class="menu" id="menu-mobile"><div class="search-wrapper">
-          <div class="search mobile" id="search-mobile">
-            <input type="text" placeholder="Search titles or contents ..." id="search-input-mobile">
-            <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
-              <i class="fas fa-search fa-fw"></i>
-            </a>
-            <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
-              <i class="fas fa-times-circle fa-fw"></i>
-            </a>
-            <span class="search-button search-loading" id="search-loading-mobile">
-              <i class="fas fa-spinner fa-fw fa-spin"></i>
-            </span>
-          </div>
-          <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
-            Cancel
-          </a>
-        </div><a class="menu-item" href="/posts/" title="">zsh</a><a class="menu-item" href="/tags/" title="">.</a><a class="menu-item" href="/categories/" title="">/</a><a class="menu-item" href="/me/" title="me">me</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
-        <i class="fas fa-adjust fa-fw"></i>
-      </a></div>
-  </div>
-</header>
-<div class="search-dropdown desktop">
-  <div id="search-dropdown-desktop"></div>
+        <link id="dark-scheme" rel="stylesheet" type="text/css" href="https://zerone0x.github.io/css/dark.css" />
+
+	
+		<script src="https://zerone0x.github.io/js/main.js"></script><script src="https://zerone0x.github.io/true"></script>
+</head>
+
+<body>
+	<div class="container wrapper">
+		<div class="header">
+	
+	<h1 class="site-title"><a href="https://zerone0x.github.io/">BackUp</a></h1>
+	<div class="site-description"><nav class="nav social">
+			<ul class="flat"></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/posts/">zsh</a>
+			</li>
+			
+			<li>
+				<a href="/tags/"></a>
+			</li>
+			
+			<li>
+				<a href="/categories/">/</a>
+			</li>
+			
+			<li>
+				<a href="/me/">me</a>
+			</li>
+			
+		</ul>
+	</nav>
 </div>
-<div class="search-dropdown mobile">
-  <div id="search-dropdown-mobile"></div>
-</div>
-<main class="container" page-style="normal"><aside class="toc" id="toc-auto"><h2 class="toc-title">Contents</h2>
-      <div class="toc-content" id="toc-content-auto"></div></aside>
 
-  <aside class="aside-custom">
-    
-  </aside>
 
-  <article class="page single"><h1 class="single-title animated flipInX">tryhackme</h1><div class="post-meta">
-      <div class="post-meta-line"><span class="post-author"><a
-  href="/"
-  
-    title="Author"
-  
-  
-  
-    rel=" author"
-  
-  
-  
-    class=" author"
-  
-  
-><i class="fas fa-user-circle fa-fw"></i>sober</a></span>&nbsp;<span class="post-category">included in <a href="/categories/cs/"><i class="far fa-folder fa-fw"></i>cs</a></span></div>
-      <div class="post-meta-line"><span title=2021-12-09&#32;00:00:00>
-            <i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-12-09" >2021-12-09</time>
-          </span>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;342 words&nbsp;
-        <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;</div>
-    </div><div class="details toc" id="toc-static" kept="false">
-        <div class="details-summary toc-title">
-          <span>Contents</span>
-          <span><i class="details-icon fas fa-angle-right"></i></span>
-        </div>
-        <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#cs253httpswebstanfordeduclasscs253"><a href="https://web.stanford.edu/class/cs253/">cs253</a></a></li>
-  </ul>
-</nav></div>
-      </div><div class="content" id="content"><h4 id="为什么学hack">为什么学hack</h4>
+		<div class="post">
+			<div class="post-header">
+				
+					<div class="meta">
+						<div class="date">
+							<span class="day">09</span>
+							<span class="rest">Dec 2021</span>
+						</div>
+					</div>
+				
+				<div class="matter">
+					<h1 class="title">tryhackme</h1>
+				</div>
+			</div>
+					
+			<div class="markdown">
+				<h4 id="为什么学hack">为什么学hack</h4>
 <p>提高检索信息速度和定位并解决问题的能力。hack是一个对计算机知识/工具的爬虫。</p>
 <h4 id="目标">目标</h4>
 <p>能完成简单的实验，和理解入侵的原理，获得基础的网络及设备知识。</p>
@@ -167,289 +100,63 @@
 </ol>
 <h4 id="入门科普的ctf全面的知识link">入门科普的ctf全面的知识link</h4>
 <ul>
-<li><a
-  href="https://www.ctfhub.com/#/top"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->https://www.ctfhub.com/#/top</a></li>
-<li><a
-  href="https://www.ctftools.com/down/"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->https://www.ctftools.com/down/</a></li>
-<li><a
-  href="https://capturetheflag.withgoogle.com/"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->google ctf</a></li>
+<li><a href="https://www.ctfhub.com/#/top">https://www.ctfhub.com/#/top</a></li>
+<li><a href="https://www.ctftools.com/down/">https://www.ctftools.com/down/</a></li>
+<li><a href="https://capturetheflag.withgoogle.com/">google ctf</a></li>
 </ul>
 <h5 id="tools">TOOLS</h5>
 <ul>
-<li><a
-  href="https://crackstation.net/"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->https://crackstation.net/</a></li>
-<li><a
-  href="https://www.exploit-db.com/"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->https://www.exploit-db.com/</a></li>
-<li><a
-  href="https://webhook.site/#!/d79bf0c9-b458-41b0-91a7-2d09a733afb9"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->https://webhook.site/#!/d79bf0c9-b458-41b0-91a7-2d09a733afb9</a></li>
+<li><a href="https://crackstation.net/">https://crackstation.net/</a></li>
+<li><a href="https://www.exploit-db.com/">https://www.exploit-db.com/</a></li>
+<li><a href="https://webhook.site/#!/d79bf0c9-b458-41b0-91a7-2d09a733afb9">https://webhook.site/#!/d79bf0c9-b458-41b0-91a7-2d09a733afb9</a></li>
 </ul>
 <ul>
-<li><a
-  href="https://www.tunnelsup.com/hash-analyzer/"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->hash analyzer</a></li>
-<li><a
-  href="https://hashes.com/en/tools/hash_identifier"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->https://hashes.com/en/tools/hash_identifier</a></li>
+<li><a href="https://www.tunnelsup.com/hash-analyzer/">hash analyzer</a></li>
+<li><a href="https://hashes.com/en/tools/hash_identifier">https://hashes.com/en/tools/hash_identifier</a></li>
 </ul>
 <blockquote>
 <p>最好的hash identifier是python的hashid</p>
 </blockquote>
 <ul>
-<li><a
-  href="https://hashes.com/en/decrypt/hash"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->https://hashes.com/en/decrypt/hash</a>
-<a
-  href="https://hashcat.net/wiki/doku.php?id=example_hashes"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->hashcat hash type finder</a></li>
+<li><a href="https://hashes.com/en/decrypt/hash">https://hashes.com/en/decrypt/hash</a>
+<a href="https://hashcat.net/wiki/doku.php?id=example_hashes">hashcat hash type finder</a></li>
 </ul>
 <blockquote>
-<p><a
-  href="https://tryhackme.com/resources/blog/free_path"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->Path</a></p>
+<p><a href="https://tryhackme.com/resources/blog/free_path">Path</a></p>
 </blockquote>
 <h5 id="附">附</h5>
 <ul>
-<li><a
-  href="https://adventofcode.com/2021/day/1"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->aoc</a>
+<li><a href="https://adventofcode.com/2021/day/1">aoc</a>
 像玩游戏一样写代码
 这个令我吸引的不是如何写代码去解决，而是如何不写代码去思考最优的解，思考过程本身是值得的。
 后：没想到这么难，做了三天就做不下去了。希望明年能做点。</li>
-<li><a
-  href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/videos"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->stream code</a>
+<li><a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/videos">stream code</a>
 了解有多少还不懂</li>
 </ul>
 <hr>
-<h2 id="cs253httpswebstanfordeduclasscs253"><a
-  href="https://web.stanford.edu/class/cs253/"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->cs253</a></h2>
-<p><a
-  href="https://www.hacksplaining.com/lessons"
-  
-  
-    
-    target="_blank"
-  
-  
-    rel="external nofollow noopener noreffer"
-  
-  
-  
-  
->ctf分类</a></p>
-</div><div class="post-footer" id="post-footer">
-  <div class="post-info">
-    <div class="post-info-line">
-      <div class="post-info-mod">
-        <span title=2021-12-09&#32;00:00:00>Updated on 2021-12-09</span>
-      </div>
-      <div class="post-info-license"><span><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
-    </div>
-    <div class="post-info-line">
-      <div class="post-info-md"></div>
-      <div class="post-info-share">
-        <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://zerone0x.github.io/posts/ctf/" data-title="tryhackme" data-hashtags="ctf"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://zerone0x.github.io/posts/ctf/" data-hashtag="ctf"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Hacker News" data-sharer="hackernews" data-url="https://zerone0x.github.io/posts/ctf/" data-title="tryhackme"><i class="fab fa-hacker-news fa-fw"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="https://zerone0x.github.io/posts/ctf/" data-title="tryhackme"><i data-svg-src="/lib/simple-icons/icons/line.min.svg"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://zerone0x.github.io/posts/ctf/" data-title="tryhackme"><i class="fab fa-weibo fa-fw"></i></a></span>
-      </div>
-    </div>
-  </div>
+<h2 id="cs253httpswebstanfordeduclasscs253"><a href="https://web.stanford.edu/class/cs253/">cs253</a></h2>
+<p><a href="https://www.hacksplaining.com/lessons">ctf分类</a></p>
 
-  <div class="post-info-more">
-    <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/ctf/">ctf</a></section>
-    <section>
-      <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
-    </section>
-  </div>
+			</div>
 
-  <div class="post-nav"><a href="/posts/dec/" class="prev" rel="prev" title="Dec"><i class="fas fa-angle-left fa-fw"></i>Dec</a>
-      <a href="/posts/blog/" class="next" rel="next" title="blog备份很重要">blog备份很重要<i class="fas fa-angle-right fa-fw"></i></a></div>
+			<div class="tags">
+				
+					
+						<ul class="flat">
+							
+							<li><a href="/tags/ctf">ctf</a></li>
+							
+						</ul>
+					
+				
+			</div></div>
+	</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>2022  <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
 </div>
-<div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
-        Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript" rel="external nofollow noopener noreffer">Disqus</a>.
-      </noscript></div></article></main><footer class="footer">
-    <div class="footer-container"><div class="footer-line powered">Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer" title="Hugo 0.91.0">Hugo</a> | Theme - <a href="https://github.com/Lruihao/FixIt" target="_blank" rel="external nofollow noopener noreffer" title="FixIt 0.2.13"><img class="fixit-icon" src="/images/fixit.svg" alt="FixIt logo" /> FixIt</a>
-        </div><div class="footer-line ibruce">
-          <span id="busuanzi_container_site_uv" title=Total&#32;visitors
-            ><i class="far fa-user"></i>
-            <span id="busuanzi_value_site_uv"
-              ><i class="fa fa-spinner fa-spin"></i
-            ></span
-          ></span><span class="site-time footer-divider" title=Site&#32;running&#32;...
-              ><i class="fas fa-heartbeat animate-icon"></i>
-              <span class="run-times">Loading...</span
-            ></span><span id="busuanzi_container_site_pv" class="footer-divider" title=Total&#32;visits
-            ><i class="far fa-eye"></i>
-            <span id="busuanzi_value_site_pv"
-              ><i class="fa fa-spinner fa-spin"></i
-            ></span
-          ></span>
-        </div></div>
-  </footer></div>
 
-    <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
-        <i class="fas fa-arrow-up fa-fw"></i>
-      </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
-        <i class="fas fa-comment fa-fw"></i>
-      </a>
-    </div><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script type="text/javascript" src="https://fireship.disqus.com/embed.js" defer></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js" defer></script><script type="text/javascript" src="/lib/algoliasearch/algoliasearch-lite.umd.min.js" defer></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js" async defer></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js" defer></script><script type="text/javascript" src="/lib/sharer/sharer.min.js" async defer></script><script type="text/javascript" src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script type="text/javascript" src="/lib/pangu/pangu.min.js" defer></script><script type="text/javascript" src="/lib/cell-watermark/watermark.min.js" defer></script><script type="text/javascript" src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async defer></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"enablePWA":null,"enablePangu":true,"ibruce":{"enable":true,"siteTime":"2022-02-25T23:30:34+08:00"},"search":{"algoliaAppID":"NSC0M9SBYE","algoliaIndex":"fireship","algoliaSearchKey":"267b388edab77c641038af4c4c6449fb","highlightTag":"em","maxResultLength":10,"noResultsFound":"No results found","snippetLength":50,"type":"algolia"},"watermark":{"appendto":".wrapper\u003emain","colspacing":30,"content":"\u003cimg class=\"fixit-icon\" src=\"/images/fixit.svg\" alt=\"FixIt logo\" /\u003e FixIt Theme","enable":true,"fontfamily":"inherit","fontsize":0.85,"height":21,"opacity":0.02,"rotate":15,"rowspacing":60,"width":150}};</script><script type="text/javascript" src="/js/theme.min.js" defer></script><script type="text/javascript" src="/js/_custom.min.js" defer></script></body>
+
+</body>
 </html>

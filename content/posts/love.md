@@ -6,6 +6,7 @@ tags:
 - love
 categories:
 - lifelog
+draft: true
 ---
 去年看Star Dust时，意识到Love is no condition.
 
