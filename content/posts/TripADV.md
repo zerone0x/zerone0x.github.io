@@ -6,6 +6,7 @@ tags:
 - trip
 categories:
 - trip
+draft: true
 ---
 
 > How to have a better trip in future?
