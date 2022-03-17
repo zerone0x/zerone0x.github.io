@@ -1,1 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>learn - Tag - BackUp</title><link>https://zerone0x.github.io/tags/learn/</link><description>learn - Tag - BackUp</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Feb 2022 16:56:08 +0800</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/learn/" rel="self" type="application/rss+xml"/><item><title>学习的阻碍</title><link>https://zerone0x.github.io/posts/howlearn/</link><pubDate>Thu, 24 Feb 2022 16:56:08 +0800</pubDate><author>sober</author><guid>https://zerone0x.github.io/posts/howlearn/</guid><description></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>learn - Tag - BackUp</title>
+    <link>https://zerone0x.github.io/tags/learn/</link>
+    <description>learn - Tag - BackUp</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Feb 2022 16:56:08 &#43;0800</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/learn/" rel="self" type="application/rss+xml" /><item>
+  <title>学习的阻碍</title>
+  <link>https://zerone0x.github.io/posts/howlearn/</link>
+  <pubDate>Thu, 24 Feb 2022 16:56:08 &#43;0800</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/howlearn/</guid>
+  <description><![CDATA[]]></description>
+</item></channel>
+</rss>
