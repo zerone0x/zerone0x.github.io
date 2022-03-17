@@ -6,6 +6,7 @@ tags:
 - 2202
 categories:
 - lifelog
+draft: true
 ---
 > 有且只能相信的只有自己，也必须相信自己，利用所能利用的一切，去做事。
 
