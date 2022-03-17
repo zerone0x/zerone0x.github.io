@@ -1,1 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>puzzle game - Tag - BackUp</title><link>https://zerone0x.github.io/tags/puzzle-game/</link><description>puzzle game - Tag - BackUp</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/puzzle-game/" rel="self" type="application/rss+xml"/><item><title>This means nothing for 23</title><link>https://zerone0x.github.io/posts/1123/</link><pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate><author>sober</author><guid>https://zerone0x.github.io/posts/1123/</guid><description>最近玩factorio，感受到些许沙盒游戏的乐趣，类似软件工程设计，操作系统。越高层越需要抽象，也就是sicp，自底向上也就是csapp的体</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>puzzle game - Tag - BackUp</title>
+    <link>https://zerone0x.github.io/tags/puzzle-game/</link>
+    <description>puzzle game - Tag - BackUp</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/puzzle-game/" rel="self" type="application/rss+xml" /><item>
+  <title>This means nothing for 23</title>
+  <link>https://zerone0x.github.io/posts/1123/</link>
+  <pubDate>Tue, 23 Nov 2021 00:00:00 &#43;0000</pubDate>
+  <author>sober</author>
+  <guid>https://zerone0x.github.io/posts/1123/</guid>
+  <description><![CDATA[最近玩factorio，感受到些许沙盒游戏的乐趣，类似软件工程设计，操作系统。越高层越需要抽象，也就是sicp，自底向上也就是csapp的体]]></description>
+</item></channel>
+</rss>
