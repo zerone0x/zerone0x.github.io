@@ -3,7 +3,7 @@ title: "学习的阻碍"
 subtitle: ""
 date: 2022-02-24T16:56:08+08:00 
 author: "sober"
-draft: false
+draft: true
 tags:
 - learn
 - 思考
