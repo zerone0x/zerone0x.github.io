@@ -59,3 +59,7 @@ seo:
 ---
 更换框架-->现代化 DONE
 tag category link archive comment 目录 DONE
+
+---
+
+更换后，才发现，我需要的比想象中还要少。减少减少减少。
