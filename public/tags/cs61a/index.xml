@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>cs61a - Tag - BackUp</title>
+    <title>cs61a - Tag - fireship</title>
     <link>https://zerone0x.github.io/tags/cs61a/</link>
-    <description>cs61a - Tag - BackUp</description>
+    <description>cs61a - Tag - fireship</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 04 Jan 2022 21:27:19 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/cs61a/" rel="self" type="application/rss+xml" /><item>
   <title>WhyLearnCs61a</title>
   <link>https://zerone0x.github.io/posts/whylearncs61a/</link>

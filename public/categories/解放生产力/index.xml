@@ -1,30 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>解放生产力 - Category - BackUp</title>
+    <title>解放生产力 - Category - fireship</title>
     <link>https://zerone0x.github.io/categories/%E8%A7%A3%E6%94%BE%E7%94%9F%E4%BA%A7%E5%8A%9B/</link>
-    <description>解放生产力 - Category - BackUp</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 23 Feb 2022 23:46:31 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/categories/%E8%A7%A3%E6%94%BE%E7%94%9F%E4%BA%A7%E5%8A%9B/" rel="self" type="application/rss+xml" /><item>
-  <title>不用英汉翻译来阅读</title>
-  <link>https://zerone0x.github.io/posts/%E4%B8%8D%E7%94%A8%E8%8B%B1%E6%B1%89%E7%BF%BB%E8%AF%91%E6%9D%A5%E9%98%85%E8%AF%BB/</link>
-  <pubDate>Wed, 23 Feb 2022 23:46:31 &#43;0000</pubDate>
-  <author>sober</author>
-  <guid>https://zerone0x.github.io/posts/%E4%B8%8D%E7%94%A8%E8%8B%B1%E6%B1%89%E7%BF%BB%E8%AF%91%E6%9D%A5%E9%98%85%E8%AF%BB/</guid>
-  <description><![CDATA[停止使用网页翻译，停止使用英汉辞典，停止使用划词翻译。 如果查词，请英英。 如果看英文网页，请慢慢看。 为了下一次人工翻译速度更快, 请建立新的英英]]></description>
-</item><item>
-  <title>我的工具需求list</title>
-  <link>https://zerone0x.github.io/posts/2202/</link>
-  <pubDate>Mon, 21 Feb 2022 17:51:37 &#43;0000</pubDate>
-  <author>sober</author>
-  <guid>https://zerone0x.github.io/posts/2202/</guid>
-  <description><![CDATA[Editor 3 &ndash;&gt; file list + editor + terminal 文件切换 快捷键 分屏 上下左右 Blog 功能性的快和方便,UI的现代化 灵活性和多平台 &ndash;&gt; issue 持续备份 cli alias - git, file, project, tool(tmux) 脚本 得看需求。重复太多 &ndash;]]></description>
-</item><item>
-  <title>inboxmaker</title>
-  <link>https://zerone0x.github.io/posts/inboxmaker/</link>
-  <pubDate>Thu, 17 Feb 2022 20:33:09 &#43;0000</pubDate>
-  <author>sober</author>
-  <guid>https://zerone0x.github.io/posts/inboxmaker/</guid>
-  <description><![CDATA[link &ndash; blog or resource &ndash; raindrop read later &ndash; raindrop anki note - issue/logseq]]></description>
-</item><item>
+    <description>解放生产力 - Category - fireship</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 14 Dec 2021 20:23:54 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/categories/%E8%A7%A3%E6%94%BE%E7%94%9F%E4%BA%A7%E5%8A%9B/" rel="self" type="application/rss+xml" /><item>
   <title>howtomakenotes</title>
   <link>https://zerone0x.github.io/posts/howtomakenotes/</link>
   <pubDate>Tue, 14 Dec 2021 20:23:54 &#43;0000</pubDate>

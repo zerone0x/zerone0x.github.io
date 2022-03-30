@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>minecraft - Tag - BackUp</title>
+    <title>minecraft - Tag - fireship</title>
     <link>https://zerone0x.github.io/tags/minecraft/</link>
-    <description>minecraft - Tag - BackUp</description>
+    <description>minecraft - Tag - fireship</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 31 Dec 2021 00:31:20 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/minecraft/" rel="self" type="application/rss+xml" /><item>
   <title>PlungeIntoMC</title>
   <link>https://zerone0x.github.io/posts/plungeintomc/</link>
@@ -10,12 +10,5 @@
   <author>sober</author>
   <guid>https://zerone0x.github.io/posts/plungeintomc/</guid>
   <description><![CDATA[MC是复杂的游戏，在2022年进入我的世界，是一个值得记录的经历。 版本 mc有两个版本 java版本的mojang，在所有设备都可以。 microsoft stor]]></description>
-</item><item>
-  <title>2021end</title>
-  <link>https://zerone0x.github.io/posts/2021end/</link>
-  <pubDate>Sun, 26 Dec 2021 22:31:48 &#43;0000</pubDate>
-  <author>sober</author>
-  <guid>https://zerone0x.github.io/posts/2021end/</guid>
-  <description><![CDATA[2021 没啥大改变。丝绸之路，健身，上班，驾照。 2022 没有计划。 写写小计划。 把blog中的#ing写完。 今年多玩几个好游戏，多学点没接触过的东西。 最想]]></description>
 </item></channel>
 </rss>

@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>mario - Tag - BackUp</title>
+    <title>mario - Tag - fireship</title>
     <link>https://zerone0x.github.io/tags/mario/</link>
-    <description>mario - Tag - BackUp</description>
+    <description>mario - Tag - fireship</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 27 Dec 2021 00:37:46 &#43;0000</lastBuildDate><atom:link href="https://zerone0x.github.io/tags/mario/" rel="self" type="application/rss+xml" /><item>
   <title>MakeFirstGame</title>
   <link>https://zerone0x.github.io/posts/makefirstgame/</link>
