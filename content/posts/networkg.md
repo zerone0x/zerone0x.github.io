@@ -12,9 +12,9 @@ comment: false
 weight: 0
 
 tags:
-- draft
+- life
 categories:
-- draft
+- life
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
