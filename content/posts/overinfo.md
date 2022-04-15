@@ -8,13 +8,13 @@ authorLink: ""
 description: ""
 keywords: ""
 license: ""
-comment: false
+comment: true
 weight: 0
 
 tags:
-- draft
+- thoughts
 categories:
-- draft
+- write
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
