@@ -1,0 +1,77 @@
+---
+title: "overinfo"
+subtitle: ""
+date: 2022-04-12T23:40:18+08:00
+draft: false
+author: ""
+authorLink: ""
+description: ""
+keywords: ""
+license: ""
+comment: false
+weight: 0
+
+tags:
+- draft
+categories:
+- draft
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+
+summary: ""
+resources:
+- name: featured-image
+  src: featured-image.jpg
+- name: featured-image-preview
+  src: featured-image-preview.jpg
+
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
+seo:
+  images: []
+
+# See details front matter: /theme-documentation-content/#front-matter
+---
+
+<!--more-->
+
+# 收集信息
+
+收集信息是做事情的第一步。
+
+## 收集什么信息
+
+1. 失败的例子
+- 防止刚开始困难太多造成沮丧，对事情抱有部分悲观的态度总是好的
+
+2. 成功的例子
+- 将无效信息过滤，找成功例子的交集-->得到最靠谱的信息
+
+3. 在学习过程中，作为一个初学者，对信息消化的过程，可意会不可言传。
+
+# 确定第一个目标
+
+目标不能太远，大概是自己能够相信可以达到的。
+
+比如，frontend入门。搞个网站的prototype，而不该沉浸在ts，esm，es6，react，vite等细节里，做就好了。
+
+# 确定一个计划
+
+这一步建立在前面步骤的基础上。有些难。
+
+> 从时间和事情上来说，1个月和事情的分解。
+
+## 事情分解
+
+1. 骨架。
+- 每个步骤的定义，原因/作用，怎么用。
+
+2. 了解每部分重要的细节。
+- 用的最多的/出现最频繁的
+
+3. 重复重复重点。
+- 从创造者和发现者的角度思考功能的意义，是否能做出新的扩展。
