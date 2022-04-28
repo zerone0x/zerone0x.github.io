@@ -1,8 +1,6 @@
 ---
 title: "个人状态和环境"
-subtitle: ""
 date: 2022-04-23T19:03:59+08:00
-draft: false
 comment: true
 tags:
 - draft
