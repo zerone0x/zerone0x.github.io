@@ -220,3 +220,5 @@ AB[砂岩] --> AA;
 AB --> AC[石矿];
 ```
 
+
+[ref](https://github.com/W1ndl34F/factorio/blob/main/nullius/nullius0423.md)
