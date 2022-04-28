@@ -4,35 +4,14 @@ subtitle: ""
 date: 2022-04-05T13:37:31+08:00
 draft: false
 author: ""
-authorLink: ""
-description: ""
-keywords: ""
-license: ""
-comment: false
-weight: 0
-
+comment: true
 tags:
 - life
 categories:
 - life
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-summary: ""
-resources:
-- name: featured-image
-  src: featured-image.jpg
-- name: featured-image-preview
-  src: featured-image-preview.jpg
-
 toc:
   enable: true
-math:
-  enable: false
-lightgallery: false
-seo:
-  images: []
+
 
 # See details front matter: /theme-documentation-content/#front-matter
 ---

@@ -1,6 +1,5 @@
 ---
 title: "敬畏经验"
-subtitle: "经验没想象中那么糟糕"
 date: 2022-03-04T21:19:30+08:00
 draft: true
 author: "sober"
