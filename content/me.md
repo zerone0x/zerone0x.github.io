@@ -44,5 +44,5 @@ seo:
 
 > If you want to be an artist, you must bear in mind that you must broaden your mind so that your heart can see everything and all colors.
 
-[recurse for ∞](https://timemachines.xyz/me/)
-[search in tm](https://www.google.com/search?q=site:https://timemachines.xyz/)
+[recurse for ∞](https://tetris.one/me/)
+[search in tm](https://www.google.com/search?q=site:https://tetris.one/)
