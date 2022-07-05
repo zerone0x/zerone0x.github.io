@@ -56,3 +56,7 @@ seo:
 为了减缓焦虑: 1. 写东西 2. 找新的兴趣爱好 3. 坚持做点proj 4. 学拳击
 
 我立个flag，为了自救，每天更新这篇文，直到心情变好。
+
+- Meditation - not now - Not deep into mind 
+- Break goal into small processes - fill the schedule with processes and make them into habits
+- Piano - listen, finger - key, read the paper - 3months
