@@ -60,4 +60,4 @@ seo:
 - Meditation - not now - Not deep into mind 
 - Break goal into small processes - fill the schedule with processes and make them into habits
 - Piano - listen, finger - key, read the paper - 3months
-- Relax - Focus on your breathing and 
+- Relax - Focus on your breathing 
