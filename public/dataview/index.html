@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>dataview function in ob &middot; Craftship</title>
+    <meta name="description" content="tool" />
+    <link rel="shortcut icon"  href="https://craftship.xyz/hexcell.png" />
+    <link rel="alternate" type="application/atom+xml" title="RSS" href="https://craftship.xyz/atom.xml">
+
+    <style>html,body{background:#fffaf7;color:#2d2d2d;font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}a,a:visited{color:darkred;text-decoration:none}a:hover{text-decoration:underline}main{margin:auto;max-width:38rem;padding:.8rem}pre{background:#fff;overflow:scroll;padding:1rem}td{border:1px solid #2d2d2d;padding:10px}img{height:auto;max-width:100%}.homepage-list{list-style:none;padding:1rem 0}.homepage-list li{align-items:center;display:flex;flex-wrap:wrap;justify-content:space-between;margin-bottom:10px}@media (max-width: 38rem){.homepage-list li a{width:100%}}</style>
+
+    <meta property="og:site_name" content="Craftship">
+      
+      <meta property="og:title" content="dataview function in ob">
+      <meta property="og:description" content="tool">
+      <meta property="og:url" content="https://craftship.xyz/dataview/">
+      <meta property="og:image" content="https://craftship.xyz/hexcell.png">
+
+      <meta property="og:type" content="article" />
+        <meta property="article:published_time" content="2023-07-17T00:00:00+00:00" />
+
+      
+      
+    
+
+  </head>
+  
+
+  <body>
+    <main id="main" role="main">
+
+      
+      <header role="banner">
+        <h3 style="margin-top:0;">
+          <a href="https://craftship.xyz" title="Home">Craftship</a>
+          <br /><small>Record the meaningful time</small>
+        </h3>
+      </header>
+      <hr />
+      
+
+      
+<article>
+  <h1>dataview function in ob</h1>
+  
+  <p style="font-size:90%;">Posted on <time datetime="2023-07-17T00:00:00+00:00">July 17, 2023</time></p>
+
+  <p>
+    <ul>
+      <li><a href="https://craftship.xyz/dataview/#preface">preface</a>
+      </li>
+    
+      <li><a href="https://craftship.xyz/dataview/#how-to-use-dataview">how to use dataview</a>
+      
+        <ul>
+          <li><a href="https://craftship.xyz/dataview/#how-to-automate-creating-the-metadata">how to automate creating the metadata</a></li>
+        </ul>
+      </li>
+    
+      <li><a href="https://craftship.xyz/dataview/#conclusion">conclusion</a>
+      </li>
+    </ul>
+  </p>
+
+
+  <h2 id="preface">preface</h2>
+<p>dataview顾名思义，就是可视化数据，将ob类比成数据库，dataview就是个索引query工具。</p>
+<h2 id="how-to-use-dataview">how to use dataview</h2>
+<p>dataview是通过key来索引的，key(metadata)对应文件的tag，category，filepath...</p>
+<!-- ![](https://i.imgur.com/MFq7L6Y.png) -->
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>tags: [tracker,daily]
+</span><span>type: personal
+</span><span>Date:
+</span><span>alias: 18th July 2023 Tue
+</span><span>status: [done]
+</span></code></pre>
+<h3 id="how-to-automate-creating-the-metadata">how to automate creating the metadata</h3>
+<p>建立一个包含metadata的template.</p>
+<p>比如，想要query出所有game相关的文档，那就以后每个gamefile都用game相关的template（包含game的metadata）
+那就会可视化的display所有的game file</p>
+<pre data-lang="dataview" style="background-color:#2b303b;color:#c0c5ce;" class="language-dataview "><code class="language-dataview" data-lang="dataview"><span>TABLE file.link as &quot;File&quot;, from as &quot;Created&quot;
+</span><span>FROM #game
+</span><span>SORT file.name asc 
+</span></code></pre>
+<p><img src="https://i.imgur.com/iO9v8CJ.png" alt="" /></p>
+<blockquote>
+<p>see more detail: <a href="https://blacksmithgu.github.io/obsidian-dataview/annotation/add-metadata/">ob doc</a></p>
+</blockquote>
+<h2 id="conclusion">conclusion</h2>
+<p>dataview让你把ob作为database来crud，岂不美哉？</p>
+
+</article>
+
+
+      
+      <footer role="contentinfo">
+        <hr />
+        
+        
+        <small>Built with <a href="https://www.getzola.org/">Zola</a>.<br />
+          
+          
+        </small>
+        
+      </footer>
+      
+
+    </main>
+    
+    
+  </body>
+</html>
+
