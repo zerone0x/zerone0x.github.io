@@ -1,16 +1,8 @@
 +++
-title = "About This Theme"
+title = "Record everything"
 path = "about"
 +++
 
-An insanely fast and performance-based Zola theme, ported from [Light Speed Jekyll](https://github.com/bradleytaunt/lightspeed).
+Everything needs to be recorded here.
 
-Some fun facts about the theme:
-
-* Perfect score on Google's Lighthouse audit
-* Only ~700 bytes of CSS
-* No JavaScript
-* Now with SEO!
-
-For more information check out the [ReadMe on Github](https://github.com/carpetscheme/lightspeed).
-
+This post is important at that time.

@@ -8,6 +8,17 @@
     <updated>2023-09-10T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
     <entry xml:lang="en">
+        <title>template</title>
+        <published>2023-09-10T00:00:00+00:00</published>
+        <updated>2023-09-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/classicalmusic/" type="text/html"/>
+        <id>https://craftship.xyz/classicalmusic/</id>
+        <content type="html"></content>
+    </entry>
+    <entry xml:lang="en">
         <title>Network Intro</title>
         <published>2023-09-10T00:00:00+00:00</published>
         <updated>2023-09-10T00:00:00+00:00</updated>
@@ -85,6 +96,10 @@
 &lt;h1 id=&quot;dns&quot;&gt;DNS&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;code&gt; dig @ip domain&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;code&gt; nslookup domain&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;socket-server&quot;&gt;socket server&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=OynSMXfNtiM&amp;amp;list=PL22J-I2Pi-Gf0s1CGDVtt4vuvlyjLxfem&amp;amp;index=21&quot;&gt;csapp network programming&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;reference&quot;&gt;Reference&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&quot;&gt;Networking tutorial&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;

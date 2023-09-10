@@ -51,5 +51,8 @@ image = "hexcell.png"
 ``` nslookup domain```
 
 
+# socket server
+- [csapp network programming](https://www.youtube.com/watch?v=OynSMXfNtiM&list=PL22J-I2Pi-Gf0s1CGDVtt4vuvlyjLxfem&index=21)
+
 # Reference
 - [Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
