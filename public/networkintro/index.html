@@ -51,9 +51,19 @@
   <p>
     <ul>
       <li><a href="https://craftship.xyz/networkintro/#li-lun">理论</a>
+      
+        <ul>
+          <li><a href="https://craftship.xyz/networkintro/#ipshi-ru-he-hua-fen-de-zi-wang-yan-ma-de-zuo-yong-shi-shi-yao">ip是如何划分的？子网掩码的作用是什么？</a></li>
+        </ul>
       </li>
     
       <li><a href="https://craftship.xyz/networkintro/#shi-jian">实践</a>
+      </li>
+    
+      <li><a href="https://craftship.xyz/networkintro/#dns">DNS</a>
+      </li>
+    
+      <li><a href="https://craftship.xyz/networkintro/#reference">Reference</a>
       </li>
     </ul>
   </p>
@@ -63,21 +73,54 @@
 <p>首先是一些问题，主要是分为理论和实践类的，最后还可以加上csapp的socket server的lab.</p>
 <h1 id="li-lun">理论</h1>
 <ul>
-<li>为什么网络要分层？网络本身的目的是为了传递信息？传递信息这件事情在某一层分别对应了哪些步骤？</li>
-<li>网络协议是如何实现的？网络协议是为了实现通信？不同的ip之间是如何连接的？
+<li>为什么网络要分层？网络本身的目的是为了传递信息？传递信息这件事情在某一层分别对应了哪些步骤？
 <ul>
-<li>一台机器给另一个机器发送消息时候，发生了什么？</li>
-<li>TCP/IP 是如何运作的？</li>
+<li>物理层的电流，是可以decode为01的，01之类的信息根据frame layer的flag来截取，拿到真实的信息.</li>
 </ul>
 </li>
-<li>ip是如何划分的？子网掩码的作用是什么？</li>
-<li>既然网络是分层的，不同分层的子ip是如何通信的，通过夫ip再找下一层的ip吗？</li>
+<li>网络协议是如何实现的？网络协议是为了实现通信？不同的ip之间是如何连接的？
+<ul>
+<li>一台机器给另一个机器发送消息时候，发生了什么？
+<ul>
+<li>ARP是能找到目的MAC地址，然后进行通讯，通讯信息的稳定可靠主要是TCP/IP的ack的机制.</li>
+<li>发送TCP/IP的时候还需要port.</li>
+</ul>
+</li>
+<li>TCP/IP 是如何运作的？假设A--&gt; B
+<ul>
+<li>A sent a sync to B</li>
+<li>B sent a ack and sequence back to A</li>
+<li>A sent a ack and sequence to B</li>
+<li>The connection has established!!</li>
+<li>B sent a seq and dataset to A</li>
+<li>A sent ACK to B</li>
+<li>B sent Fin and sequence to A</li>
+<li>A sent Fin and sequence to B</li>
+<li>The connection has closed!!
+<img src="https://craftship.xyz/networkintro/Pasted%20image%2020230910223212.png" alt="" /></li>
+<li>There are many labels on every process， it could be found in wireshark.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 id="ipshi-ru-he-hua-fen-de-zi-wang-yan-ma-de-zuo-yong-shi-shi-yao">ip是如何划分的？子网掩码的作用是什么？</h2>
+</li>
+<li>既然网络是分层的，不同分层的子ip是如何通信的，通过夫ip再找下一层的ip吗？
+<ul>
+<li>different layers' ips could use arp to broadcast the destination ip, then check the suitable routes to go, by the way, it maybe many routes to it, and it has a <strong>time to live</strong> to avoid the loop.</li>
+</ul>
+</li>
 </ul>
 <h1 id="shi-jian">实践</h1>
 <ul>
 <li>抓包的内容里面有什么？如何通过抓包来分析网络的协议？通过抓包能做什么？能解决什么问题？
 <ul>
-<li>有哪些属性是重要的，需要注意的？</li>
+<li>The packages tell us what happened in the ping 1232.com. like the detail of the package's trip</li>
+<li>有哪些属性是重要的，需要注意的？
+<ul>
+<li>Like the properties in TCP/IP</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>包是用来分析网络和排错的</li>
@@ -87,6 +130,13 @@
 <li><a href="https://plantegg.github.io/2017/06/02/%E5%B0%B1%E6%98%AF%E8%A6%81%E4%BD%A0%E6%87%82TCP--%E8%BF%9E%E6%8E%A5%E5%92%8C%E6%8F%A1%E6%89%8B/">plantegg - tcpip</a></li>
 </ul>
 </li>
+</ul>
+<h1 id="dns">DNS</h1>
+<p><code> dig @ip domain</code>
+<code> nslookup domain</code></p>
+<h1 id="reference">Reference</h1>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW">Networking tutorial</a></li>
 </ul>
 
 </article>
