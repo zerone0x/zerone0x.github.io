@@ -5,8 +5,48 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-09-08T00:00:00+00:00</updated>
+    <updated>2023-09-10T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Network Intro</title>
+        <published>2023-09-10T00:00:00+00:00</published>
+        <updated>2023-09-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/networkintro/" type="text/html"/>
+        <id>https://craftship.xyz/networkintro/</id>
+        <content type="html">&lt;p&gt;网络知识对我来说是云里雾里，既没有相关的实践，也没有相关的编程，最近看到一些网络相关的blog和视频，下定决心来了解下网络的设计构造和应用，也会将自己的总结和思考记录在此，作为存档和分享.&lt;&#x2F;p&gt;
+&lt;p&gt;首先是一些问题，主要是分为理论和实践类的，最后还可以加上csapp的socket server的lab.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;li-lun&quot;&gt;理论&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;为什么网络要分层？网络本身的目的是为了传递信息？传递信息这件事情在某一层分别对应了哪些步骤？&lt;&#x2F;li&gt;
+&lt;li&gt;网络协议是如何实现的？网络协议是为了实现通信？不同的ip之间是如何连接的？
+&lt;ul&gt;
+&lt;li&gt;一台机器给另一个机器发送消息时候，发生了什么？&lt;&#x2F;li&gt;
+&lt;li&gt;TCP&#x2F;IP 是如何运作的？&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;ip是如何划分的？子网掩码的作用是什么？&lt;&#x2F;li&gt;
+&lt;li&gt;既然网络是分层的，不同分层的子ip是如何通信的，通过夫ip再找下一层的ip吗？&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;shi-jian&quot;&gt;实践&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;抓包的内容里面有什么？如何通过抓包来分析网络的协议？通过抓包能做什么？能解决什么问题？
+&lt;ul&gt;
+&lt;li&gt;有哪些属性是重要的，需要注意的？&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;包是用来分析网络和排错的&lt;&#x2F;li&gt;
+&lt;li&gt;如何找到自己想要的包？通过哪些属性可以辨别？&lt;&#x2F;li&gt;
+&lt;li&gt;如何用抓包来学习tcp&#x2F;ip？
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;plantegg.github.io&#x2F;2017&#x2F;06&#x2F;02&#x2F;%E5%B0%B1%E6%98%AF%E8%A6%81%E4%BD%A0%E6%87%82TCP--%E8%BF%9E%E6%8E%A5%E5%92%8C%E6%8F%A1%E6%89%8B&#x2F;&quot;&gt;plantegg - tcpip&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+    </entry>
     <entry xml:lang="en">
         <title>TALES FROM EARTHSEA</title>
         <published>2023-09-08T00:00:00+00:00</published>
@@ -16,7 +56,7 @@
         </author>
         <link rel="alternate" href="https://craftship.xyz/tales-from-earthsea/" type="text/html"/>
         <id>https://craftship.xyz/tales-from-earthsea/</id>
-        <content type="html">&lt;p&gt;又看了一遍，还是很精彩，第一遍看漏了很多，距离上次，已经两年了快，可能还会看第三遍，书就像一个导师一样沉稳的讲述着“自我”的故事.&lt;&#x2F;p&gt;
+        <content type="html">&lt;p&gt;又看了一遍，还是很精彩，第一遍看漏了很多，距离上次，已经两年了快，可能还会看第三遍，书就像导师一样沉稳的讲述着“自我”的故事.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;hei-ying-dui-kang&quot;&gt;黑影 对抗&lt;&#x2F;h1&gt;
 &lt;p&gt;令人恐惧的黑影如影随从，本可以在宫殿里逃避和驱走，跟随着黑影，在遥远的海里搏斗，直至消除.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
@@ -54,6 +94,8 @@
 却远不及龙强大.
 当初最勇猛的人不过是跟龙同归于尽，传颂至今，无人能及.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
+&lt;h1 id=&quot;xiong-xiong-da-huo&quot;&gt;熊熊大火&lt;&#x2F;h1&gt;
+&lt;p&gt;在小女孩小时候曾经独自去山上伐木砍柴烧火，在那夜晚的无人之境，独自回家，在路上突然生起了熊熊大火，难以逃脱，只能自身向前.等费了九牛二虎之力逃脱出了火海，急忙的查看筐篓里的木柴，它们已经都被烧成了灰烬，为今晚的取暖担忧，小女孩满脸的黑印在冲洗后显得无所印记，但自此之后，皮肤隐约的疼痛让她不明觉厉，似乎是经历过一场大火，但似乎又只是假象。想不清楚，只是隐约的疼痛让她无法放松，直到村子里又来了一场大火，周围人的嚎叫，被摧毁的房屋，让她想起了那次，那次的痛苦存在过，无法被泯灭，但意识到此，那隐约的疼痛似乎不再让她焦虑，只是疤痕，一道意外留下的烙印，隐隐约约的提示她：不要接近大火，远离火苗.&lt;&#x2F;p&gt;
 </content>
     </entry>
     <entry xml:lang="en">
