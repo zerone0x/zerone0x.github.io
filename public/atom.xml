@@ -20,12 +20,14 @@
 &lt;p&gt;首先是一些问题，主要是分为理论和实践类的，最后还可以加上csapp的socket server的lab.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;li-lun&quot;&gt;理论&lt;&#x2F;h1&gt;
 &lt;ul&gt;
-&lt;li&gt;为什么网络要分层？网络本身的目的是为了传递信息？传递信息这件事情在某一层分别对应了哪些步骤？
+&lt;li&gt;
+&lt;p&gt;为什么网络要分层？网络本身的目的是为了传递信息？传递信息这件事情在某一层分别对应了哪些步骤？&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;物理层的电流，是可以decode为01的，01之类的信息根据frame layer的flag来截取，拿到真实的信息.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
-&lt;li&gt;网络协议是如何实现的？网络协议是为了实现通信？不同的ip之间是如何连接的？
+&lt;li&gt;
+&lt;p&gt;网络协议是如何实现的？网络协议是为了实现通信？不同的ip之间是如何连接的？&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;一台机器给另一个机器发送消息时候，发生了什么？
 &lt;ul&gt;
@@ -33,7 +35,7 @@
 &lt;li&gt;发送TCP&#x2F;IP的时候还需要port.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
-&lt;li&gt;TCP&#x2F;IP 是如何运作的？假设A--&amp;gt; B
+&lt;li&gt;TCP&#x2F;IP 是如何运作的？假设B--&amp;gt; A
 &lt;ul&gt;
 &lt;li&gt;A sent a sync to B&lt;&#x2F;li&gt;
 &lt;li&gt;B sent a ack and sequence back to A&lt;&#x2F;li&gt;
@@ -44,15 +46,17 @@
 &lt;li&gt;B sent Fin and sequence to A&lt;&#x2F;li&gt;
 &lt;li&gt;A sent Fin and sequence to B&lt;&#x2F;li&gt;
 &lt;li&gt;The connection has closed!!
-&lt;img src=&quot;https:&#x2F;&#x2F;craftship.xyz&#x2F;networkintro&#x2F;Pasted%20image%2020230910223212.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;fGX0bY2.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;There are many labels on every process， it could be found in wireshark.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
-&lt;li&gt;&lt;h2 id=&quot;ipshi-ru-he-hua-fen-de-zi-wang-yan-ma-de-zuo-yong-shi-shi-yao&quot;&gt;ip是如何划分的？子网掩码的作用是什么？&lt;&#x2F;h2&gt;
+&lt;li&gt;
+&lt;p&gt;ip是如何划分的？子网掩码的作用是什么？&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
-&lt;li&gt;既然网络是分层的，不同分层的子ip是如何通信的，通过夫ip再找下一层的ip吗？
+&lt;li&gt;
+&lt;p&gt;既然网络是分层的，不同分层的子ip是如何通信的，通过夫ip再找下一层的ip吗？&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;different layers&#x27; ips could use arp to broadcast the destination ip, then check the suitable routes to go, by the way, it maybe many routes to it, and it has a &lt;strong&gt;time to live&lt;&#x2F;strong&gt; to avoid the loop.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -79,8 +83,8 @@
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;dns&quot;&gt;DNS&lt;&#x2F;h1&gt;
-&lt;p&gt;&lt;code&gt; dig @ip domain&lt;&#x2F;code&gt;
-&lt;code&gt; nslookup domain&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt; dig @ip domain&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt; nslookup domain&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;reference&quot;&gt;Reference&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&quot;&gt;Networking tutorial&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;

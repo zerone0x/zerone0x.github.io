@@ -51,10 +51,6 @@
   <p>
     <ul>
       <li><a href="https://craftship.xyz/networkintro/#li-lun">理论</a>
-      
-        <ul>
-          <li><a href="https://craftship.xyz/networkintro/#ipshi-ru-he-hua-fen-de-zi-wang-yan-ma-de-zuo-yong-shi-shi-yao">ip是如何划分的？子网掩码的作用是什么？</a></li>
-        </ul>
       </li>
     
       <li><a href="https://craftship.xyz/networkintro/#shi-jian">实践</a>
@@ -73,12 +69,14 @@
 <p>首先是一些问题，主要是分为理论和实践类的，最后还可以加上csapp的socket server的lab.</p>
 <h1 id="li-lun">理论</h1>
 <ul>
-<li>为什么网络要分层？网络本身的目的是为了传递信息？传递信息这件事情在某一层分别对应了哪些步骤？
+<li>
+<p>为什么网络要分层？网络本身的目的是为了传递信息？传递信息这件事情在某一层分别对应了哪些步骤？</p>
 <ul>
 <li>物理层的电流，是可以decode为01的，01之类的信息根据frame layer的flag来截取，拿到真实的信息.</li>
 </ul>
 </li>
-<li>网络协议是如何实现的？网络协议是为了实现通信？不同的ip之间是如何连接的？
+<li>
+<p>网络协议是如何实现的？网络协议是为了实现通信？不同的ip之间是如何连接的？</p>
 <ul>
 <li>一台机器给另一个机器发送消息时候，发生了什么？
 <ul>
@@ -86,7 +84,7 @@
 <li>发送TCP/IP的时候还需要port.</li>
 </ul>
 </li>
-<li>TCP/IP 是如何运作的？假设A--&gt; B
+<li>TCP/IP 是如何运作的？假设B--&gt; A
 <ul>
 <li>A sent a sync to B</li>
 <li>B sent a ack and sequence back to A</li>
@@ -97,15 +95,17 @@
 <li>B sent Fin and sequence to A</li>
 <li>A sent Fin and sequence to B</li>
 <li>The connection has closed!!
-<img src="https://craftship.xyz/networkintro/Pasted%20image%2020230910223212.png" alt="" /></li>
+<img src="https://i.imgur.com/fGX0bY2.png" alt="" /></li>
 <li>There are many labels on every process， it could be found in wireshark.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li><h2 id="ipshi-ru-he-hua-fen-de-zi-wang-yan-ma-de-zuo-yong-shi-shi-yao">ip是如何划分的？子网掩码的作用是什么？</h2>
+<li>
+<p>ip是如何划分的？子网掩码的作用是什么？</p>
 </li>
-<li>既然网络是分层的，不同分层的子ip是如何通信的，通过夫ip再找下一层的ip吗？
+<li>
+<p>既然网络是分层的，不同分层的子ip是如何通信的，通过夫ip再找下一层的ip吗？</p>
 <ul>
 <li>different layers' ips could use arp to broadcast the destination ip, then check the suitable routes to go, by the way, it maybe many routes to it, and it has a <strong>time to live</strong> to avoid the loop.</li>
 </ul>
@@ -132,8 +132,8 @@
 </li>
 </ul>
 <h1 id="dns">DNS</h1>
-<p><code> dig @ip domain</code>
-<code> nslookup domain</code></p>
+<p><code> dig @ip domain</code></p>
+<p><code> nslookup domain</code></p>
 <h1 id="reference">Reference</h1>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW">Networking tutorial</a></li>

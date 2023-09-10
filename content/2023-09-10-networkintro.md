@@ -16,7 +16,7 @@ image = "hexcell.png"
   - 一台机器给另一个机器发送消息时候，发生了什么？
     - ARP是能找到目的MAC地址，然后进行通讯，通讯信息的稳定可靠主要是TCP/IP的ack的机制.
     - 发送TCP/IP的时候还需要port.
-  - TCP/IP 是如何运作的？假设A--> B
+  - TCP/IP 是如何运作的？假设B--> A
     - A sent a sync to B
     - B sent a ack and sequence back to A
     - A sent a ack and sequence to B
@@ -26,10 +26,10 @@ image = "hexcell.png"
     - B sent Fin and sequence to A
     - A sent Fin and sequence to B
     - The connection has closed!!
-    ![](Pasted%20image%2020230910223212.png)
+    ![](https://i.imgur.com/fGX0bY2.png)
     - There are many labels on every process， it could be found in wireshark.
+
 - ip是如何划分的？子网掩码的作用是什么？
-  - 
 - 既然网络是分层的，不同分层的子ip是如何通信的，通过夫ip再找下一层的ip吗？
   - different layers' ips could use arp to broadcast the destination ip, then check the suitable routes to go, by the way, it maybe many routes to it, and it has a **time to live** to avoid the loop.
   
@@ -46,8 +46,9 @@ image = "hexcell.png"
 
 # DNS
 
-` dig @ip domain`
-` nslookup domain`
+``` dig @ip domain```
+
+``` nslookup domain```
 
 
 # Reference
