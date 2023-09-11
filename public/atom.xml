@@ -8,7 +8,7 @@
     <updated>2023-09-10T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
     <entry xml:lang="en">
-        <title>template</title>
+        <title>Classical Music</title>
         <published>2023-09-10T00:00:00+00:00</published>
         <updated>2023-09-10T00:00:00+00:00</updated>
         <author>
@@ -89,6 +89,11 @@
 &lt;li&gt;如何找到自己想要的包？通过哪些属性可以辨别？&lt;&#x2F;li&gt;
 &lt;li&gt;如何用抓包来学习tcp&#x2F;ip？
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;book.douban.com&#x2F;subject&#x2F;26268767&#x2F;&quot;&gt;Wireshark网络分析就这么简单&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;这种书比较实操，比什么csapp好落地理解.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;plantegg.github.io&#x2F;2017&#x2F;06&#x2F;02&#x2F;%E5%B0%B1%E6%98%AF%E8%A6%81%E4%BD%A0%E6%87%82TCP--%E8%BF%9E%E6%8E%A5%E5%92%8C%E6%8F%A1%E6%89%8B&#x2F;&quot;&gt;plantegg - tcpip&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;

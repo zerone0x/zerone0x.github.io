@@ -41,6 +41,8 @@ image = "hexcell.png"
 - 包是用来分析网络和排错的
 - 如何找到自己想要的包？通过哪些属性可以辨别？
 - 如何用抓包来学习tcp/ip？
+  - [Wireshark网络分析就这么简单](https://book.douban.com/subject/26268767/)
+    - 这种书比较实操，比什么csapp好落地理解.
   - [plantegg - tcpip](https://plantegg.github.io/2017/06/02/%E5%B0%B1%E6%98%AF%E8%A6%81%E4%BD%A0%E6%87%82TCP--%E8%BF%9E%E6%8E%A5%E5%92%8C%E6%8F%A1%E6%89%8B/)
 
 
