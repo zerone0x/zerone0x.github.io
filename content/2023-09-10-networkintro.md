@@ -46,11 +46,76 @@ image = "hexcell.png"
   - [plantegg - tcpip](https://plantegg.github.io/2017/06/02/%E5%B0%B1%E6%98%AF%E8%A6%81%E4%BD%A0%E6%87%82TCP--%E8%BF%9E%E6%8E%A5%E5%92%8C%E6%8F%A1%E6%89%8B/)
 
 
+## wireshark
+
+wireshark作为抓包的工具，帮助在troubleshot的时候回溯流程。但wireshark怎么用呢？
+
+- 过滤想要的内容
+  - 根据问题的已知来定位，filter出相关的协议/端口+ip，还有graph analysis来分析，在每次抓包时用tag和flag来标记...比如：
+  
+        portmap||mount||nfs 
+
+- 从拿到的结果里，逐步分析每个steps
+
+# TCP/IP
+
+除了3次握手连接和4次握手，还有protocol的各种参数外，还有个**TCP 窗口** 和 **拥塞算法**，也是TCP/IP的重要组成部分.
+
+## MTU
+
+在3次握手时，双方会告诉对方MSS，MSS加上TCP和IP的头部，就是MTU(Maximum Transmission Unit). 
+
+在传输大的网络包的时候，MTU是根据双方里最小的那个作为基准.
+
+## properties of TCP/IP
+
+Seq: 如果收到的包乱序了，可以根据这个来排序和检查丢包，不一定从0开始计数,**接收方回复的Ack号恰好就等于发送方的下一个Seq号**,大体关系是：
+  - B的ACK是A的seq+len(A的data)
+  - A的seq是等于上面的
+
+## TCP 窗口
+
+网络传输的速度怎么加速？
+
+每次传输更多的数据？TCP 窗口的定义就是**传输过程中最多的数据量**. 一旦超出了，就得等待ACK，然后再传输.
+
+如何计算TCP窗口的大小？
+
+
+            2 ^ windowsclae * winsize(in tcp header)
+
+## 拥塞算法
+
+导致网络拥塞的因素很多，并且动态变化，所以需要动态的算法来调整窗口的大小，来模拟当下的拥塞点，以达到最大的传输速度.
+
+- slow start
+
+> 在每次都收到ACK后，可以2* MSS的速度来增加窗口的大小
+
+- congestion avoidance
+
+> 往返 + 1 MSS
+
+![](Pasted%20image%2020230917194544.png)
+### 超时重传
+
+超过**一定时间(RTO)**，还没有收到ACK，就会重传.
+
+之后的窗口大小：**丢包总量的1/2**
+
+用wireshark里的expert info可以看到重传的包
+
+### 快速重传
+
+如果收到了>=3个的ACK，就会重传. >=3目的是避免因为乱序导致重传。
+
+
+
 # DNS
 
-``` dig @ip domain```
+      dig @ip domain 
 
-``` nslookup domain```
+      nslookup domain 
 
 
 # socket server
