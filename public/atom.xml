@@ -212,7 +212,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;往返 + 1 MSS&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;craftship.xyz&#x2F;networkintro&#x2F;Pasted%20image%2020230917194544.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;opOso2M.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;chao-shi-zhong-chuan&quot;&gt;超时重传&lt;&#x2F;h3&gt;
 &lt;p&gt;超过&lt;strong&gt;一定时间(RTO)&lt;&#x2F;strong&gt;，还没有收到ACK，就会重传.&lt;&#x2F;p&gt;
 &lt;p&gt;之后的窗口大小：&lt;strong&gt;丢包总量的1&#x2F;2&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
