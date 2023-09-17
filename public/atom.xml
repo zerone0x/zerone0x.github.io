@@ -5,8 +5,39 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-09-16T00:00:00+00:00</updated>
+    <updated>2023-09-17T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>四季</title>
+        <published>2023-09-17T00:00:00+00:00</published>
+        <updated>2023-09-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/4seasons/" type="text/html"/>
+        <id>https://craftship.xyz/4seasons/</id>
+        <content type="html">&lt;p&gt;春&lt;&#x2F;p&gt;
+&lt;p&gt;生意盎然
+万物复苏
+激情饱满
+无限可能&lt;&#x2F;p&gt;
+&lt;p&gt;夏&lt;&#x2F;p&gt;
+&lt;p&gt;炎热酷暑
+乏困无力
+暴雨不停
+哀时间慢&lt;&#x2F;p&gt;
+&lt;p&gt;秋&lt;&#x2F;p&gt;
+&lt;p&gt;天高飒爽
+细雨绵绵
+发奋图强
+弹指之间&lt;&#x2F;p&gt;
+&lt;p&gt;冬&lt;&#x2F;p&gt;
+&lt;p&gt;寒风凛冽
+一年将至
+白驹过隙
+蹉跎一年&lt;&#x2F;p&gt;
+</content>
+    </entry>
     <entry xml:lang="en">
         <title>The right position of running</title>
         <published>2023-09-16T00:00:00+00:00</published>
