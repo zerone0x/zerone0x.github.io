@@ -50,45 +50,88 @@
 
   <p>
     <ul>
-      <li><a href="https://craftship.xyz/archinit/#shrink-a-new-disk">shrink a new disk</a>
-      </li>
-    
       <li><a href="https://craftship.xyz/archinit/#make-a-bootable-usb-disk">make a bootable usb disk</a>
       </li>
     
-      <li><a href="https://craftship.xyz/archinit/#edit-the-bios-config">edit the bios config</a>
+      <li><a href="https://craftship.xyz/archinit/#arch-install">Arch install</a>
       </li>
     
-      <li><a href="https://craftship.xyz/archinit/#enter-f12-and-start-arch-config">Enter F12, and start arch config</a>
+      <li><a href="https://craftship.xyz/archinit/#i3-wm">i3 wm</a>
       </li>
     
-      <li><a href="https://craftship.xyz/archinit/#init-arch">init arch</a>
-      
-        <ul>
-          <li><a href="https://craftship.xyz/archinit/#init-list">init list</a></li>
-        </ul>
+      <li><a href="https://craftship.xyz/archinit/#welcome-kit">welcome kit</a>
+      </li>
+    
+      <li><a href="https://craftship.xyz/archinit/#todo">TODO</a>
+      </li>
+    
+      <li><a href="https://craftship.xyz/archinit/#init-list">init list</a>
       </li>
     </ul>
   </p>
 
 
-  <h2 id="shrink-a-new-disk">shrink a new disk</h2>
-<p>disk management --&gt; shrink</p>
-<h2 id="make-a-bootable-usb-disk">make a bootable usb disk</h2>
+  <h1 id="make-a-bootable-usb-disk">make a bootable usb disk</h1>
 <ol>
 <li>download iso</li>
-<li>use rufus</li>
-<li>choose the grub</li>
+<li>spare the disk on disk management
+<ol>
+<li>shrink the disk</li>
+<li>make 100G free space for it</li>
 </ol>
-<h2 id="edit-the-bios-config">edit the bios config</h2>
-<p>normally, use F1 to enter
-https://www.youtube.com/watch?v=jw_ZNgEn874</p>
-<h2 id="enter-f12-and-start-arch-config">Enter F12, and start arch config</h2>
-<p>https://www.youtube.com/watch?v=d5rquFPwh-Y</p>
-<h2 id="init-arch">init arch</h2>
-<p>not started</p>
-<h3 id="init-list">init list</h3>
+</li>
+<li>use Rufus to write iso and convert to bootable usb disk
+<ol>
+<li>choose the Partition scheme
+check the bios mode on security info, choose GPT if the mode is UEFI</li>
+</ol>
+</li>
+<li>restart it and press F1 to edit the boot config
+https://www.youtube.com/watch?v=jw_ZNgEn874</li>
+<li>use F12 to choose the boot disk
+<ol>
+<li>USB HDD: SanDisk</li>
+</ol>
+</li>
+</ol>
+<h1 id="arch-install">Arch install</h1>
 <ul>
+<li>https://www.youtube.com/watch?v=d5rquFPwh-Y</li>
+<li><a href="https://gist.github.com/fjpalacios/441f2f6d27f25ee238b9bfcb068865db">docs</a></li>
+</ul>
+<p>setfont ter-132n
+timedatectl set-timezone Asia/Shanghai
+loadkeys 
+lsblk 
+list the disk
+cfdisk /dev/xx</p>
+<p>mkfs.ext
+mkswap
+swapon 
+mount / dev/sda5 / mnt</p>
+<h1 id="i3-wm">i3 wm</h1>
+<ul>
+<li>https://linuxopsys.com/topics/install-i3-window-manager-linux
+sudo pacman -Sy i3
+echo &quot;exec i3&quot; &gt;&gt; ~/.xinitrc
+sudo pacman -S xorg xorg-xinit
+startx</li>
+</ul>
+<h1 id="welcome-kit">welcome kit</h1>
+<ul>
+<li>https://www.addictivetips.com/ubuntu-linux-tips/set-up-lightdm-on-arch-linux/
+sudo pacman -S lightdm
+sudo pacman -S lightdm-gtk-greeter
+sudo systemctl enable lightdm
+sudo systemctl start lightdm</li>
+</ul>
+<h1 id="todo">TODO</h1>
+<ul>
+<li>learn the i3 wm using</li>
+</ul>
+<h1 id="init-list">init list</h1>
+<ul>
+<li>clash</li>
 <li>dwn</li>
 <li>terminal
 <ul>
