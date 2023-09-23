@@ -87,7 +87,10 @@ check the bios mode on security info, choose GPT if the mode is UEFI</li>
 </ol>
 </li>
 <li>restart it and press F1 to edit the boot config
-https://www.youtube.com/watch?v=jw_ZNgEn874</li>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=jw_ZNgEn874">video</a></li>
+</ul>
+</li>
 <li>use F12 to choose the boot disk
 <ol>
 <li>USB HDD: SanDisk</li>
@@ -96,38 +99,53 @@ https://www.youtube.com/watch?v=jw_ZNgEn874</li>
 </ol>
 <h1 id="arch-install">Arch install</h1>
 <ul>
-<li>https://www.youtube.com/watch?v=d5rquFPwh-Y</li>
-<li><a href="https://gist.github.com/fjpalacios/441f2f6d27f25ee238b9bfcb068865db">docs</a></li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=d5rquFPwh-Y">video</a></p>
+</li>
+<li>
+<p><a href="https://gist.github.com/fjpalacios/441f2f6d27f25ee238b9bfcb068865db">docs</a></p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span> setfont ter-132n
+</span><span> timedatectl set-timezone Asia/Shanghai
+</span><span> loadkeys 
+</span><span> lsblk 
+</span><span> list the disk
+</span><span> cfdisk /dev/xx
+</span><span>
+</span><span> mkfs.ext
+</span><span> mkswap
+</span><span> swapon 
+</span><span> mount / dev/sda5 / mnt
+</span></code></pre>
+</li>
 </ul>
-<p>setfont ter-132n
-timedatectl set-timezone Asia/Shanghai
-loadkeys 
-lsblk 
-list the disk
-cfdisk /dev/xx</p>
-<p>mkfs.ext
-mkswap
-swapon 
-mount / dev/sda5 / mnt</p>
 <h1 id="i3-wm">i3 wm</h1>
 <ul>
-<li>https://linuxopsys.com/topics/install-i3-window-manager-linux
-sudo pacman -Sy i3
-echo &quot;exec i3&quot; &gt;&gt; ~/.xinitrc
-sudo pacman -S xorg xorg-xinit
-startx</li>
+<li><a href="https://linuxopsys.com/topics/install-i3-window-manager-linux">i3</a></li>
+<li><pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>  sudo pacman -Sy i3
+</span><span>  echo &quot;exec i3&quot; &gt;&gt; ~/.xinitrc
+</span><span>  sudo pacman -S xorg xorg-xinit
+</span><span>  startx
+</span></code></pre>
+</li>
 </ul>
 <h1 id="welcome-kit">welcome kit</h1>
 <ul>
-<li>https://www.addictivetips.com/ubuntu-linux-tips/set-up-lightdm-on-arch-linux/
-sudo pacman -S lightdm
-sudo pacman -S lightdm-gtk-greeter
-sudo systemctl enable lightdm
-sudo systemctl start lightdm</li>
+<li><a href="https://www.addictivetips.com/ubuntu-linux-tips/set-up-lightdm-on-arch-linux/">gui</a></li>
+<li><pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>  sudo pacman -S lightdm
+</span><span>  sudo pacman -S lightdm-gtk-greeter
+</span><span>  sudo systemctl enable lightdm
+</span><span>  sudo systemctl start lightdm
+</span></code></pre>
+</li>
 </ul>
 <h1 id="todo">TODO</h1>
 <ul>
-<li>learn the i3 wm using</li>
+<li><input disabled="" type="checkbox"/>
+learn the i3 wm using</li>
+<li><input disabled="" type="checkbox"/>
+中文编码问题</li>
+<li><input disabled="" type="checkbox"/>
+config clash</li>
 </ul>
 <h1 id="init-list">init list</h1>
 <ul>

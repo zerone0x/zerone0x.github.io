@@ -570,7 +570,10 @@ check the bios mode on security info, choose GPT if the mode is UEFI&lt;&#x2F;li
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;restart it and press F1 to edit the boot config
-https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=jw_ZNgEn874&lt;&#x2F;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=jw_ZNgEn874&quot;&gt;video&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;li&gt;use F12 to choose the boot disk
 &lt;ol&gt;
 &lt;li&gt;USB HDD: SanDisk&lt;&#x2F;li&gt;
@@ -579,38 +582,53 @@ https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=jw_ZNgEn874&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;h1 id=&quot;arch-install&quot;&gt;Arch install&lt;&#x2F;h1&gt;
 &lt;ul&gt;
-&lt;li&gt;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=d5rquFPwh-Y&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;fjpalacios&#x2F;441f2f6d27f25ee238b9bfcb068865db&quot;&gt;docs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=d5rquFPwh-Y&quot;&gt;video&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;fjpalacios&#x2F;441f2f6d27f25ee238b9bfcb068865db&quot;&gt;docs&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt; setfont ter-132n
+&lt;&#x2F;span&gt;&lt;span&gt; timedatectl set-timezone Asia&#x2F;Shanghai
+&lt;&#x2F;span&gt;&lt;span&gt; loadkeys 
+&lt;&#x2F;span&gt;&lt;span&gt; lsblk 
+&lt;&#x2F;span&gt;&lt;span&gt; list the disk
+&lt;&#x2F;span&gt;&lt;span&gt; cfdisk &#x2F;dev&#x2F;xx
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt; mkfs.ext
+&lt;&#x2F;span&gt;&lt;span&gt; mkswap
+&lt;&#x2F;span&gt;&lt;span&gt; swapon 
+&lt;&#x2F;span&gt;&lt;span&gt; mount &#x2F; dev&#x2F;sda5 &#x2F; mnt
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;setfont ter-132n
-timedatectl set-timezone Asia&#x2F;Shanghai
-loadkeys 
-lsblk 
-list the disk
-cfdisk &#x2F;dev&#x2F;xx&lt;&#x2F;p&gt;
-&lt;p&gt;mkfs.ext
-mkswap
-swapon 
-mount &#x2F; dev&#x2F;sda5 &#x2F; mnt&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;i3-wm&quot;&gt;i3 wm&lt;&#x2F;h1&gt;
 &lt;ul&gt;
-&lt;li&gt;https:&#x2F;&#x2F;linuxopsys.com&#x2F;topics&#x2F;install-i3-window-manager-linux
-sudo pacman -Sy i3
-echo &amp;quot;exec i3&amp;quot; &amp;gt;&amp;gt; ~&#x2F;.xinitrc
-sudo pacman -S xorg xorg-xinit
-startx&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;linuxopsys.com&#x2F;topics&#x2F;install-i3-window-manager-linux&quot;&gt;i3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;  sudo pacman -Sy i3
+&lt;&#x2F;span&gt;&lt;span&gt;  echo &amp;quot;exec i3&amp;quot; &amp;gt;&amp;gt; ~&#x2F;.xinitrc
+&lt;&#x2F;span&gt;&lt;span&gt;  sudo pacman -S xorg xorg-xinit
+&lt;&#x2F;span&gt;&lt;span&gt;  startx
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;welcome-kit&quot;&gt;welcome kit&lt;&#x2F;h1&gt;
 &lt;ul&gt;
-&lt;li&gt;https:&#x2F;&#x2F;www.addictivetips.com&#x2F;ubuntu-linux-tips&#x2F;set-up-lightdm-on-arch-linux&#x2F;
-sudo pacman -S lightdm
-sudo pacman -S lightdm-gtk-greeter
-sudo systemctl enable lightdm
-sudo systemctl start lightdm&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.addictivetips.com&#x2F;ubuntu-linux-tips&#x2F;set-up-lightdm-on-arch-linux&#x2F;&quot;&gt;gui&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;  sudo pacman -S lightdm
+&lt;&#x2F;span&gt;&lt;span&gt;  sudo pacman -S lightdm-gtk-greeter
+&lt;&#x2F;span&gt;&lt;span&gt;  sudo systemctl enable lightdm
+&lt;&#x2F;span&gt;&lt;span&gt;  sudo systemctl start lightdm
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;todo&quot;&gt;TODO&lt;&#x2F;h1&gt;
 &lt;ul&gt;
-&lt;li&gt;learn the i3 wm using&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+learn the i3 wm using&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+中文编码问题&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+config clash&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;init-list&quot;&gt;init list&lt;&#x2F;h1&gt;
 &lt;ul&gt;
