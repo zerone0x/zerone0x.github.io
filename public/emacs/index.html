@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Emacs basic using &middot; Craftship</title>
+    <title>Doom Emacs starter &middot; Craftship</title>
     <meta name="description" content="" />
     <link rel="shortcut icon"  href="https://craftship.xyz/hexcell.png" />
     <link rel="alternate" type="application/atom+xml" title="RSS" href="https://craftship.xyz/atom.xml">
@@ -14,7 +14,7 @@
 
     <meta property="og:site_name" content="Craftship">
       
-      <meta property="og:title" content="Emacs basic using">
+      <meta property="og:title" content="Doom Emacs starter">
       <meta property="og:description" content="">
       <meta property="og:url" content="https://craftship.xyz/emacs/">
       <meta property="og:image" content="https://craftship.xyz/hexcell.png">
@@ -44,7 +44,7 @@
 
       
 <article>
-  <h1>Emacs basic using</h1>
+  <h1>Doom Emacs starter</h1>
   
   <p style="font-size:90%;">Posted on <time datetime="2023-09-02T00:00:00+00:00">September 02, 2023</time></p>
 
@@ -53,10 +53,21 @@
       <li><a href="https://craftship.xyz/emacs/#preface">preface</a>
       </li>
     
+      <li><a href="https://craftship.xyz/emacs/#how-to-start-emacs">How to start emacs?</a>
+      </li>
+    
       <li><a href="https://craftship.xyz/emacs/#config-file">config file</a>
+      
+        <ul>
+          <li><a href="https://craftship.xyz/emacs/#change-the-font-and-theme">change the font and theme</a></li>
+        </ul>
       </li>
     
       <li><a href="https://craftship.xyz/emacs/#shortkeys">shortkeys</a>
+      
+        <ul>
+          <li><a href="https://craftship.xyz/emacs/#keybindings-in-emacs">keybindings in emacs</a></li>
+        </ul>
       </li>
     
       <li><a href="https://craftship.xyz/emacs/#org-mode">org-mode</a>
@@ -64,37 +75,67 @@
         <ul>
           <li><a href="https://craftship.xyz/emacs/#the-basic-format">the basic format</a></li>
         
-          <li><a href="https://craftship.xyz/emacs/#the-shortkeys-of-quick-using">the shortkeys of quick using</a></li>
-        
           <li><a href="https://craftship.xyz/emacs/#the-schedule-part">the schedule part</a></li>
         
           <li><a href="https://craftship.xyz/emacs/#the-agenda">the agenda</a></li>
         </ul>
-      </li>
-    
-      <li><a href="https://craftship.xyz/emacs/#debug">debug</a>
       </li>
     </ul>
   </p>
 
 
   <h1 id="preface">preface</h1>
-<p>基础的使用包括 config的配置，快捷键。</p>
-<p>emacs出彩的在于org mode。org mode能做什么呢？</p>
-<h1 id="config-file">config file</h1>
 <ul>
-<li>font, theme</li>
+<li>用eamcs来实现logseq的todo管理，replace nvim</li>
+<li>用内置的功能</li>
+<li>emacs shortcuts</li>
+<li>org mode shortcuts</li>
+<li>适应org mode , use it to post blog</li>
 </ul>
+<p>基础的使用包括 config的配置，快捷键。</p>
+<h1 id="how-to-start-emacs">How to start emacs?</h1>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=s0ed8Da3mjE">video</a>
+Boot it background, then use emacsclient to open it.</li>
+</ul>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>emacs --daemon 
+</span><span>emacsclient -c
+</span></code></pre>
+<p>debug </p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>emacs --debug-init
+</span></code></pre>
+<h1 id="config-file">config file</h1>
+<blockquote>
+<p>config.el</p>
+</blockquote>
+<h2 id="change-the-font-and-theme">change the font and theme</h2>
+<p><a href="https://github.com/doomemacs/themes/tree/screenshots">theme</a></p>
+<p>Use the doom one package, then pick your favorite one.</p>
+<p>Change the font which you already installed on your computer.(Font Book in mac)
+<img src="https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/YgTIIMtest.jpg" alt="YgTIIMtest" /></p>
 <h1 id="shortkeys">shortkeys</h1>
-<p>This is a huge big topic. Maybe the most important part is org-mode.</p>
-<p>First, search the shortkeys using ``. </p>
+<ul>
+<li>
+<p>quick open a emacs client</p>
+</li>
+<li>
+<p>M-x M means <strong>option</strong></p>
+</li>
+<li>
+<p>open terminal - vterm</p>
+</li>
+<li>
+<p>install the related UI plugins</p>
+<ul>
+<li>how to install the plugin</li>
+</ul>
+</li>
+</ul>
+<h2 id="keybindings-in-emacs">keybindings in emacs</h2>
 <h1 id="org-mode">org-mode</h1>
 <h2 id="the-basic-format">the basic format</h2>
-<h2 id="the-shortkeys-of-quick-using">the shortkeys of quick using</h2>
 <h2 id="the-schedule-part">the schedule part</h2>
 <h2 id="the-agenda">the agenda</h2>
-<h1 id="debug">debug</h1>
-<p><code>emacs --debug-init</code></p>
 
 </article>
 

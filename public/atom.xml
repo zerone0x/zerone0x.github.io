@@ -348,7 +348,7 @@
 </content>
     </entry>
     <entry xml:lang="en">
-        <title>Emacs basic using</title>
+        <title>Doom Emacs starter</title>
         <published>2023-09-02T00:00:00+00:00</published>
         <updated>2023-09-02T00:00:00+00:00</updated>
         <author>
@@ -357,22 +357,57 @@
         <link rel="alternate" href="https://craftship.xyz/emacs/" type="text/html"/>
         <id>https://craftship.xyz/emacs/</id>
         <content type="html">&lt;h1 id=&quot;preface&quot;&gt;preface&lt;&#x2F;h1&gt;
-&lt;p&gt;基础的使用包括 config的配置，快捷键。&lt;&#x2F;p&gt;
-&lt;p&gt;emacs出彩的在于org mode。org mode能做什么呢？&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;config-file&quot;&gt;config file&lt;&#x2F;h1&gt;
 &lt;ul&gt;
-&lt;li&gt;font, theme&lt;&#x2F;li&gt;
+&lt;li&gt;用eamcs来实现logseq的todo管理，replace nvim&lt;&#x2F;li&gt;
+&lt;li&gt;用内置的功能&lt;&#x2F;li&gt;
+&lt;li&gt;emacs shortcuts&lt;&#x2F;li&gt;
+&lt;li&gt;org mode shortcuts&lt;&#x2F;li&gt;
+&lt;li&gt;适应org mode , use it to post blog&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;p&gt;基础的使用包括 config的配置，快捷键。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;how-to-start-emacs&quot;&gt;How to start emacs?&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=s0ed8Da3mjE&quot;&gt;video&lt;&#x2F;a&gt;
+Boot it background, then use emacsclient to open it.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;emacs --daemon 
+&lt;&#x2F;span&gt;&lt;span&gt;emacsclient -c
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;debug &lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;emacs --debug-init
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h1 id=&quot;config-file&quot;&gt;config file&lt;&#x2F;h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;config.el&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;change-the-font-and-theme&quot;&gt;change the font and theme&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;doomemacs&#x2F;themes&#x2F;tree&#x2F;screenshots&quot;&gt;theme&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Use the doom one package, then pick your favorite one.&lt;&#x2F;p&gt;
+&lt;p&gt;Change the font which you already installed on your computer.(Font Book in mac)
+&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;YgTIIMtest.jpg&quot; alt=&quot;YgTIIMtest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;shortkeys&quot;&gt;shortkeys&lt;&#x2F;h1&gt;
-&lt;p&gt;This is a huge big topic. Maybe the most important part is org-mode.&lt;&#x2F;p&gt;
-&lt;p&gt;First, search the shortkeys using ``. &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;quick open a emacs client&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;M-x M means &lt;strong&gt;option&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;open terminal - vterm&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;install the related UI plugins&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;how to install the plugin&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;keybindings-in-emacs&quot;&gt;keybindings in emacs&lt;&#x2F;h2&gt;
 &lt;h1 id=&quot;org-mode&quot;&gt;org-mode&lt;&#x2F;h1&gt;
 &lt;h2 id=&quot;the-basic-format&quot;&gt;the basic format&lt;&#x2F;h2&gt;
-&lt;h2 id=&quot;the-shortkeys-of-quick-using&quot;&gt;the shortkeys of quick using&lt;&#x2F;h2&gt;
 &lt;h2 id=&quot;the-schedule-part&quot;&gt;the schedule part&lt;&#x2F;h2&gt;
 &lt;h2 id=&quot;the-agenda&quot;&gt;the agenda&lt;&#x2F;h2&gt;
-&lt;h1 id=&quot;debug&quot;&gt;debug&lt;&#x2F;h1&gt;
-&lt;p&gt;&lt;code&gt;emacs --debug-init&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
 </content>
     </entry>
     <entry xml:lang="en">
