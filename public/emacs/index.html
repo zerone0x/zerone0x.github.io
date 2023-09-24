@@ -94,17 +94,22 @@
             <ul>
               
                 <li>
-                  <a href="https://craftship.xyz/emacs/#the-basic-format">the basic format</a>
+                  <a href="https://craftship.xyz/emacs/#org-keybindings">Org Keybindings</a>
                   
                 </li>
               
                 <li>
-                  <a href="https://craftship.xyz/emacs/#the-schedule-part">the schedule part</a>
+                  <a href="https://craftship.xyz/emacs/#todo">TODO</a>
                   
                 </li>
               
                 <li>
-                  <a href="https://craftship.xyz/emacs/#the-agenda">the agenda</a>
+                  <a href="https://craftship.xyz/emacs/#schedule">schedule</a>
+                  
+                </li>
+              
+                <li>
+                  <a href="https://craftship.xyz/emacs/#agenda">agenda</a>
                   
                 </li>
               
@@ -119,11 +124,8 @@
 <ul>
 <li>用eamcs来实现logseq的todo管理，replace nvim</li>
 <li>用内置的功能</li>
-<li>emacs shortcuts</li>
-<li>org mode shortcuts</li>
 <li>适应org mode , use it to post blog</li>
 </ul>
-<p>基础的使用包括 config的配置，快捷键。</p>
 <h1 id="config">config</h1>
 <h2 id="how-to-start-emacs">How to start emacs?</h2>
 <ul>
@@ -132,6 +134,9 @@
 <p>Boot it background, then use emacsclient to open it.</p>
 <pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>emacs --daemon 
 </span><span>emacsclient -c
+</span></code></pre>
+<p>close window</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>
 </span></code></pre>
 <p>debug </p>
 <pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>emacs --debug-init
@@ -154,16 +159,57 @@
 </li>
 </ul>
 <h2 id="keybindings-in-emacs">keybindings in emacs</h2>
-<p>M-x M means <strong>option</strong></p>
+<p>meta search:
+M-x M means <strong>option</strong></p>
 <p>The common workflow need a keybinding to faster the process, such as:</p>
 <ul>
 <li>quick open a emacs client</li>
 <li>open terminal - vterm</li>
 </ul>
 <h1 id="org-mode">org-mode</h1>
-<h2 id="the-basic-format">the basic format</h2>
-<h2 id="the-schedule-part">the schedule part</h2>
-<h2 id="the-agenda">the agenda</h2>
+<ul>
+<li><a href="http://doc.norang.ca/org-mode.html">docs</a></li>
+</ul>
+<p>The task management system includes TODO, schedule, agenda.</p>
+<ul>
+<li>TODO could track the time using of tasks by clock and task staus.</li>
+<li>schedule could manage the time of tasks.</li>
+<li>agenda could show all tasks in better view.</li>
+</ul>
+<h2 id="org-keybindings">Org Keybindings</h2>
+<ul>
+<li>change the # to *</li>
+<li>the key bindings
+<ul>
+<li>change the order of lines</li>
+</ul>
+</li>
+<li>Fold tab shift</li>
+<li>toggle heading/item
+<ul>
+<li>SPC m h/i</li>
+</ul>
+</li>
+<li>goto
+<ul>
+<li>same level --&gt; gj gk</li>
+<li>different level --&gt; gh gl</li>
+</ul>
+</li>
+</ul>
+<h2 id="todo">TODO</h2>
+<p>create todo</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>C-c C-t
+</span></code></pre>
+<p>change todo state</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>space m t
+</span></code></pre>
+<p>clock in/out</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>C-c C-x C-i/o
+</span></code></pre>
+<h2 id="schedule">schedule</h2>
+<h2 id="agenda">agenda</h2>
+<p>write the org file into custom.el</p>
 
 </article>
 

@@ -360,11 +360,8 @@
 &lt;ul&gt;
 &lt;li&gt;用eamcs来实现logseq的todo管理，replace nvim&lt;&#x2F;li&gt;
 &lt;li&gt;用内置的功能&lt;&#x2F;li&gt;
-&lt;li&gt;emacs shortcuts&lt;&#x2F;li&gt;
-&lt;li&gt;org mode shortcuts&lt;&#x2F;li&gt;
 &lt;li&gt;适应org mode , use it to post blog&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;基础的使用包括 config的配置，快捷键。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;config&quot;&gt;config&lt;&#x2F;h1&gt;
 &lt;h2 id=&quot;how-to-start-emacs&quot;&gt;How to start emacs?&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -373,6 +370,9 @@
 &lt;p&gt;Boot it background, then use emacsclient to open it.&lt;&#x2F;p&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;emacs --daemon 
 &lt;&#x2F;span&gt;&lt;span&gt;emacsclient -c
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;close window&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;debug &lt;&#x2F;p&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;emacs --debug-init
@@ -395,16 +395,57 @@
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;keybindings-in-emacs&quot;&gt;keybindings in emacs&lt;&#x2F;h2&gt;
-&lt;p&gt;M-x M means &lt;strong&gt;option&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;meta search:
+M-x M means &lt;strong&gt;option&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The common workflow need a keybinding to faster the process, such as:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;quick open a emacs client&lt;&#x2F;li&gt;
 &lt;li&gt;open terminal - vterm&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;org-mode&quot;&gt;org-mode&lt;&#x2F;h1&gt;
-&lt;h2 id=&quot;the-basic-format&quot;&gt;the basic format&lt;&#x2F;h2&gt;
-&lt;h2 id=&quot;the-schedule-part&quot;&gt;the schedule part&lt;&#x2F;h2&gt;
-&lt;h2 id=&quot;the-agenda&quot;&gt;the agenda&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;doc.norang.ca&#x2F;org-mode.html&quot;&gt;docs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The task management system includes TODO, schedule, agenda.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;TODO could track the time using of tasks by clock and task staus.&lt;&#x2F;li&gt;
+&lt;li&gt;schedule could manage the time of tasks.&lt;&#x2F;li&gt;
+&lt;li&gt;agenda could show all tasks in better view.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;org-keybindings&quot;&gt;Org Keybindings&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;change the # to *&lt;&#x2F;li&gt;
+&lt;li&gt;the key bindings
+&lt;ul&gt;
+&lt;li&gt;change the order of lines&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Fold tab shift&lt;&#x2F;li&gt;
+&lt;li&gt;toggle heading&#x2F;item
+&lt;ul&gt;
+&lt;li&gt;SPC m h&#x2F;i&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;goto
+&lt;ul&gt;
+&lt;li&gt;same level --&amp;gt; gj gk&lt;&#x2F;li&gt;
+&lt;li&gt;different level --&amp;gt; gh gl&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;&#x2F;h2&gt;
+&lt;p&gt;create todo&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;C-c C-t
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;change todo state&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;space m t
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;clock in&#x2F;out&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;C-c C-x C-i&#x2F;o
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;schedule&quot;&gt;schedule&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;agenda&quot;&gt;agenda&lt;&#x2F;h2&gt;
+&lt;p&gt;write the org file into custom.el&lt;&#x2F;p&gt;
 </content>
     </entry>
     <entry xml:lang="en">
