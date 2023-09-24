@@ -46,43 +46,74 @@
 <article>
   <h1>Doom Emacs starter</h1>
   
-  <p style="font-size:90%;">Posted on <time datetime="2023-09-02T00:00:00+00:00">September 02, 2023</time></p>
-
+    <p style="font-size:90%;">Posted on <time datetime="2023-09-02T00:00:00+00:00">September 02, 2023</time></p>
+  
   <p>
     <ul>
-      <li><a href="https://craftship.xyz/emacs/#preface">preface</a>
-      </li>
-    
-      <li><a href="https://craftship.xyz/emacs/#how-to-start-emacs">How to start emacs?</a>
-      </li>
-    
-      <li><a href="https://craftship.xyz/emacs/#config-file">config file</a>
       
-        <ul>
-          <li><a href="https://craftship.xyz/emacs/#change-the-font-and-theme">change the font and theme</a></li>
-        </ul>
-      </li>
-    
-      <li><a href="https://craftship.xyz/emacs/#shortkeys">shortkeys</a>
+        <li>
+          <a href="https://craftship.xyz/emacs/#preface">preface</a>
+          
+        </li>
       
-        <ul>
-          <li><a href="https://craftship.xyz/emacs/#keybindings-in-emacs">keybindings in emacs</a></li>
-        </ul>
-      </li>
-    
-      <li><a href="https://craftship.xyz/emacs/#org-mode">org-mode</a>
+        <li>
+          <a href="https://craftship.xyz/emacs/#config">config</a>
+          
+            <ul>
+              
+                <li>
+                  <a href="https://craftship.xyz/emacs/#how-to-start-emacs">How to start emacs?</a>
+                  
+                </li>
+              
+                <li>
+                  <a href="https://craftship.xyz/emacs/#config-file">config file</a>
+                  
+                    <ul>
+                      
+                        <li><a href="https://craftship.xyz/emacs/#change-the-font-and-theme">change the font and theme</a></li>
+                      
+                        <li><a href="https://craftship.xyz/emacs/#packages">packages</a></li>
+                      
+                    </ul>
+                  
+                </li>
+              
+                <li>
+                  <a href="https://craftship.xyz/emacs/#keybindings-in-emacs">keybindings in emacs</a>
+                  
+                </li>
+              
+            </ul>
+          
+        </li>
       
-        <ul>
-          <li><a href="https://craftship.xyz/emacs/#the-basic-format">the basic format</a></li>
-        
-          <li><a href="https://craftship.xyz/emacs/#the-schedule-part">the schedule part</a></li>
-        
-          <li><a href="https://craftship.xyz/emacs/#the-agenda">the agenda</a></li>
-        </ul>
-      </li>
+        <li>
+          <a href="https://craftship.xyz/emacs/#org-mode">org-mode</a>
+          
+            <ul>
+              
+                <li>
+                  <a href="https://craftship.xyz/emacs/#the-basic-format">the basic format</a>
+                  
+                </li>
+              
+                <li>
+                  <a href="https://craftship.xyz/emacs/#the-schedule-part">the schedule part</a>
+                  
+                </li>
+              
+                <li>
+                  <a href="https://craftship.xyz/emacs/#the-agenda">the agenda</a>
+                  
+                </li>
+              
+            </ul>
+          
+        </li>
+      
     </ul>
   </p>
-
 
   <h1 id="preface">preface</h1>
 <ul>
@@ -93,7 +124,8 @@
 <li>适应org mode , use it to post blog</li>
 </ul>
 <p>基础的使用包括 config的配置，快捷键。</p>
-<h1 id="how-to-start-emacs">How to start emacs?</h1>
+<h1 id="config">config</h1>
+<h2 id="how-to-start-emacs">How to start emacs?</h2>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=s0ed8Da3mjE">video</a>
 Boot it background, then use emacsclient to open it.</li>
@@ -104,34 +136,30 @@ Boot it background, then use emacsclient to open it.</li>
 <p>debug </p>
 <pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>emacs --debug-init
 </span></code></pre>
-<h1 id="config-file">config file</h1>
+<h2 id="config-file">config file</h2>
 <blockquote>
 <p>config.el</p>
 </blockquote>
-<h2 id="change-the-font-and-theme">change the font and theme</h2>
+<h3 id="change-the-font-and-theme">change the font and theme</h3>
 <p><a href="https://github.com/doomemacs/themes/tree/screenshots">theme</a></p>
 <p>Use the doom one package, then pick your favorite one.</p>
 <p>Change the font which you already installed on your computer.(Font Book in mac)
 <img src="https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/YgTIIMtest.jpg" alt="YgTIIMtest" /></p>
-<h1 id="shortkeys">shortkeys</h1>
+<h3 id="packages">packages</h3>
 <ul>
-<li>
-<p>quick open a emacs client</p>
-</li>
-<li>
-<p>M-x M means <strong>option</strong></p>
-</li>
-<li>
-<p>open terminal - vterm</p>
-</li>
-<li>
-<p>install the related UI plugins</p>
+<li>install the related UI plugins
 <ul>
 <li>how to install the plugin</li>
 </ul>
 </li>
 </ul>
 <h2 id="keybindings-in-emacs">keybindings in emacs</h2>
+<p>M-x M means <strong>option</strong></p>
+<p>The common workflow need a keybinding to faster the process, such as:</p>
+<ul>
+<li>quick open a emacs client</li>
+<li>open terminal - vterm</li>
+</ul>
 <h1 id="org-mode">org-mode</h1>
 <h2 id="the-basic-format">the basic format</h2>
 <h2 id="the-schedule-part">the schedule part</h2>
