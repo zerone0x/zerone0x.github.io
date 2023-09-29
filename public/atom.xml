@@ -5,8 +5,39 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-09-17T00:00:00+00:00</updated>
+    <updated>2023-09-29T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>双拼输入法</title>
+        <published>2023-09-29T00:00:00+00:00</published>
+        <updated>2023-09-29T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/shuangpin/" type="text/html"/>
+        <id>https://craftship.xyz/shuangpin/</id>
+        <content type="html">&lt;h1 id=&quot;xuan-ze-shuang-pin-fang-an&quot;&gt;选择双拼方案&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;xiao-he-shuang-pin&quot;&gt;小鹤双拼&lt;&#x2F;h1&gt;
+&lt;p&gt;https:&#x2F;&#x2F;flypy.com&#x2F;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;xLmJultest.png&quot; alt=&quot;xLmJultest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;pin-lu-biao&quot;&gt;频率表&lt;&#x2F;h1&gt;
+&lt;p&gt;https:&#x2F;&#x2F;github.com&#x2F;Zuoqiu-Yingyi&#x2F;efficient-pinyin-keys&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;fiO1pktest.png&quot; alt=&quot;fiO1pktest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;K2A4OYtest.png&quot; alt=&quot;K2A4OYtest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>template</title>
+        <published>2023-09-26T00:00:00+00:00</published>
+        <updated>2023-09-26T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/book/" type="text/html"/>
+        <id>https://craftship.xyz/book/</id>
+        <content type="html">&lt;p&gt;写东西和读书.&lt;&#x2F;p&gt;
+</content>
+    </entry>
     <entry xml:lang="en">
         <title>四季</title>
         <published>2023-09-17T00:00:00+00:00</published>
@@ -397,7 +428,7 @@
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;keybindings-in-emacs&quot;&gt;keybindings in emacs&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;keybindings&quot;&gt;keybindings&lt;&#x2F;h2&gt;
 &lt;p&gt;meta search:
 M-x M means &lt;strong&gt;option&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The common workflow need a keybinding to faster the process, such as:&lt;&#x2F;p&gt;
@@ -415,7 +446,7 @@ M-x M means &lt;strong&gt;option&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;li&gt;schedule could manage the time of tasks.&lt;&#x2F;li&gt;
 &lt;li&gt;agenda could show all tasks in better view.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;org-keybindings&quot;&gt;Org Keybindings&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;keybindings-1&quot;&gt;Keybindings&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;change the # to *&lt;&#x2F;li&gt;
 &lt;li&gt;the key bindings
