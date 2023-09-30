@@ -740,23 +740,32 @@ check the bios mode on security info, choose GPT if the mode is UEFI&lt;&#x2F;li
 &lt;ul&gt;
 &lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
 learn the i3 wm using&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
-中文编码问题&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
-config clash&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;init-list&quot;&gt;init list&lt;&#x2F;h1&gt;
 &lt;ul&gt;
-&lt;li&gt;clash&lt;&#x2F;li&gt;
-&lt;li&gt;dwn&lt;&#x2F;li&gt;
+&lt;li&gt;clash
+&lt;ul&gt;
+&lt;li&gt;Download the clash by the pacman
+&lt;ul&gt;
+&lt;li&gt;sudo pacman -Sy clash&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;download the clash conifg&lt;&#x2F;li&gt;
+&lt;li&gt;start the clash with the config
+&lt;ul&gt;
+&lt;li&gt;clash -d &amp;quot;config_path&amp;quot;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;larbs.xyz&#x2F;&quot;&gt;tool install script&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PL-p5XmQHB_JSrWHdm-Fb5khZpw2JXLImj&quot;&gt;dwm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;terminal
 &lt;ul&gt;
 &lt;li&gt;dotfiles&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
-&lt;li&gt;emacs&lt;&#x2F;li&gt;
 &lt;li&gt;browser&lt;&#x2F;li&gt;
-&lt;li&gt;settings&lt;&#x2F;li&gt;
 &lt;li&gt;tinktools&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
