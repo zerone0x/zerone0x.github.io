@@ -5,8 +5,22 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-09-29T00:00:00+00:00</updated>
+    <updated>2023-10-05T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>On privacy</title>
+        <published>2023-10-05T00:00:00+00:00</published>
+        <updated>2023-10-05T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/privacy/" type="text/html"/>
+        <id>https://craftship.xyz/privacy/</id>
+        <content type="html">&lt;ul&gt;
+&lt;li&gt;use the email alias&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+    </entry>
     <entry xml:lang="en">
         <title>双拼输入法</title>
         <published>2023-09-29T00:00:00+00:00</published>
@@ -84,6 +98,40 @@
         <id>https://craftship.xyz/run/</id>
         <content type="html">&lt;h1 id=&quot;preface&quot;&gt;preface&lt;&#x2F;h1&gt;
 &lt;p&gt;腿部发力占了生活中很大的部分，无论行走，跑步，各种运动，膝盖作为主要的关节，是很容易受伤的。如何在动态的过程中正确的发力，使膝盖得以保全？&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;issues&quot;&gt;issues&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;步幅不要太大&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;increase-the-speed-and-stamina&quot;&gt;increase the speed and Stamina&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;间歇快跑
+&lt;ul&gt;
+&lt;li&gt;4 * 2min
+&lt;ul&gt;
+&lt;li&gt;记录每次的距离&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;breathe
+&lt;ul&gt;
+&lt;li&gt;练习呼吸
+&lt;ul&gt;
+&lt;li&gt;用嘴呼吸,而不是鼻子 &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;热身&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_kGESn8ArrU&quot;&gt;全身的姿势&lt;&#x2F;a&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;xoUyzrtest.png&quot; alt=&quot;xoUyzrtest&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;runbundle.com&#x2F;tools&#x2F;heart-rate-zones-calculator&quot;&gt;心率分析&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Max HR: 220 - age = approx max HR
+&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;BHyGZKtest.png&quot; alt=&quot;BHyGZKtest&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;the-activities-using-knee&quot;&gt;the activities using knee&lt;&#x2F;h1&gt;
 &lt;p&gt;腿部的动态变化，带动了膝盖关节的运动&lt;&#x2F;p&gt;
 &lt;ul&gt;
