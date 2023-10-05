@@ -5,6 +5,9 @@ description = ""
 image = "hexcell.png"
 +++
 
+# nytimes
+
+Use [archive](https://archive.ph/) to get the articles from [nyt](https://www.nytimes.com/), and use [relingo](https://www.nytimes.com/) to record words.
 # preface
 
 - [IELTS Advantage reading](https://www.youtube.com/watch?v=OtmUQwPVLko)
