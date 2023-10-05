@@ -34,7 +34,11 @@
 &lt;h1 id=&quot;browser&quot;&gt;browser&lt;&#x2F;h1&gt;
 &lt;p&gt;I prefer &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=F7-bW2y6lcI&quot;&gt;firefox enhencced one&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;plugin&quot;&gt;plugin&lt;&#x2F;h2&gt;
-&lt;h1 id=&quot;umatrix-outdated&quot;&gt;umatrix(outdated)&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;arkenfox&#x2F;user.js&#x2F;wiki&quot;&gt;user.js&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Fr8UFJzpNls&quot;&gt;tutorial&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;umatrix-outdated&quot;&gt;umatrix(outdated)&lt;&#x2F;h3&gt;
 &lt;p&gt;https:&#x2F;&#x2F;github.com&#x2F;uMatrix-Rules&#x2F;uMatrix-Rules-Domain&lt;&#x2F;p&gt;
 </content>
     </entry>
