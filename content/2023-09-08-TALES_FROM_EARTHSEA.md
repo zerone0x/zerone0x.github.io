@@ -1,6 +1,8 @@
 +++
 title = "TALES FROM EARTHSEA"
 description = ""
+last_modified_date = "2023-09-10"
+
 [extra]
 image = "hexcell.png"
 +++
