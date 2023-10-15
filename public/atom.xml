@@ -1141,6 +1141,20 @@ babaisyou也可以玩，如果是全破解就好了，至少我不想从头开�
 &lt;p&gt;&lt;code&gt;=GOOGLETRANSLATE(A1,&amp;quot;en&amp;quot;,&amp;quot;zh-CN&amp;quot;) &lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;anki&quot;&gt;anki&lt;&#x2F;h1&gt;
 &lt;p&gt;export to csv --&amp;gt; anki-file-import --&amp;gt; awesomeTTS import&lt;&#x2F;p&gt;
+&lt;p&gt;I need to record more about the anki, the inspiration is from &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jwasham&#x2F;computer-science-flash-cards&quot;&gt;computer-science-flash-cards&lt;&#x2F;a&gt;, knowledge is not only to learn once to remember it, repeat and practice is important too, so I am precious that anki here.&lt;&#x2F;p&gt;
+&lt;p&gt;There are 2 questions:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;too many cards, how to arrange to study?
+&lt;ol&gt;
+&lt;li&gt;refer to &lt;a href=&quot;https:&#x2F;&#x2F;www.zhihu.com&#x2F;question&#x2F;465450224&quot;&gt;anki filter&lt;&#x2F;a&gt;, we could use the overall rule to filter them.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;whats the meaning of the memory parameters?
+&lt;ol&gt;
+&lt;li&gt;refer to &lt;a href=&quot;https:&#x2F;&#x2F;zhuanlan.zhihu.com&#x2F;p&#x2F;42921090&quot;&gt;anki parameters&lt;&#x2F;a&gt;, to know the internal, complex point, diff type cards(easy, normal, hard), the duration will be computed by the multiplication of the interval and the complex factor, the factor will be changed by the answer of the card. &lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
 </content>
     </entry>
     <entry xml:lang="en">
