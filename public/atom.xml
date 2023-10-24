@@ -100,6 +100,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.mozilla.org&#x2F;en-US&#x2F;&quot;&gt;Mozilla Developer Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;v2ex.com&#x2F;t&#x2F;712373&quot;&gt;V2EX 同样的标题，一样的文章，然而...&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.udemy.com&#x2F;course&#x2F;the-complete-web-developer-zero-to-mastery&#x2F;&quot;&gt;Udemy Web Development Course&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stackoverflow.com&#x2F;questions&#x2F;tagged&#x2F;javascript&quot;&gt;stackoverflow js&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;news&quot;&gt;NEWS&lt;&#x2F;h1&gt;
 &lt;ul&gt;
@@ -1061,14 +1062,27 @@ fellows&lt;&#x2F;li&gt;
 </content>
     </entry>
     <entry xml:lang="en">
+        <title>daily post</title>
+        <published>2023-07-15T00:00:00+00:00</published>
+        <updated>2023-07-15T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/dailypost/" type="text/html"/>
+        <id>https://craftship.xyz/dailypost/</id>
+        <content type="html">&lt;p&gt;练腿会让人认清自己。募集度类似心流，这在健身甚至所有运动里都是尤为重要的存在.&lt;&#x2F;p&gt;
+&lt;p&gt;做事情前收集信息是为了了解事情的大概流程，很多时候变成了“看五花八门的评论”，学会过滤主观观点，还是蛮节约时间的.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
         <title>PSV games</title>
         <published>2023-07-15T00:00:00+00:00</published>
         <updated>2023-07-15T00:00:00+00:00</updated>
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://craftship.xyz/2307/" type="text/html"/>
-        <id>https://craftship.xyz/2307/</id>
+        <link rel="alternate" href="https://craftship.xyz/psvgames/" type="text/html"/>
+        <id>https://craftship.xyz/psvgames/</id>
         <content type="html">&lt;p&gt;最近接触的新信息不算多.用psv玩了几年前标注的游戏&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;psv&quot;&gt;PSV&lt;&#x2F;h2&gt;
 &lt;p&gt;psv是十年前的掌机，它支持retro game(gba psp模拟器)。我将简单分享下大概一月的体验.最初吸引我的是p4g，它没有p5，p4和p5剧情上没有关系，重点在剧情，但是战斗和迷宫已经把我劝退了。&lt;&#x2F;p&gt;
@@ -1110,19 +1124,9 @@ fellows&lt;&#x2F;li&gt;
 babaisyou也可以玩，如果是全破解就好了，至少我不想从头开始.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;yi-hou-de-fang-xiang&quot;&gt;以后的方向&lt;&#x2F;h2&gt;
 &lt;p&gt;想找些puzzle game，横版过关，独占(psv，psp)，新的品种的(太阁立志传)。&lt;&#x2F;p&gt;
-</content>
-    </entry>
-    <entry xml:lang="en">
-        <title>daily post</title>
-        <published>2023-07-15T00:00:00+00:00</published>
-        <updated>2023-07-15T00:00:00+00:00</updated>
-        <author>
-          <name>Unknown</name>
-        </author>
-        <link rel="alternate" href="https://craftship.xyz/dailypost/" type="text/html"/>
-        <id>https://craftship.xyz/dailypost/</id>
-        <content type="html">&lt;p&gt;练腿会让人认清自己。募集度类似心流，这在健身甚至所有运动里都是尤为重要的存在.&lt;&#x2F;p&gt;
-&lt;p&gt;做事情前收集信息是为了了解事情的大概流程，很多时候变成了“看五花八门的评论”，学会过滤主观观点，还是蛮节约时间的.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;how-to-install-other-types-of-games&quot;&gt;how to install other types of games&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;vpk&quot;&gt;VPK&lt;&#x2F;h2&gt;
+&lt;p&gt;到vitashell里按⭕️安装&lt;&#x2F;p&gt;
 </content>
     </entry>
     <entry xml:lang="en">

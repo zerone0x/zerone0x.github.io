@@ -4,10 +4,6 @@
         <loc>https://craftship.xyz/</loc>
     </url>
     <url>
-        <loc>https://craftship.xyz/2307/</loc>
-        <lastmod>2023-07-15</lastmod>
-    </url>
-    <url>
         <loc>https://craftship.xyz/4seasons/</loc>
         <lastmod>2023-09-17</lastmod>
     </url>
@@ -81,6 +77,10 @@
     <url>
         <loc>https://craftship.xyz/problem/</loc>
         <lastmod>2023-06-02</lastmod>
+    </url>
+    <url>
+        <loc>https://craftship.xyz/psvgames/</loc>
+        <lastmod>2023-07-15</lastmod>
     </url>
     <url>
         <loc>https://craftship.xyz/rss/</loc>
