@@ -105,6 +105,12 @@
                 <li>
                   <a href="https://craftship.xyz/emacs/#todo">TODO</a>
                   
+                    <ul>
+                      
+                        <li><a href="https://craftship.xyz/emacs/#clock-table-report">clock table report</a></li>
+                      
+                    </ul>
+                  
                 </li>
               
                 <li>
@@ -138,6 +144,9 @@
 <p>Boot it background, then use emacsclient to open it.</p>
 <pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>emacs --daemon 
 </span><span>emacsclient -c
+</span></code></pre>
+<p>close emacs</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>emacsclient --eval &quot;(progn (setq kill-emacs-hook &#39;nil) (kill-emacs))&quot;
 </span></code></pre>
 <p>close window</p>
 <pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>C-x k
@@ -211,11 +220,35 @@ M-x M means <strong>option</strong></p>
 <p>change todo state</p>
 <pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>space m t
 </span></code></pre>
+<blockquote>
+<p>use RET toggles TODO and DONE
+CTRL-RET adds a new 1ist items at the same level.
+Tick/untick with C-c C-c or SPC-m-x</p>
+</blockquote>
 <p>clock in/out</p>
 <pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>C-c C-x C-i/o
 </span></code></pre>
+<h3 id="clock-table-report">clock table report</h3>
+<p>Include many files:</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>：scope (&quot;clocktables.org&quot; &quot;org-files/personal.org&quot;)
+</span></code></pre>
+<p>Use lambda to include:</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>clocktable ：scope (1ambda() (directory-files-recursively &quot;~/Desktop/&quot; &quot;.org&quot;))
+</span></code></pre>
+<p>show duration report</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>today, thisweek, thismonth
+</span></code></pre>
 <h2 id="schedule">schedule</h2>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>space m d s
+</span></code></pre>
+<p>circlely task
+execute after 1day circlely</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>++1d
+</span></code></pre>
 <h2 id="agenda">agenda</h2>
+<p>open agenda</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>space o A
+</span></code></pre>
 <p>write the org file into custom.el</p>
 <ul>
 <li><a href="https://github.com/yilkalargaw/org-auto-tangle">org-auto-tangle</a></li>
