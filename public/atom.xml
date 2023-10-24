@@ -604,11 +604,15 @@ Tick&#x2F;untick with C-c C-c or SPC-m-x&lt;&#x2F;p&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;：scope (&amp;quot;clocktables.org&amp;quot; &amp;quot;org-files&#x2F;personal.org&amp;quot;)
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Use lambda to include:&lt;&#x2F;p&gt;
-&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;clocktable ：scope (1ambda() (directory-files-recursively &amp;quot;~&#x2F;Desktop&#x2F;&amp;quot; &amp;quot;.org&amp;quot;))
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;clocktable ：scope (lambda() (directory-files-recursively &amp;quot;~&#x2F;Downloads&#x2F;&amp;quot; &amp;quot;.org&amp;quot;))
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;show duration report&lt;&#x2F;p&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;today, thisweek, thismonth
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;refresh table with C-c C-c&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;LrkaKntest.jpg&quot; alt=&quot;LrkaKntest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;schedule&quot;&gt;schedule&lt;&#x2F;h2&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;space m d s
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
