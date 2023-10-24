@@ -591,11 +591,11 @@ M-x M means &lt;strong&gt;option&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;change todo state&lt;&#x2F;p&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;space m t
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-&lt;blockquote&gt;
-&lt;p&gt;use RET toggles TODO and DONE
-CTRL-RET adds a new 1ist items at the same level.
-Tick&#x2F;untick with C-c C-c or SPC-m-x&lt;&#x2F;p&gt;
-&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;use RET toggles TODO and DONE&lt;&#x2F;li&gt;
+&lt;li&gt;CTRL-RET adds a new 1ist items at the same level.&lt;&#x2F;li&gt;
+&lt;li&gt;Tick&#x2F;untick with C-c C-c or SPC-m-x&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;p&gt;clock in&#x2F;out&lt;&#x2F;p&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;C-c C-x C-i&#x2F;o
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
@@ -609,9 +609,14 @@ Tick&#x2F;untick with C-c C-c or SPC-m-x&lt;&#x2F;p&gt;
 &lt;p&gt;show duration report&lt;&#x2F;p&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;today, thisweek, thismonth
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;refresh table with C-c C-c&lt;&#x2F;p&gt;
-&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=zqAYHWv36X0&amp;amp;list=PLSxeivFT4JIrx6rwQB8VpSs3YeyTFuSwk&amp;amp;index=5&quot;&gt;Org Mode Time and Task Tools – Straightforward Emacs&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;LrkaKntest.jpg&quot; alt=&quot;LrkaKntest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;schedule&quot;&gt;schedule&lt;&#x2F;h2&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;space m d s
