@@ -19,7 +19,7 @@
         <content type="html"></content>
     </entry>
     <entry xml:lang="en">
-        <title>On privacy</title>
+        <title>Privacy Tools collection</title>
         <published>2023-10-05T00:00:00+00:00</published>
         <updated>2023-10-05T00:00:00+00:00</updated>
         <author>
@@ -39,6 +39,11 @@
 &lt;li&gt;工作个人共同使用的&lt;&#x2F;li&gt;
 &lt;li&gt;个人泛型使用的&lt;&#x2F;li&gt;
 &lt;li&gt;隐私度高的&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;alias&quot;&gt;alias&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;anonaddy.com&#x2F;&quot;&gt;AnonAddy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;simplelogin.io&#x2F;&quot;&gt;SimpleLogin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;phone&quot;&gt;phone&lt;&#x2F;h1&gt;
 &lt;p&gt;Temp phone:&lt;&#x2F;p&gt;
@@ -83,7 +88,7 @@
 </content>
     </entry>
     <entry xml:lang="en">
-        <title>books</title>
+        <title>Books</title>
         <published>2023-09-26T00:00:00+00:00</published>
         <updated>2023-09-26T00:00:00+00:00</updated>
         <author>
@@ -115,6 +120,13 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jwasham&#x2F;coding-interview-university&#x2F;blob&#x2F;main&#x2F;translations&#x2F;README-cn.md&quot;&gt;Coding Interview University - 中文版&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tuteng&#x2F;Best-websites-a-programmer-should-visit-zh&quot;&gt;程序员应该访问的最佳网站-中文版&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;tech&quot;&gt;TECH&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hn.lindylearn.io&#x2F;best&quot;&gt;hn rank all the times&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cheeaun&#x2F;awesome-hacker-news&quot;&gt;awesome hn&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hn.algolia.com&#x2F;?dateRange=pastMonth&amp;amp;page=0&amp;amp;prefix=true&amp;amp;query=show%20hn&amp;amp;sort=byPopularity&amp;amp;type=story&quot;&gt;show hn&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bestofshowhn.com&#x2F;&quot;&gt;best of hn&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
     </entry>
