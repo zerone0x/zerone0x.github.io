@@ -5,19 +5,8 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-10-10T00:00:00+00:00</updated>
+    <updated>2023-10-05T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
-    <entry xml:lang="en">
-        <title>template</title>
-        <published>2023-10-10T00:00:00+00:00</published>
-        <updated>2023-10-10T00:00:00+00:00</updated>
-        <author>
-          <name>Unknown</name>
-        </author>
-        <link rel="alternate" href="https://craftship.xyz/insomnia/" type="text/html"/>
-        <id>https://craftship.xyz/insomnia/</id>
-        <content type="html"></content>
-    </entry>
     <entry xml:lang="en">
         <title>Privacy Tools collection</title>
         <published>2023-10-05T00:00:00+00:00</published>
@@ -540,6 +529,9 @@
 &lt;p&gt;debug &lt;&#x2F;p&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;emacs --debug-init
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;sync the config&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;doom&#x2F;reload
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;h2 id=&quot;config-file&quot;&gt;config file&lt;&#x2F;h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;config.el&lt;&#x2F;p&gt;
@@ -553,9 +545,17 @@
 &lt;ul&gt;
 &lt;li&gt;install the related UI plugins
 &lt;ul&gt;
-&lt;li&gt;how to install the plugin&lt;&#x2F;li&gt;
+&lt;li&gt;how to install the plugin
+&lt;ul&gt;
+&lt;li&gt;M-x install the packages&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;plugins-recommend&quot;&gt;plugins recommend&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;calvinwyoung&#x2F;org-autolist&quot;&gt;org-autolist&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;keybindings&quot;&gt;keybindings&lt;&#x2F;h2&gt;
 &lt;p&gt;meta search:
@@ -565,6 +565,15 @@ M-x M means &lt;strong&gt;option&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;li&gt;quick open a emacs client&lt;&#x2F;li&gt;
 &lt;li&gt;open terminal - vterm&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;change-the-keybindings&quot;&gt;change the keybindings&lt;&#x2F;h3&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;(map! :after org
+&lt;&#x2F;span&gt;&lt;span&gt;    :map org-mode-map
+&lt;&#x2F;span&gt;&lt;span&gt;    :prefix &amp;quot;C-c&amp;quot;
+&lt;&#x2F;span&gt;&lt;span&gt;    &amp;quot;i&amp;quot; #&amp;#39;org-insert-heading
+&lt;&#x2F;span&gt;&lt;span&gt;    &amp;quot;d&amp;quot; #&amp;#39;org-next-visible-heading
+&lt;&#x2F;span&gt;&lt;span&gt;    &amp;quot;u&amp;quot; #&amp;#39;org-previous-visible-heading
+&lt;&#x2F;span&gt;&lt;span&gt;     )
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;h1 id=&quot;org-mode&quot;&gt;org-mode&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;doc.norang.ca&#x2F;org-mode.html&quot;&gt;docs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -575,7 +584,7 @@ M-x M means &lt;strong&gt;option&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;li&gt;schedule could manage the time of tasks.&lt;&#x2F;li&gt;
 &lt;li&gt;agenda could show all tasks in better view.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;keybindings-1&quot;&gt;Keybindings&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;shortcuts&quot;&gt;shortcuts&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;change the # to *&lt;&#x2F;li&gt;
 &lt;li&gt;the key bindings
@@ -645,6 +654,11 @@ execute after 1day circlely&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;yilkalargaw&#x2F;org-auto-tangle&quot;&gt;org-auto-tangle&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=D3FzMPZm7vY&quot;&gt;video&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;end&quot;&gt;end&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discourse.doomemacs.org&#x2F;&quot;&gt;Doom Emacs Discourse&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;orgmode.org&#x2F;manual&#x2F;index.html&quot;&gt;The Org Manual&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
     </entry>
@@ -1204,6 +1218,26 @@ babaisyou也可以玩，如果是全破解就好了，至少我不想从头开�
 &lt;li&gt;whats the meaning of the memory parameters?
 &lt;ol&gt;
 &lt;li&gt;refer to &lt;a href=&quot;https:&#x2F;&#x2F;zhuanlan.zhihu.com&#x2F;p&#x2F;42921090&quot;&gt;anki parameters&lt;&#x2F;a&gt;, to know the internal, complex point, diff type cards(easy, normal, hard), the duration will be computed by the multiplication of the interval and the complex factor, the factor will be changed by the answer of the card. &lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;how to make decks and cards?
+&lt;ol&gt;
+&lt;li&gt;why we make cards?
+&lt;ol&gt;
+&lt;li&gt;to memory the basic points, these points dont have the connections mostly.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;the important points are: 
+&lt;ol&gt;
+&lt;li&gt;tag
+&lt;ol&gt;
+&lt;li&gt;easier to filter&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;format automatically&lt;&#x2F;li&gt;
+&lt;li&gt;better to use different way to input, such as vscode&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
