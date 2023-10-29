@@ -28,10 +28,7 @@
         </author>
         <link rel="alternate" href="https://craftship.xyz/privacy/" type="text/html"/>
         <id>https://craftship.xyz/privacy/</id>
-        <content type="html">&lt;ul&gt;
-&lt;li&gt;use the email alias&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h1 id=&quot;email&quot;&gt;email&lt;&#x2F;h1&gt;
+        <content type="html">&lt;h1 id=&quot;email&quot;&gt;email&lt;&#x2F;h1&gt;
 &lt;p&gt;It includes main email and temp email.&lt;&#x2F;p&gt;
 &lt;p&gt;For the main email, I prefer use privacy one.&lt;&#x2F;p&gt;
 &lt;p&gt;For the &lt;a href=&quot;https:&#x2F;&#x2F;temp-mail.org&#x2F;en&#x2F;&quot;&gt;temp mail&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -49,10 +46,8 @@
 &lt;h1 id=&quot;phone&quot;&gt;phone&lt;&#x2F;h1&gt;
 &lt;p&gt;Temp phone:&lt;&#x2F;p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.receivesms.co&#x2F;&quot;&gt;Receive SMS Online for FREE and with NO Registration&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.receive-sms-online.info&#x2F;&quot;&gt;Free Phone Number for Verification&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smsreceivefree.com&#x2F;&quot;&gt;Receive SMS Online&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.temp-mails.com&#x2F;Country&#x2F;US&#x2F;United-States&quot;&gt;Free Receive SMS Online&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.receivesms.co&#x2F;&quot;&gt;Receive SMS Online for FREE and with NO Registration&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;h1 id=&quot;browser&quot;&gt;browser&lt;&#x2F;h1&gt;
 &lt;p&gt;I prefer &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=F7-bW2y6lcI&quot;&gt;firefox enhencced one&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -61,8 +56,6 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;arkenfox&#x2F;user.js&#x2F;wiki&quot;&gt;user.js&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Fr8UFJzpNls&quot;&gt;tutorial&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;umatrix-outdated&quot;&gt;umatrix(outdated)&lt;&#x2F;h3&gt;
-&lt;p&gt;https:&#x2F;&#x2F;github.com&#x2F;uMatrix-Rules&#x2F;uMatrix-Rules-Domain&lt;&#x2F;p&gt;
 </content>
     </entry>
     <entry xml:lang="en">
