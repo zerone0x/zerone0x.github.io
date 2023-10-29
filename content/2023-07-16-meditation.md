@@ -1,7 +1,7 @@
 +++
 title = "Meditation"
 description = "A habit I want to build"
-last_modified_date = "2023-10-10"
+last_modified_date = "2023-10-29"
 
 [extra]
 image = "hexcell.png"
