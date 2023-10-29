@@ -5,8 +5,20 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-10-05T00:00:00+00:00</updated>
+    <updated>2023-10-29T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Better Life Guide</title>
+        <published>2023-10-29T00:00:00+00:00</published>
+        <updated>2023-10-29T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/selfhelp/" type="text/html"/>
+        <id>https://craftship.xyz/selfhelp/</id>
+        <content type="html">&lt;p&gt;This means to help people who are still experiencing depression and anxiety. It may not work immediately, but trust me, you will be okay and you will get better. Grab a bottle of water and open it.&lt;&#x2F;p&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;https:&#x2F;&#x2F;itch.io&#x2F;embed-upload&#x2F;8985547?color=333333&quot; allowfullscreen=&quot;&quot; width=&quot;900&quot; height=&quot;770&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jumpbit.itch.io&#x2F;better-life-guide-foru&quot;&gt;Play Better Life Guide on itch.io&lt;&#x2F;a&gt;&lt;&#x2F;iframe&gt;</content>
+    </entry>
     <entry xml:lang="en">
         <title>Privacy Tools collection</title>
         <published>2023-10-05T00:00:00+00:00</published>
