@@ -5,8 +5,60 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-10-29T00:00:00+00:00</updated>
+    <updated>2023-10-30T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>ielts writing</title>
+        <published>2023-10-30T00:00:00+00:00</published>
+        <updated>2023-10-30T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/ieltswrite/" type="text/html"/>
+        <id>https://craftship.xyz/ieltswrite/</id>
+        <content type="html">&lt;h1 id=&quot;preface&quot;&gt;Preface&lt;&#x2F;h1&gt;
+&lt;p&gt;Do task2 first, then task1.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;part-1&quot;&gt;Part 1&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ieltsadvantage.com&#x2F;writing-task-1&#x2F;&quot;&gt;IELTS Writing Task 1: Everything You Need to Know&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;frequency&quot;&gt;Frequency&lt;&#x2F;h2&gt;
+&lt;p&gt;There are many types of graphs, so its a must to know the frequency of it.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;图类型&lt;&#x2F;th&gt;&lt;th&gt;频率&lt;&#x2F;th&gt;&lt;th&gt;频率(%)&lt;&#x2F;th&gt;&lt;th&gt;范文示例&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ieltsadvantage.com&#x2F;2015&#x2F;04&#x2F;07&#x2F;writing-task-1-line-graph-sample-answer-us-consumption-of-energy&#x2F;&quot;&gt;line chart&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;33.33%&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ieltsadvantage.com&#x2F;2015&#x2F;04&#x2F;07&#x2F;writing-task-1-line-graph-sample-answer-us-consumption-of-energy&#x2F;&quot;&gt;line ex&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ieltsadvantage.com&#x2F;2015&#x2F;03&#x2F;24&#x2F;ielts-writing-task-1-maps-lesson&#x2F;&quot;&gt;地图&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;19.05%&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;柱状图&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;19.05%&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;流程图&lt;&#x2F;td&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;14.29%&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;混合图&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;9.52%&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;总计&lt;&#x2F;td&gt;&lt;td&gt;21&lt;&#x2F;td&gt;&lt;td&gt;100%&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;structure&quot;&gt;structure&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Steps&lt;&#x2F;th&gt;&lt;th&gt;Content&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Introduction&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ieltsadvantage.com&#x2F;2015&#x2F;03&#x2F;31&#x2F;paraphrase-ielts&#x2F;&quot;&gt;Paraphrase&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ieltsadvantage.com&#x2F;2015&#x2F;05&#x2F;13&#x2F;ielts-task-1-overview&#x2F;&quot;&gt;Overview&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Overview the main feat and do some comparison&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Details of feature 1&lt;&#x2F;td&gt;&lt;td&gt;Supporting details&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Details of feature 2&lt;&#x2F;td&gt;&lt;td&gt;Supporting details&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ieltsadvantage.com&#x2F;2015&#x2F;03&#x2F;09&#x2F;ielts-writing-task-1-charts-lesson&#x2F;&quot;&gt;IELTS Writing Task 1- Charts Lesson – IELTS Advantage&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;paraphrase&quot;&gt;Paraphrase&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;compare ... with regard to .. from .. to...&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;charts&quot;&gt;charts&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;line-chart&quot;&gt;line chart&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;dynamic (time)
+&lt;ul&gt;
+&lt;li&gt;the trend(up or down)&lt;&#x2F;li&gt;
+&lt;li&gt;peak&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;static
+&lt;ul&gt;
+&lt;li&gt;highest&#x2F;lowest value&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+    </entry>
     <entry xml:lang="en">
         <title>Better Life Guide</title>
         <published>2023-10-29T00:00:00+00:00</published>
