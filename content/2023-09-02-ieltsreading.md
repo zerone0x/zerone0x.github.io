@@ -7,10 +7,9 @@ last_modified_date = "2023-10-29"
 image = "hexcell.png"
 +++
 
-# nytimes
-
-Use [archive](https://archive.ph/) to get the articles from [nyt](https://www.nytimes.com/), and use [relingo](https://www.nytimes.com/) to record words.
 # preface
+
+part1是最简单的,part2
 
 - [IELTS Advantage reading](https://www.youtube.com/watch?v=OtmUQwPVLko)
 - [IELTS Advantage listening](https://www.youtube.com/watch?v=q7xCHfDRdug&t=2280s)
@@ -69,3 +68,7 @@ Use [archive](https://archive.ph/) to get the articles from [nyt](https://www.ny
 ### 易错点
 - 速度太快，对中心定位不准确（只靠开头结尾），导致中心偏移
   - heading还是尽可能读下中间部分的细节，以防止误选
+
+# nytimes
+
+Use [archive](https://archive.ph/) to get the articles from [nyt](https://www.nytimes.com/), and use [relingo](https://www.nytimes.com/) to record words.

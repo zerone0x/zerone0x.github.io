@@ -10,6 +10,7 @@ image = "hexcell.png"
 # Preface
 
 Do task2 first, then task1.
+Need to collect some common using phrases.
 
 
 # Part 1
@@ -43,6 +44,34 @@ There are many types of graphs, so its a must to know the frequency of it.
 ### Paraphrase
 
 - compare ... with regard to .. from .. to...
+
+### Overview
+
+> 3-4 points
+> start with `Overall`
+> The line graph shows/display
+> noticeable
+> percentage
+> reach
+>Overall, **it can be seen** that the British greenhouse emission was **significantly higher than other nations** in the 40 years, and Portugal's figure was the **lowest all the time**. **It is also noticeable** that the figure for Italy and Portugal **witnessed an increase**, **while the rate** for the UK and Sweden **dropped**. In 2007, Sweden's average carbon emissions **equaled** Portugal's.
+
+- year
+  - over the xx years/year period
+
+- meanwhile
+ 
+- Dynamic
+  - trend
+  - increase/decrease fluctuate peaks/lows
+  - specifical point(equal point)
+- Static
+  - highest/lowest values
+ 'while'. 'although', 'with', 'even though', 'whereas' or 'and'.
+
+
+### Details
+
+#### Static
 
 ## charts
 
