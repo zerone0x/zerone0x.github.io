@@ -10,6 +10,12 @@ image = "hexcell.png"
 # preface
 
 part1是最简单的,part2
+I will choose the most frequent type test to practice
+配对 多选 填空 first
+
+watch this:
+https://www.youtube.com/watch?v=hT4uSyRrUE4&t=457s
+
 
 - [IELTS Advantage reading](https://www.youtube.com/watch?v=OtmUQwPVLko)
 - [IELTS Advantage listening](https://www.youtube.com/watch?v=q7xCHfDRdug&t=2280s)

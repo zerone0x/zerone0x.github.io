@@ -661,6 +661,15 @@ M-x M means &lt;strong&gt;option&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;li&gt;quick open a emacs client&lt;&#x2F;li&gt;
 &lt;li&gt;open terminal - vterm&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;shortkey&quot;&gt;shortkey&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;buffer
+&lt;ul&gt;
+&lt;li&gt;kill &lt;code&gt;C-x k&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;switch &lt;code&gt;C-x b&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;change-the-keybindings&quot;&gt;change the keybindings&lt;&#x2F;h3&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;(map! :after org
 &lt;&#x2F;span&gt;&lt;span&gt;    :map org-mode-map
@@ -768,7 +777,11 @@ execute after 1day circlely&lt;&#x2F;p&gt;
         <link rel="alternate" href="https://craftship.xyz/ieltsreading/" type="text/html"/>
         <id>https://craftship.xyz/ieltsreading/</id>
         <content type="html">&lt;h1 id=&quot;preface&quot;&gt;preface&lt;&#x2F;h1&gt;
-&lt;p&gt;part1是最简单的,part2&lt;&#x2F;p&gt;
+&lt;p&gt;part1是最简单的,part2
+I will choose the most frequent type test to practice
+配对 多选 填空 first&lt;&#x2F;p&gt;
+&lt;p&gt;watch this:
+https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hT4uSyRrUE4&amp;amp;t=457s&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=OtmUQwPVLko&quot;&gt;IELTS Advantage reading&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=q7xCHfDRdug&amp;amp;t=2280s&quot;&gt;IELTS Advantage listening&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
