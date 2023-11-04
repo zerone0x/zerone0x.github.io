@@ -128,9 +128,15 @@
 </li>
 </ol>
 <h1 id="anki-for-vscode">anki for vscode</h1>
-<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>## welcome
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>## recursion
 </span><span>```python
-</span><span>print(&#39;welcome&#39;)
+</span><span>def factorial(n):
+</span><span>    # Base case: factorial of 0 or 1 is 1
+</span><span>    if n == 0 or n == 1:
+</span><span>        return 1
+</span><span>    # Recursive case: factorial of n is n multiplied by factorial of (n-1)
+</span><span>    else:
+</span><span>        return n * factorial(n-1)
 </span><span>\```
 </span></code></pre>
 
