@@ -71,6 +71,7 @@ There are many types of graphs, so its a must to know the frequency of it.
 
 ### Details
 
+
 #### Static
 
 ## charts

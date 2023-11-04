@@ -9,6 +9,10 @@ image = "hexcell.png"
 
 # preface
 
+speak loudly and practice
+- [vowel](https://www.youtube.com/watch?v=jaRcbpN_KlM&list=PLrqHrGoMJdTQ__1eH4a5EW43NQvDuRjnr&index=14)
+- [IPA](https://www.youtube.com/watch?v=b_qcAuHhJIc&list=PL76E3034895AF6FF4)
+
 其实口语的话题离不开生活，工作，运动，文化，旅行.
 
 part1和part3来说，是需要回答yes/no，再跟上自己的理由/看法，再加点互动更好。
