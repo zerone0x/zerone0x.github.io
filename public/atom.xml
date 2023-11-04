@@ -1327,8 +1327,8 @@ babaisyou也可以玩，如果是全破解就好了，至少我不想从头开�
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://craftship.xyz/yu-liao-ku/" type="text/html"/>
-        <id>https://craftship.xyz/yu-liao-ku/</id>
+        <link rel="alternate" href="https://craftship.xyz/yu-liao-ku-anki/" type="text/html"/>
+        <id>https://craftship.xyz/yu-liao-ku-anki/</id>
         <content type="html">&lt;p&gt;记录下如何自动化听写并制作卡片导入Anki&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;bi-jiao-dui-cuo&quot;&gt;比较对错&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;code&gt;=IF(A1&amp;lt;&amp;gt;B1, B1, &amp;quot;&amp;quot;)  &lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
@@ -1370,6 +1370,12 @@ babaisyou也可以玩，如果是全破解就好了，至少我不想从头开�
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
+&lt;h1 id=&quot;anki-for-vscode&quot;&gt;anki for vscode&lt;&#x2F;h1&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;## welcome
+&lt;&#x2F;span&gt;&lt;span&gt;```python
+&lt;&#x2F;span&gt;&lt;span&gt;print(&amp;#39;welcome&amp;#39;)
+&lt;&#x2F;span&gt;&lt;span&gt;\```
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 </content>
     </entry>
     <entry xml:lang="en">
