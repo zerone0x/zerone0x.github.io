@@ -78,3 +78,78 @@ https://www.youtube.com/watch?v=hT4uSyRrUE4&t=457s
 # nytimes
 
 Use [archive](https://archive.ph/) to get the articles from [nyt](https://www.nytimes.com/), and use [relingo](https://www.nytimes.com/) to record words.
+
+https://www.youtube.com/watch?v=hT4uSyRrUE4&t=457s
+https://www.youtube.com/watch?v=OtmUQwPVLko
+
+# sentence completeion/summary completeion
+- read the incomplete sentence first
+- predict answer
+- think of synonyms
+- scan for location
+- read section carefully
+Where the answer - before you think which is the correct answer
+
+# multiple choices
+
+- skim text to understand meaning. 
+-!!!!!!  think about the diff in options 
+- locate section of text(synonyms)
+- read that section carefully
+- which options are wrong
+- read Q and make final choice 
+
+# label diagram
+* understand qs
+* underline the keywords （nouns
+* think of synonyms
+* scan the location of answer
+* read section carefully
+* read Q again
+
+# true false
+look the qs and section carefully
+
+# yes/no 
+agree/disagree with the author's opinion
+too much time on NG
+
+# matching sentence
+> problem：use logic or grammar
+- read the first part of sentences first
+- predict ending before checking
+- matching the obvious one
+- eliminate the wrong endings
+- Match endings you think might right matching
+- locate part of text
+- read carefully and choose
+
+# match name
+> problem write name immediately
+- scan the name 
+- focus the names mentioned once first
+- read their research in detail
+- match it
+- delete the statement and move one
+
+# matching info
+> KEY:Do it last!!!!
+- read the qs first and think of the synonyms
+- skim the text
+- read QS again think about the location 
+- scan to find the location, underline and check QS again 
+- mark correct, if possible, if not, move on to next paragraph
+
+# table chart
+- Pls read the instructions
+- locate the paragraph
+- read section carefully
+- transfer words
+- spell check
+
+# heading
+- read each paragraph with the intention to write your own heading
+- look at headings. focus on understand
+- match any obvious headings
+- for reminder, read paragraph carefully and choose correct option.
+

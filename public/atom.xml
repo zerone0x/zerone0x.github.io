@@ -5,8 +5,55 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-10-30T00:00:00+00:00</updated>
+    <updated>2023-11-11T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>ielts listen</title>
+        <published>2023-11-11T00:00:00+00:00</published>
+        <updated>2023-11-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/ieltslisten/" type="text/html"/>
+        <id>https://craftship.xyz/ieltslisten/</id>
+        <content type="html">&lt;h1 id=&quot;preface&quot;&gt;preface&lt;&#x2F;h1&gt;
+&lt;p&gt;the main objects r part 2 and 3&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;map&quot;&gt;map&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;be familiar with the map
+&lt;ul&gt;
+&lt;li&gt;every answers&#x27; location feat&lt;&#x2F;li&gt;
+&lt;li&gt;the entry&#x27;s diff routes&lt;&#x2F;li&gt;
+&lt;li&gt;the synonyms of the answer&lt;&#x2F;li&gt;
+&lt;li&gt;be careful for the trap
+&lt;ul&gt;
+&lt;li&gt;the changes: used to --&amp;gt; move to new place&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;multi-choice&quot;&gt;multi choice&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;find keywords
+&lt;ul&gt;
+&lt;li&gt;compare the similar choices&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;synonyms 
+&lt;ul&gt;
+&lt;li&gt;like the abstract to detail
+&lt;ul&gt;
+&lt;li&gt;more detail, examples&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;dont write 1st answer&lt;&#x2F;li&gt;
+&lt;li&gt;be careful the &lt;code&gt;but however&lt;&#x2F;code&gt; in the materials&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+    </entry>
     <entry xml:lang="en">
         <title>ielts writing</title>
         <published>2023-10-30T00:00:00+00:00</published>
@@ -17,10 +64,135 @@
         <link rel="alternate" href="https://craftship.xyz/ieltswrite/" type="text/html"/>
         <id>https://craftship.xyz/ieltswrite/</id>
         <content type="html">&lt;h1 id=&quot;preface&quot;&gt;Preface&lt;&#x2F;h1&gt;
-&lt;p&gt;Do task2 first, then task1.
-Need to collect some common using phrases.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;no complicate&lt;&#x2F;li&gt;
+&lt;li&gt;do task 2 first, not task1&lt;&#x2F;li&gt;
+&lt;li&gt;task2 - 40mins, task1 - 20mins&lt;&#x2F;li&gt;
+&lt;li&gt;1 structure&lt;&#x2F;li&gt;
+&lt;li&gt;practice overview
+ielts advantage - band 9 overview
+compare with mine, find the diff to make progress on the overview&lt;&#x2F;li&gt;
+&lt;li&gt;the value not need to be accurate, use around,about.. make easier.. &lt;&#x2F;li&gt;
+&lt;li&gt;get the professional to review my articles. 
+to aware the mistake. &lt;&#x2F;li&gt;
+&lt;li&gt;word count. turn on the word count in the end. &lt;&#x2F;li&gt;
+&lt;li&gt;paraphrasing
+real test. 
+check the grammar
+find the pattern. - task1- synonyms. &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;part-1&quot;&gt;Part 1&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ieltsadvantage.com&#x2F;writing-task-1&#x2F;&quot;&gt;IELTS Writing Task 1: Everything You Need to Know&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;problem&quot;&gt;problem&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;describe info&lt;&#x2F;li&gt;
+&lt;li&gt;dont look too much on the info &lt;&#x2F;li&gt;
+&lt;li&gt;time: under 20 mins
+prepare time: 1&#x2F;3&lt;&#x2F;li&gt;
+&lt;li&gt;structure
+intro overview detail&lt;&#x2F;li&gt;
+&lt;li&gt;grammer mistakes&lt;&#x2F;li&gt;
+&lt;li&gt;poor overview
+the overview is important for 7 points&lt;&#x2F;li&gt;
+&lt;li&gt;Inaccurate data
+under stress. time management. approximations. &lt;&#x2F;li&gt;
+&lt;li&gt;visual data. - structure&lt;&#x2F;li&gt;
+&lt;li&gt;ask help for others to review.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;tips&quot;&gt;tips&lt;&#x2F;h2&gt;
+&lt;p&gt;pause ant test
+&lt;a href=&quot;https:&#x2F;&#x2F;www.ieltsadvantage.com&#x2F;&quot;&gt;ielts&lt;&#x2F;a&gt;
+https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=tgwibVefUKk&lt;&#x2F;p&gt;
+&lt;p&gt;20 mins
+checklist&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Does it mean the the same as question prompt？
+chunk --&amp;gt; simplify&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Are there any spelling, grarmar or vocabulary errors？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Is it clear where my overview begins？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Does it start with &#x27;overall？”&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Have I included any data？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Have I included 2-4 key features？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;are these key features the most significant？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Have l made comparisons where relevant？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Are my two details paragraphs clear？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Is the way Is the way.I have
+organized the
+information logical？ Did I only include the most significant information？I have organized the information logical？(过会看，自己能看懂吗)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Did I only include the most significant information？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Is my data accurate？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Have l made comparisons where relevant？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Are my paragraphs clear and easy to identify？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Did l follow the structure？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Did I write between 150-200 words？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Is my spelling accurate？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Is my grammar and vocabulary accurate？&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Progress &amp;lt;-- correct the progress&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;samples&quot;&gt;samples&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;prompt&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;read the info around the data(graph)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;understand the data at high level
+the purpose&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;the headline&lt;&#x2F;li&gt;
+&lt;li&gt;make a report&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;break one into chunks
+按照横坐标分阶段来解读变化&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;relevant
+按照横坐标的顺序来讨论，如果是时间的话就按照时间顺序。 &lt;&#x2F;p&gt;
+&lt;p&gt;Chunking
+No need to change every words&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt; The line graph presents the number of visitors to a specific Caribbean destination from 2010 to 2017. (same meaning from the prompt) Overall, the total number of visitors increased throughout the given period. Despite the majority staying on land initially, this was surpassed(overtook) by those arriving on cruise liners in the final two years. The total number visiting the island in 2010 was 1 million. This figure witnessed a steady annual rise to reach approximately 2.75 million in 2015. It plateaued at this level in 2016 before experiencing its largest increase between 2016 and 2017, soaring dramatically to its peak of 3.5 million.  In 2010, most resided on the island, with around 3.4 of million remaining on land. This peaked in 2013 at 1.5 million and hovered around that level for the remained of the period. The number opting to visit on cruises fluctuated between a 1&#x2F;4 and 1&#x2F;2 a million between 2010 and 2013. In 2014, there was a sharp escalation in cruise visitors; a trend which continued year on year, reaching 1.5 million highest of any category in any year.&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;frequency&quot;&gt;Frequency&lt;&#x2F;h2&gt;
 &lt;p&gt;There are many types of graphs, so its a must to know the frequency of it.&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;图类型&lt;&#x2F;th&gt;&lt;th&gt;频率&lt;&#x2F;th&gt;&lt;th&gt;频率(%)&lt;&#x2F;th&gt;&lt;th&gt;范文示例&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
@@ -96,6 +268,32 @@ Overall, &lt;strong&gt;it can be seen&lt;&#x2F;strong&gt; that the British green
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;part2&quot;&gt;part2&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;preface-1&quot;&gt;preface&lt;&#x2F;h2&gt;
+&lt;p&gt;最重要的还是从例子开始吧
+Four types of question：&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Discussion&lt;&#x2F;li&gt;
+&lt;li&gt;Opinion&lt;&#x2F;li&gt;
+&lt;li&gt;Problem and solution&lt;&#x2F;li&gt;
+&lt;li&gt;Two-part question&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;再就是结构 流程
+planning(10min)
+Intro(paraphrase)2(5) &amp;gt; body1(5)(10) &amp;gt;  body2(5)(10min) &amp;gt; summary(1)(5)
+250 wors
+4 paragaraphs
+13 sentences&lt;&#x2F;p&gt;
+&lt;p&gt;Intro&lt;&#x2F;p&gt;
+&lt;p&gt;Method：
+2 sentences&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;introduce the topic&lt;&#x2F;li&gt;
+&lt;li&gt;give a general answer&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;main body 
+link words not important, the adj and noun is important, and sentence method
+2 ways, one is step, another is example &lt;&#x2F;p&gt;
 </content>
     </entry>
     <entry xml:lang="en">
@@ -842,6 +1040,90 @@ https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hT4uSyRrUE4&amp;amp;t=457s&lt;&#x
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;nytimes&quot;&gt;nytimes&lt;&#x2F;h1&gt;
 &lt;p&gt;Use &lt;a href=&quot;https:&#x2F;&#x2F;archive.ph&#x2F;&quot;&gt;archive&lt;&#x2F;a&gt; to get the articles from &lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;&quot;&gt;nyt&lt;&#x2F;a&gt;, and use &lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;&quot;&gt;relingo&lt;&#x2F;a&gt; to record words.&lt;&#x2F;p&gt;
+&lt;p&gt;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hT4uSyRrUE4&amp;amp;t=457s
+https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=OtmUQwPVLko&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;sentence-completeion-summary-completeion&quot;&gt;sentence completeion&#x2F;summary completeion&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;read the incomplete sentence first&lt;&#x2F;li&gt;
+&lt;li&gt;predict answer&lt;&#x2F;li&gt;
+&lt;li&gt;think of synonyms&lt;&#x2F;li&gt;
+&lt;li&gt;scan for location&lt;&#x2F;li&gt;
+&lt;li&gt;read section carefully
+Where the answer - before you think which is the correct answer&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;multiple-choices&quot;&gt;multiple choices&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;skim text to understand meaning. 
+-!!!!!!  think about the diff in options &lt;&#x2F;li&gt;
+&lt;li&gt;locate section of text(synonyms)&lt;&#x2F;li&gt;
+&lt;li&gt;read that section carefully&lt;&#x2F;li&gt;
+&lt;li&gt;which options are wrong&lt;&#x2F;li&gt;
+&lt;li&gt;read Q and make final choice &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;label-diagram&quot;&gt;label diagram&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;understand qs&lt;&#x2F;li&gt;
+&lt;li&gt;underline the keywords （nouns&lt;&#x2F;li&gt;
+&lt;li&gt;think of synonyms&lt;&#x2F;li&gt;
+&lt;li&gt;scan the location of answer&lt;&#x2F;li&gt;
+&lt;li&gt;read section carefully&lt;&#x2F;li&gt;
+&lt;li&gt;read Q again&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;true-false&quot;&gt;true false&lt;&#x2F;h1&gt;
+&lt;p&gt;look the qs and section carefully&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;yes-no&quot;&gt;yes&#x2F;no&lt;&#x2F;h1&gt;
+&lt;p&gt;agree&#x2F;disagree with the author&#x27;s opinion
+too much time on NG&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;matching-sentence&quot;&gt;matching sentence&lt;&#x2F;h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;problem：use logic or grammar&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;read the first part of sentences first&lt;&#x2F;li&gt;
+&lt;li&gt;predict ending before checking&lt;&#x2F;li&gt;
+&lt;li&gt;matching the obvious one&lt;&#x2F;li&gt;
+&lt;li&gt;eliminate the wrong endings&lt;&#x2F;li&gt;
+&lt;li&gt;Match endings you think might right matching&lt;&#x2F;li&gt;
+&lt;li&gt;locate part of text&lt;&#x2F;li&gt;
+&lt;li&gt;read carefully and choose&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;match-name&quot;&gt;match name&lt;&#x2F;h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;problem write name immediately&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;scan the name &lt;&#x2F;li&gt;
+&lt;li&gt;focus the names mentioned once first&lt;&#x2F;li&gt;
+&lt;li&gt;read their research in detail&lt;&#x2F;li&gt;
+&lt;li&gt;match it&lt;&#x2F;li&gt;
+&lt;li&gt;delete the statement and move one&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;matching-info&quot;&gt;matching info&lt;&#x2F;h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;KEY:Do it last!!!!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;read the qs first and think of the synonyms&lt;&#x2F;li&gt;
+&lt;li&gt;skim the text&lt;&#x2F;li&gt;
+&lt;li&gt;read QS again think about the location &lt;&#x2F;li&gt;
+&lt;li&gt;scan to find the location, underline and check QS again &lt;&#x2F;li&gt;
+&lt;li&gt;mark correct, if possible, if not, move on to next paragraph&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;table-chart&quot;&gt;table chart&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Pls read the instructions&lt;&#x2F;li&gt;
+&lt;li&gt;locate the paragraph&lt;&#x2F;li&gt;
+&lt;li&gt;read section carefully&lt;&#x2F;li&gt;
+&lt;li&gt;transfer words&lt;&#x2F;li&gt;
+&lt;li&gt;spell check&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;heading-1&quot;&gt;heading&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;read each paragraph with the intention to write your own heading&lt;&#x2F;li&gt;
+&lt;li&gt;look at headings. focus on understand&lt;&#x2F;li&gt;
+&lt;li&gt;match any obvious headings&lt;&#x2F;li&gt;
+&lt;li&gt;for reminder, read paragraph carefully and choose correct option.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 </content>
     </entry>
     <entry xml:lang="en">
