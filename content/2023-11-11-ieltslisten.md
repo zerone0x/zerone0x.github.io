@@ -18,6 +18,8 @@ the main objects r part 2 and 3
   - the synonyms of the answer
   - be careful for the trap
     - the changes: used to --> move to new place
+    - past 在它后面
+    - 定位路径都会特别精准,如果模糊就可能做错了
 
 # multi choice
 
