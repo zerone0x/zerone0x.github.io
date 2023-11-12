@@ -182,22 +182,67 @@ Four types of question：
 4. Two-part question
 
 再就是结构 流程
-planning(10min)
+
+### planning(10min)
+
 Intro(paraphrase)2(5) > body1(5)(10) >  body2(5)(10min) > summary(1)(5)
-250 wors
+250 words
 4 paragaraphs
 13 sentences
 
-Intro
+### Intro
 
 Method：
-2 sentences
-* introduce the topic
-* give a general answer
+2 sentences in 5mins
+* introduce the **topic**
+* give a general **answer**
+* **short** 
+  
+#### Discussion
 
-main body 
+![Bz43HItest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/Bz43HItest.png)
+
+#### Opinion
+
+![saUFNOtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/saUFNOtest.png)
+
+#### Problem and solution
+
+![Pxxn28test](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/Pxxn28test.png)
+
+#### Two-part question
+
+![lvTPECtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/lvTPECtest.png)
+
+
+### Main body 
+
+5 sentences/ 90 -100words
+
 link words not important, the adj and noun is important, and sentence method
 2 ways, one is step, another is example 
 
+#### method
 
+##### method1 firstly
+![qBQgNItest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/qBQgNItest.png)
 
+![Kd9NBrtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/Kd9NBrtest.png)
+
+##### method2 example
+
+![55PKeotest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/55PKeotest.png)
+
+### conclusion
+
+1 sentence in 5mins
+
+Paraphrase the answer that you gave in your introduction
+
+![fGrB2Stest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/fGrB2Stest.png)
+
+problem
+![BPVEK7test](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/BPVEK7test.png)
+
+2part
+![Zl5Bgktest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/Zl5Bgktest.png)
