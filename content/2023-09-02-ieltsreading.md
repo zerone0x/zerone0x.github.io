@@ -39,9 +39,10 @@ https://www.youtube.com/watch?v=hT4uSyRrUE4&t=457s
 # frequency
 
 ## part2 
-![TddXJ8test](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/TddXJ8test.png)
-## part3
+
 ![xVZViPtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/xVZViPtest.png)
+## part3
+![TddXJ8test](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/TddXJ8test.png)
 
 # 阅读方法
 
