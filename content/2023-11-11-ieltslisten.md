@@ -10,6 +10,10 @@ image = "hexcell.png"
 # preface
 the main objects r part 2 and 3
 
+# frequency
+# part2 
+![SWaXKJtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/SWaXKJtest.png)
+
 # map
 
 - be familiar with the map

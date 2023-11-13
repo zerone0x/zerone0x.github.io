@@ -36,6 +36,13 @@ https://www.youtube.com/watch?v=hT4uSyRrUE4&t=457s
 
 基础之外，技巧主要是 阅读方法，做题顺序，时间分配，不同题型的应对.
 
+# frequency
+
+## part2 
+![TddXJ8test](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/TddXJ8test.png)
+## part3
+![xVZViPtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/xVZViPtest.png)
+
 # 阅读方法
 
 读题 --> key words --> 通过同义词定位 --> 不同题型的应对
