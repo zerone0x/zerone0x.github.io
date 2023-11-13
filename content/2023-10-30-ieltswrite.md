@@ -190,13 +190,27 @@ Intro(paraphrase)2(5) > body1(5)(10) >  body2(5)(10min) > summary(1)(5)
 4 paragaraphs
 13 sentences
 
+#### steps
+
+1. read the question
+2. underline key words
+3. think about the structure
+4. plan ideas for the intro and conclusion
+5. plan ideas for the body paragraphs
+   1. brainstorm
+   2. details
+   3. ask why
+   4. examples
+   5. number them
+
 ### Intro
 
-Method：
+Method:
 2 sentences in 5mins
 * introduce the **topic**
 * give a general **answer**
 * **short** 
+
   
 #### Discussion
 
@@ -204,6 +218,9 @@ Method：
 
 #### Opinion
 
+`Do YOU agree or disagree？`
+`You CAN use "T or "my"`
+![HtVrjntest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/HtVrjntest.png)
 ![saUFNOtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/saUFNOtest.png)
 
 #### Problem and solution
