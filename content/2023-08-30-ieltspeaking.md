@@ -29,6 +29,46 @@ part2，需要在几个问题下，做一个2min左右的小短文，短文的�
 
 # topic key words
 
+# ppl
+
+> There is a person that I'm very respectful. before one year, he lost his legs in an accident, but he didn't give up, he still works hard, He inspired a lot upon me. I felt a lot motivation from him. He told me that he started to understand the life meaning after he broke his legs. He never complained about his life, he is a very strong person. He insisted his dream of riding bike, he used his hands to ride the bike, and he succeeded. He is a legend. and he is very positive, he is a good example for me, I learned that we should be grateful for what we have, and we should be positive when we met difficulties. 
+
+## beta1
+
+> There is a person I respect a lot. This person lost his legs in an accident a year ago. But he didn't give up. He kept working hard, and he inspired me. He told me that after he lost his legs, he really understood what life means.
+
+> He is a strong person. He never complained about his life. He wanted to ride a bike again, and he did it using his hands. He's like a hero. He's always positive, and he's a good example for me. I learned from him that we should be thankful for what we have and stay positive when we face problems
+
+## beta2
+
+> There's an individual I deeply admire. He experienced a life-changing accident a year ago, losing his legs. But he didn’t let this setback crush his spirit. He persevered, his determination inspiring me greatly. He once shared that it was through this adversity he found a deeper understanding of life's value.
+
+> He’s a remarkably strong person. Instead of lamenting his fate, he focused on overcoming his challenges. He had a dream to ride a bike again, and with sheer determination, he accomplished it using his hands. He's nothing less than a hero in my eyes. His consistent positivity sets an excellent example for me. He taught me the importance of appreciating what we have and staying optimistic when encountering difficulties.
+
+# hiking to healthy
+
+> one month ago, my friend asked me to hike. I didn't like sports, offen stay at home, I am not very healthy, I think maybe it could give a try. I went out with him. I felt very tired in the trip. but I insisted to go on. Then I arrived the top of mountain. I started to realize the importance of exercise. And it makes me feel happier. I will exercise every week. I think it's a good way to keep healthy. I started to have a habit of sports. I'm really appreciated that this friend's invitation. it changed a lot for me. I will keep this habit.
+
+## beta1 
+
+> One month ago, my friend invited me to hike. I didn't like sports and often stayed at home, so I wasn't very fit. But, I decided to try it.
+
+> The trip was tiring, but I didn't give up. When we got to the top of the mountain, I understood why exercise is important. It also made me feel happy.
+
+> Now, I exercise every week. I believe it's good for my health. I started to enjoy sports because of this experience.
+
+> I'm thankful for my friend's invitation. It changed my lifestyle. I will keep this new habit.
+
+# beta2
+
+> About a month ago, a friend of mine proposed a hiking trip. As a person who rarely engaged in sports and was more accustomed to staying indoors, I wasn't exactly in peak physical condition. However, I figured it wouldn't hurt to give it a shot.
+
+> The journey was far from easy, and fatigue set in quickly. Despite the exhaustion, I pressed onward. Upon reaching the summit of the mountain, I had an epiphany about the significance of regular exercise. It not only improved my health, but also elicited a sense of joy within me.
+
+> In the aftermath of this experience, I've committed to a weekly exercise routine, which I believe is beneficial for my well-being. This hiking trip awakened a newfound interest in sports, transforming it from an occasional activity into a habitual practice.
+
+> I'm profoundly grateful to my friend for extending this invitation. It catalyzed a major lifestyle change for me. I'm determined to maintain this healthier routine moving forward.
+
 ## life
 
 What do you do in your free time?
