@@ -25,7 +25,6 @@ image = "hexcell.png"
 	check the grammar
 	find the pattern. - task1- synonyms. 
 
-
 # Part 1
 
 [IELTS Writing Task 1: Everything You Need to Know](https://www.ieltsadvantage.com/writing-task-1/)
@@ -33,12 +32,12 @@ image = "hexcell.png"
 ## problem
 
 1. describe info
-2. dont look too much on the info 
+2. don't look too much on the info 
 3. time: under 20 mins
 	prepare time: 1/3
 4. structure
 	intro overview detail
-5. grammer mistakes
+5. grammar mistakes
 6. poor overview
 	the overview is important for 7 points
 7. Inaccurate data
@@ -56,7 +55,7 @@ https://www.youtube.com/watch?v=tgwibVefUKk
 checklist
 - Does it mean the the same as question prompt？
 	chunk --> simplify
-- Are there any spelling, grarmar or vocabulary errors？
+- Are there any spelling, grammar or vocabulary errors？
 
 - Is it clear where my overview begins？
 - Does it start with 'overall？”

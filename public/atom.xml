@@ -39,6 +39,15 @@
 &lt;h1 id=&quot;frequency&quot;&gt;frequency&lt;&#x2F;h1&gt;
 &lt;h1 id=&quot;part2&quot;&gt;part2&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;SWaXKJtest.png&quot; alt=&quot;SWaXKJtest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;part3&quot;&gt;part3&lt;&#x2F;h1&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;组合类型&lt;&#x2F;th&gt;&lt;th&gt;频率&lt;&#x2F;th&gt;&lt;th&gt;频率(%)&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;单选配对多选&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;26.67%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;配对多选&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;26.67%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;单选配对&lt;&#x2F;td&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;20%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;单选多选&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;13.33%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;填空单选&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;6.67%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;总计&lt;&#x2F;td&gt;&lt;td&gt;15&lt;&#x2F;td&gt;&lt;td&gt;100%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;h1 id=&quot;map&quot;&gt;map&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;be familiar with the map
@@ -109,12 +118,12 @@ find the pattern. - task1- synonyms. &lt;&#x2F;li&gt;
 &lt;h2 id=&quot;problem&quot;&gt;problem&lt;&#x2F;h2&gt;
 &lt;ol&gt;
 &lt;li&gt;describe info&lt;&#x2F;li&gt;
-&lt;li&gt;dont look too much on the info &lt;&#x2F;li&gt;
+&lt;li&gt;don&#x27;t look too much on the info &lt;&#x2F;li&gt;
 &lt;li&gt;time: under 20 mins
 prepare time: 1&#x2F;3&lt;&#x2F;li&gt;
 &lt;li&gt;structure
 intro overview detail&lt;&#x2F;li&gt;
-&lt;li&gt;grammer mistakes&lt;&#x2F;li&gt;
+&lt;li&gt;grammar mistakes&lt;&#x2F;li&gt;
 &lt;li&gt;poor overview
 the overview is important for 7 points&lt;&#x2F;li&gt;
 &lt;li&gt;Inaccurate data
@@ -134,7 +143,7 @@ checklist&lt;&#x2F;p&gt;
 chunk --&amp;gt; simplify&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;Are there any spelling, grarmar or vocabulary errors？&lt;&#x2F;p&gt;
+&lt;p&gt;Are there any spelling, grammar or vocabulary errors？&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
 &lt;p&gt;Is it clear where my overview begins？&lt;&#x2F;p&gt;

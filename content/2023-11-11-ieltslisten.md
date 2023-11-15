@@ -13,6 +13,15 @@ the main objects r part 2 and 3
 # frequency
 # part2 
 ![SWaXKJtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/SWaXKJtest.png)
+# part3
+| 组合类型 | 频率 | 频率(%) |
+| --- | --- | --- |
+| 单选配对多选 | 4 | 26.67% |
+| 配对多选 | 4 | 26.67% |
+| 单选配对 | 3 | 20% |
+| 单选多选 | 2 | 13.33% |
+| 填空单选 | 1 | 6.67% |
+| 总计 | 15 | 100% |
 
 # map
 
