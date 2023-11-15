@@ -47,7 +47,7 @@ part2，需要在几个问题下，做一个2min左右的小短文，短文的�
 
 # hiking to healthy
 
-> one month ago, my friend asked me to hike. I didn't like sports, offen stay at home, I am not very healthy, I think maybe it could give a try. I went out with him. I felt very tired in the trip. but I insisted to go on. Then I arrived the top of mountain. I started to realize the importance of exercise. And it makes me feel happier. I will exercise every week. I think it's a good way to keep healthy. I started to have a habit of sports. I'm really appreciated that this friend's invitation. it changed a lot for me. I will keep this habit.
+> one month ago, my friend asked me to hike. I didn't like sports, often stay at home, I am not very healthy, I think maybe it could give a try. I went out with him. I felt very tired in the trip. but I insisted to go on. Then I arrived the top of mountain. I started to realize the importance of exercise. And it makes me feel happier. I will exercise every week. I think it's a good way to keep healthy. I started to have a habit of sports. I'm really appreciated that this friend's invitation. it changed a lot for me. I will keep this habit.
 
 ## beta1 
 
@@ -80,7 +80,7 @@ go to museum to get into the art and history
 
 Do you like your job?
 
-I work as a programmer, it doesn't need a lot of communical technique, I am not good at this, it's complex but abstrat, suitable, but I need to go to office, I wish to become a freelancer, no commute, more leisure time, not limited by location --> example, I will go in that direction.
+I work as a programmer, it doesn't need a lot of communicable technique, I am not good at this, it's complex but abstract, suitable, but I need to go to office, I wish to become a freelancer, no commute, more leisure time, not limited by location --> example, I will go in that direction.
 
 ## sports
 
@@ -92,13 +92,13 @@ cool, fear, practice, enjoy, relax, reduce stress, achievement, insist
 
 ### location
 
-price - rent, life pace, relax/stress, convient, transport, need, young ppl, family,
+price - rent, life pace, relax/stress, convenient, transport, need, young ppl, family,
 
 ### time
 
 old time, modern life
-technology changes a lot, it makes life more convient, but it brings the bad impact too, too addicted with internet, lack of the interaction with nature, make ppl feel depressed easily.
-old time, not rich in the material part, but the spirtual life. so maybe the percent of depression is less than nowdays
+technology changes a lot, it makes life more convenient, but it brings the bad impact too, too addicted with internet, lack of the interaction with nature, make ppl feel depressed easily.
+old time, not rich in the material part, but the spiritual life. so maybe the percent of depression is less than nowadays
 
 ## trip
 
