@@ -167,9 +167,19 @@ There are many types of graphs, so its a must to know the frequency of it.
   - peak
 - static
   - highest/lowest value
+- 
 
 
 # part2
+
+## avoid mistakes
+
+- no background introduction
+- no personal opinion
+- no personal example
+- spelling mistakes
+- grammar mistakes
+- 
 
 ## preface 
 
@@ -186,7 +196,7 @@ Four types of question：
 
 Intro(paraphrase)2(5) > body1(5)(10) >  body2(5)(10min) > summary(1)(5)
 250 words
-4 paragaraphs
+4 paragraphs
 13 sentences
 
 #### steps
@@ -210,7 +220,6 @@ Method:
 * give a general **answer**
 * **short** 
 
-  
 #### Discussion
 
 ![Bz43HItest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/Bz43HItest.png)
