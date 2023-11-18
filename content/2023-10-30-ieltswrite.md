@@ -184,11 +184,11 @@ There are many types of graphs, so its a must to know the frequency of it.
 ## preface 
 
 最重要的还是从例子开始吧
-Four types of question：
-1. Discussion
-2. Opinion
-3. Problem and solution
-4. Two-part question
+**4 types of question：**
+1. **Discussion**
+2. **Opinion**
+3. **Problem and solution**
+4. **Two-part question**
 
 再就是结构 流程
 
@@ -212,6 +212,19 @@ Intro(paraphrase)2(5) > body1(5)(10) >  body2(5)(10min) > summary(1)(5)
    4. examples
    5. number them
 
+## practice ex
+
+### Opinion essay
+
+
+
+
+
+
+
+
+
+
 ### Intro
 
 Method:
@@ -222,12 +235,14 @@ Method:
 
 #### Discussion
 
+`Both views`
+
 ![Bz43HItest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/Bz43HItest.png)
 
 #### Opinion
 
 `Do YOU agree or disagree？`
-`You CAN use "T or "my"`
+`You CAN use "I" or "my"`
 ![HtVrjntest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/HtVrjntest.png)
 ![saUFNOtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/saUFNOtest.png)
 
