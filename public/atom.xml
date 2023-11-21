@@ -5,8 +5,19 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-11-12T00:00:00+00:00</updated>
+    <updated>2023-11-21T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>template</title>
+        <published>2023-11-21T00:00:00+00:00</published>
+        <updated>2023-11-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/latex/" type="text/html"/>
+        <id>https://craftship.xyz/latex/</id>
+        <content type="html"></content>
+    </entry>
     <entry xml:lang="en">
         <title>时代的神经症</title>
         <published>2023-11-12T00:00:00+00:00</published>
@@ -36,8 +47,26 @@
         <id>https://craftship.xyz/ieltslisten/</id>
         <content type="html">&lt;h1 id=&quot;preface&quot;&gt;preface&lt;&#x2F;h1&gt;
 &lt;p&gt;the main objects r part 2 and 3&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;strategies&quot;&gt;strategies&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;part1&quot;&gt;part1&lt;&#x2F;h2&gt;
+&lt;p&gt;next to = adjacent = by
+with = and
+behind = back
+replace = change&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part2&quot;&gt;part2&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;focus on what they r discussing&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;5rXHZutest.png&quot; alt=&quot;5rXHZutest&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;抽象到具体 积极和消极来理解题目&lt;&#x2F;li&gt;
+&lt;li&gt;消极
+&lt;ul&gt;
+&lt;li&gt;although, unless, until, we consider, we told, we expected, however&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=S9IQymjQRs4&quot;&gt;ref indian teacher&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;frequency&quot;&gt;frequency&lt;&#x2F;h1&gt;
-&lt;h1 id=&quot;part2&quot;&gt;part2&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;part2-1&quot;&gt;part2&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2023&#x2F;SWaXKJtest.png&quot; alt=&quot;SWaXKJtest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;part3&quot;&gt;part3&lt;&#x2F;h1&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;组合类型&lt;&#x2F;th&gt;&lt;th&gt;频率&lt;&#x2F;th&gt;&lt;th&gt;频率(%)&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;

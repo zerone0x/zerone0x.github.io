@@ -10,6 +10,25 @@ image = "hexcell.png"
 # preface
 the main objects r part 2 and 3
 
+# strategies
+
+## part1
+
+next to = adjacent = by
+with = and
+behind = back
+replace = change
+
+
+## part2
+
+- focus on what they r discussing
+- ![5rXHZutest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/5rXHZutest.png)
+- 抽象到具体 积极和消极来理解题目
+- 消极
+  - although, unless, until, we consider, we told, we expected, however
+- [ref indian teacher](https://www.youtube.com/watch?v=S9IQymjQRs4)
+
 # frequency
 # part2 
 ![SWaXKJtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2023/SWaXKJtest.png)
@@ -43,3 +62,4 @@ the main objects r part 2 and 3
     - more detail, examples
 - dont write 1st answer
 - be careful the `but however` in the materials
+
