@@ -8,7 +8,18 @@ image = "hexcell.png"
 +++
 
 # preface
+- 审题 素材靠题目的重点 形容词之类的同义提一下
+- 解构 - 
+  - 共性 五要素+动作细节物品内容（不变）
+  - 特性 相关句型短语（变）
+    - 5个p2+2个p2
+- 感受
+- 时间
+- 事件(故事) 有趣的
+- 物品的原因 
+- 相关巨型
 
+# intro
 speak loudly and practice
 - [vowel](https://www.youtube.com/watch?v=jaRcbpN_KlM&list=PLrqHrGoMJdTQ__1eH4a5EW43NQvDuRjnr&index=14)
 - [IPA](https://www.youtube.com/watch?v=b_qcAuHhJIc&list=PL76E3034895AF6FF4)
