@@ -19,6 +19,69 @@ image = "hexcell.png"
 - 物品的原因 
 - 相关巨型
 
+# tips
+do you 
+did u
+will u
+have u
+how long have u been
+
+## use related words
+
+## use compound sentence
+
+I have a water bottle which was gifted by mother on my last birthday. I use this water bottle everyday because nowadays the weather is warmer and I need to keep myself hydrated
+
+## part2
+
+[pro tips](https://www.youtube.com/watch?v=imL6DaOmiNM)
+
+- be cautious about the tense 
+  - person/city(5 seconds)
+  - prepare the bullet points
+    - firstly,
+    - secondly, I want to speak why
+    - speak until examiner say that's it
+    - conclusion, for all these reasons, this has been my favorite TV program since my childhood. 
+    - this is why I would say I am a great lover of fast and loud music
+      - this has been my **obsession** since my childhood
+      - whenever I am driving, I listen to fast and loud music, Its very enjoyable
+      
+    - (speak not knowledge test)
+- babies
+  - fluency
+  - pronunciation
+    - copy others from listening 
+      - address the 
+  - grammar
+  - voc
+    - related words
+    - synonym
+
+## part3 
+
+### steps
+
+> comparison advantages disadvantages opinion prediction
+> prediction: I think ppl are likely to watch moview in the cinema in the next 10 to 15 years because ...
+> advantages: 
+
+- answer it directly 
+- elaborate 2-3 sentences 
+- conclude
+- 
+
+
+### deny
+well, To be honest, I don't have time to watch TV, my daily routine doesn't allow me to watch any sort of TV programs, most of the time I'm busy doing something different so to answer your question I don't watch TV
+
+### 5 
+present simple, past simple, future simple, present perfect, present perfect continuous
+
+### fanboys
+
+5-6 sentences
+
 # intro
 speak loudly and practice
 - [vowel](https://www.youtube.com/watch?v=jaRcbpN_KlM&list=PLrqHrGoMJdTQ__1eH4a5EW43NQvDuRjnr&index=14)
