@@ -32,10 +32,11 @@ how long have u been
 
 I have a water bottle which was gifted by mother on my last birthday. I use this water bottle everyday because nowadays the weather is warmer and I need to keep myself hydrated
 
+
 ## part2
 
 [pro tips](https://www.youtube.com/watch?v=imL6DaOmiNM)
-
+[tips2](https://www.youtube.com/watch?v=l6MfGMIbsvk)
 - be cautious about the tense 
   - person/city(5 seconds)
   - prepare the bullet points
@@ -69,7 +70,23 @@ I have a water bottle which was gifted by mother on my last birthday. I use this
 - answer it directly 
 - elaborate 2-3 sentences 
 - conclude
-- 
+
+## materials
+
+### city
+
+My favorite city is dali which is located in the north of china and belong to yunnan province. I have been to this city for vocation in the last year. it gave me the deep impression. the buildings are not modern, it kept a lot of original features in the old time which made me feel I was in the past. and there were **several** different `distinct`features between modern cities and dali. Firstly, the cost of live in Dali is much cheaper than in big city. secondly, the weather is very comfortable all over the year and the air was not polluted, very clear. next, this place has a good landscape. finally, the life pace is slower than big city, it makes me relaxed. in conclusion, for all these reasons, this has been my favorite city since I visted.
+
+> My favorite city is Dali, located in the north of China and belonging to Yunnan province. I visited this city last year for vacation and it left a deep impression on me. The buildings in Dali are not modern; they retain many original features from the past, which makes me feel like I have traveled back in time. There are several distinct features that set Dali apart from modern cities. Firstly, the cost of living in Dali is much cheaper than in big cities. Secondly, the weather is comfortable throughout the year and the air is clear with no pollution. Additionally, Dali boasts beautiful landscapes. Lastly, life moves at a slower pace compared to big cities, allowing me to relax and unwind. In conclusion, for all these reasons, Dali has become my favorite city since I visited it last year.
+
+### ppl
+
+
+
+### things
+
+
+
 
 
 ### deny

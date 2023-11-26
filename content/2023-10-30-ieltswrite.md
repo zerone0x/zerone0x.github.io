@@ -8,7 +8,7 @@ image = "hexcell.png"
 +++
 
 # Preface
-
+[Download PDF](../static/pdf/write_ielts.pdf)
 - no complicate
 - do task 2 first, not task1
 - task2 - 40mins, task1 - 20mins
