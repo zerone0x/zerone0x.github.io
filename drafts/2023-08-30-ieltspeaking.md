@@ -7,6 +7,10 @@ last_modified_date = "2023-10-29"
 image = "hexcell.png"
 +++
 
+# band 9
+
+- https://www.ieltspodcast.com/writing-task-2/band-9-sample-essays/
+- 
 # preface
 - 审题 素材靠题目的重点 形容词之类的同义提一下
 - 解构 - 
@@ -32,6 +36,7 @@ how long have u been
 
 I have a water bottle which was gifted by mother on my last birthday. I use this water bottle everyday because nowadays the weather is warmer and I need to keep myself hydrated
 
+## part1 
 
 ## part2
 

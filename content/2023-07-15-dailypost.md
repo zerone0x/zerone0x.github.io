@@ -18,3 +18,10 @@ image = "hexcell.png"
 ## 饮食
 
 我对甜品很痴迷,但甜品本身会导致胰岛素上升,这会导致血糖下降,从而导致饥饿感.这是一个恶性循环.甜品本身并没多大吸引力,只是基因的设置,或者身体本身的需要,还是得控制.
+
+# 12-13-2023
+
+I felt exhausted after finish the exhilarate running which makes me a bit relaxed from the frustrating things. 
+Tomorrow is my first day of holiday, I feel nothing about it. 
+Winter drives me crazy cause I can't run outdoors. The speed is very important for running, faster to exceed the time.
+Step by step. 
