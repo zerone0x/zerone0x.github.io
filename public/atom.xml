@@ -8,7 +8,7 @@
     <updated>2023-11-21T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
     <entry xml:lang="en">
-        <title>template</title>
+        <title>latex</title>
         <published>2023-11-21T00:00:00+00:00</published>
         <updated>2023-11-21T00:00:00+00:00</updated>
         <author>
@@ -121,6 +121,16 @@
         <id>https://craftship.xyz/book/</id>
         <content type="html">&lt;h1 id=&quot;preface&quot;&gt;preface&lt;&#x2F;h1&gt;
 &lt;p&gt;record some good books.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;basic&quot;&gt;basic&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;roadmap.sh&#x2F;&quot;&gt;Developer Roadmaps - roadmap.sh&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jwasham&#x2F;coding-interview-university&#x2F;blob&#x2F;main&#x2F;translations&#x2F;README-cn.md&quot;&gt;Coding Interview University - 中文版&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tuteng&#x2F;Best-websites-a-programmer-should-visit-zh&quot;&gt;程序员应该访问的最佳网站-中文版&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;js&quot;&gt;JS&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;zh.javascript.info&#x2F;&quot;&gt;JavaScript 教程&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -139,11 +149,6 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;&quot;&gt;The New York Times&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;archive.md&#x2F;&quot;&gt;Archive&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h1 id=&quot;outline&quot;&gt;Outline&lt;&#x2F;h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jwasham&#x2F;coding-interview-university&#x2F;blob&#x2F;main&#x2F;translations&#x2F;README-cn.md&quot;&gt;Coding Interview University - 中文版&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tuteng&#x2F;Best-websites-a-programmer-should-visit-zh&quot;&gt;程序员应该访问的最佳网站-中文版&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;tech&quot;&gt;TECH&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hn.lindylearn.io&#x2F;best&quot;&gt;hn rank all the times&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -158,6 +163,12 @@
 &lt;h1 id=&quot;tools&quot;&gt;tools&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;archive.ph&#x2F;&quot;&gt;archive&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;interesting-knowledge&quot;&gt;interesting knowledge&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.infocobuild.com&#x2F;education&#x2F;audio-video-courses&#x2F;economics&#x2F;Economics-1-Fall2011-Berkeley&#x2F;lecture-01.html&quot;&gt;Economics 1: Introduction to Economics - Lecture 01 - Introduction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;daveconservatoire.org&quot;&gt;开始在Dave Conservatoire学习音乐&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
     </entry>
@@ -1194,7 +1205,7 @@ babaisyou也可以玩，如果是全破解就好了，至少我不想从头开�
 </content>
     </entry>
     <entry xml:lang="en">
-        <title>语料库学习with excel and anki</title>
+        <title>make anki deck cards</title>
         <published>2023-06-21T00:00:00+00:00</published>
         <updated>2023-06-21T00:00:00+00:00</updated>
         <author>
