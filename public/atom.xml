@@ -311,7 +311,40 @@
         </author>
         <link rel="alternate" href="https://craftship.xyz/classicalmusic/" type="text/html"/>
         <id>https://craftship.xyz/classicalmusic/</id>
-        <content type="html"></content>
+        <content type="html">&lt;h1 id=&quot;praface&quot;&gt;praface&lt;&#x2F;h1&gt;
+&lt;p&gt;Music theory which is related to rules of music, maybe the best way to learn it is to analyze it in the music self.&lt;&#x2F;p&gt;
+&lt;p&gt;Another things is to know the important parts from music theory.
+I&#x27;ll try to take piano for example and extend to their applications to explain some definitions.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;explain&quot;&gt;explain&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;pitch 
+&lt;ul&gt;
+&lt;li&gt;definition: scales and name(A-&amp;gt;G)&lt;&#x2F;li&gt;
+&lt;li&gt;application: distinguish a high&#x2F;low note&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;notation
+&lt;ul&gt;
+&lt;li&gt;definition: it lies on 5-line staff.
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2024&#x2F;HQ6Z3Ctest.png&quot; alt=&quot;HQ6Z3Ctest&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Octave
+&lt;ul&gt;
+&lt;li&gt;defi: the distance between two notes with the same name&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;reference&quot;&gt;reference&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=5_yOVARO2Oc&amp;amp;list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r&quot;&gt;listen to music&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;edmproduction&#x2F;comments&#x2F;39aq6m&#x2F;blog_how_i_learned_music_theory_warning_long&#x2F;&quot;&gt;suggestions resource&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;musictheory.pugetsound.edu&#x2F;mt21c&#x2F;BasicConceptsPracticeExercises.html&quot;&gt;music theory&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
     </entry>
     <entry xml:lang="en">
         <title>Network Intro</title>
