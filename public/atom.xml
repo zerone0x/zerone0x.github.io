@@ -149,6 +149,10 @@
         <id>https://craftship.xyz/book/</id>
         <content type="html">&lt;h1 id=&quot;preface&quot;&gt;preface&lt;&#x2F;h1&gt;
 &lt;p&gt;record some good books.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;myself&quot;&gt;myself&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1As411G7jr&#x2F;?vd_source=106dbc2fa3830c3b6f9a4f639464a168&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;js&quot;&gt;JS&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.theodinproject.com&#x2F;paths&#x2F;full-stack-javascript&#x2F;courses&#x2F;javascript&quot;&gt;Odin proj&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
