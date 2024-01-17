@@ -5,8 +5,38 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-01-08T00:00:00+00:00</updated>
+    <updated>2024-01-18T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>resume</title>
+        <published>2024-01-18T00:00:00+00:00</published>
+        <updated>2024-01-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/resume/" type="text/html"/>
+        <id>https://craftship.xyz/resume/</id>
+        <content type="html">&lt;h1 id=&quot;preface&quot;&gt;preface&lt;&#x2F;h1&gt;
+&lt;p&gt;I feel sick about editing the resume, and I&#x27;ll try to conclude a more general way for resume&#x2F;linkedin prep.&lt;&#x2F;p&gt;
+&lt;p&gt;I think there are 2 important things here, one is for the requirements, another is experience&#x27;s quality which can show the value you have, and you can get deeper in the interview. &lt;&#x2F;p&gt;
+&lt;p&gt;Anyway, it&#x27;s super crucial to master one domain so you can show off in the interview, which means this domain is difficult and complex and deep to learn. Even you can have some defects on others.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;collecting-data-to-generate-an-intro&quot;&gt;collecting data to generate an intro&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;jobs&#x2F;search&#x2F;?currentJobId=3641478664&amp;amp;distance=25&amp;amp;f_WT=2&amp;amp;geoId=91000000&amp;amp;keywords=frontend%20developer&amp;amp;origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&amp;amp;refresh=true&amp;amp;start=25&quot;&gt;filter the jobs&lt;&#x2F;a&gt; in linkedin&lt;&#x2F;li&gt;
+&lt;li&gt;use &lt;a href=&quot;https:&#x2F;&#x2F;wordart.com&#x2F;create&quot;&gt;word cloud&lt;&#x2F;a&gt; to visualize the percentage.
+&lt;ul&gt;
+&lt;li&gt;take frontend for example:
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2024&#x2F;eE8xGttest.jpg&quot; alt=&quot;eE8xGttest&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;then we could use these keywords and gpt to generate a suitable simple intro for the requirements.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;experience&quot;&gt;experience&lt;&#x2F;h1&gt;
+</content>
+    </entry>
     <entry xml:lang="en">
         <title>2024</title>
         <published>2024-01-08T00:00:00+00:00</published>
