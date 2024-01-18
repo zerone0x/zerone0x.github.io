@@ -47,10 +47,29 @@
         <link rel="alternate" href="https://craftship.xyz/2024/" type="text/html"/>
         <id>https://craftship.xyz/2024/</id>
         <content type="html">&lt;ul&gt;
-&lt;li&gt;health&lt;&#x2F;li&gt;
-&lt;li&gt;new job&lt;&#x2F;li&gt;
+&lt;li&gt;health
+&lt;ul&gt;
+&lt;li&gt;build habits for: sleep, sport, eat&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;new job
+&lt;ul&gt;
+&lt;li&gt;develop&#x27;s skill for project&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;li&gt;trip&lt;&#x2F;li&gt;
 &lt;li&gt;new tech&lt;&#x2F;li&gt;
+&lt;li&gt;new area
+&lt;ul&gt;
+&lt;li&gt;type&#x2F;category theory&lt;&#x2F;li&gt;
+&lt;li&gt;game theory&lt;&#x2F;li&gt;
+&lt;li&gt;music theory&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Ref:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;podcastdisclosed.com&#x2F;author&#x2F;huberman-lab-andrew-huberman&#x2F;&quot;&gt;Andrew Huberman&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
     </entry>
