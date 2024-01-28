@@ -1298,7 +1298,7 @@ Step by step. &lt;&#x2F;p&gt;
         <link rel="alternate" href="https://craftship.xyz/psvgames/" type="text/html"/>
         <id>https://craftship.xyz/psvgames/</id>
         <content type="html">&lt;p&gt;最近接触的新信息不算多.用psv玩了几年前标注的游戏&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;psv&quot;&gt;PSV&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;&#x2F;h2&gt;
 &lt;p&gt;psv是十年前的掌机，它支持retro game(gba psp模拟器)。我将简单分享下大概一月的体验.最初吸引我的是p4g，它没有p5，p4和p5剧情上没有关系，重点在剧情，但是战斗和迷宫已经把我劝退了。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;du-zhan&quot;&gt;独占&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -1326,8 +1326,9 @@ Step by step. &lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;逆转裁判3存档丢了后，就没继续玩过，现在终于可以继续看看，这个游戏很欢乐&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;huan-mei-an-zhuang-de&quot;&gt;还没安装的&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;toinstall-list&quot;&gt;TOInstall list&lt;&#x2F;h2&gt;
 &lt;ul&gt;
+&lt;li&gt;the binding of issac&lt;&#x2F;li&gt;
 &lt;li&gt;child of light 这个游戏估计在psv体验不错，准备试一下&lt;&#x2F;li&gt;
 &lt;li&gt;太阁立志传，很久前在电脑上玩过一点，一直想要继续，但不知能找到汉化吗&lt;&#x2F;li&gt;
 &lt;li&gt;wipeout 2048，好评如潮，貌似下载错版本了，有空再找下&lt;&#x2F;li&gt;
@@ -1338,14 +1339,25 @@ Step by step. &lt;&#x2F;p&gt;
 babaisyou也可以玩，如果是全破解就好了，至少我不想从头开始.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;yi-hou-de-fang-xiang&quot;&gt;以后的方向&lt;&#x2F;h2&gt;
 &lt;p&gt;想找些puzzle game，横版过关，独占(psv，psp)，新的品种的(太阁立志传)。&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;how-to-install-other-types-of-games&quot;&gt;how to install other types of games&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;ru-he-an-zhuang-you-xi&quot;&gt;如何安装游戏&lt;&#x2F;h1&gt;
 &lt;h2 id=&quot;vpk&quot;&gt;VPK&lt;&#x2F;h2&gt;
 &lt;p&gt;到vitashell里按⭕️安装&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;store-memory&quot;&gt;store memory&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;gba&quot;&gt;GBA&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;放到GBA&#x2F;rom&#x2F;下 -&amp;gt; 全能模拟器里直接加载&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;cun-dang&quot;&gt;！！！存档&lt;&#x2F;h1&gt;
 &lt;h2 id=&quot;quan-neng-mo-ni-qi&quot;&gt;全能模拟器&lt;&#x2F;h2&gt;
-&lt;p&gt;L R down ▪️ push these at same time&lt;&#x2F;p&gt;
-&lt;p&gt;存档--&amp;gt;状态卡槽
-加载状态&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;L R down ▪️ push these at same time&lt;&#x2F;li&gt;
+&lt;li&gt;一定要注意修改状态卡槽，默认是0，会复写其他的存档的！！！
+&lt;ul&gt;
+&lt;li&gt;存档--&amp;gt;状态卡槽&lt;&#x2F;li&gt;
+&lt;li&gt;加载状态
+&lt;img src=&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;h3x311&#x2F;upic@main&#x2F;LC3&#x2F;2024&#x2F;photo_6174779168001211016_ytest.jpg&quot; alt=&quot;photo_6174779168001211016_ytest&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ref: https:&#x2F;&#x2F;v.youku.com&#x2F;v_show&#x2F;id_XNTk1MTA4OTYwNA==.html PSV全能模拟器存档读档教程密码123456abc&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
