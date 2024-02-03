@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Leetocde Pattern &middot; Craftship</title>
+    <meta name="description" content="" />
+    <link rel="shortcut icon" href="https://qph.cf2.poecdn.net/main-132223687_38636529351_2_1.png?w=1024&h=1024zhge" />
+    <link rel="alternate" type="application/atom+xml" title="RSS" href="https://craftship.xyz/atom.xml">
+
+    <style>html,body{background:#fffaf7;color:#2d2d2d;font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}a,a:visited{color:darkred;text-decoration:none}a:hover{text-decoration:underline}main{margin:auto;max-width:38rem;padding:.8rem}pre{background:#fff;overflow:scroll;padding:1rem}td{border:1px solid #2d2d2d;padding:10px}img{height:auto;max-width:100%}.homepage-list{list-style:none;padding:1rem 0}.homepage-list li{align-items:center;display:flex;flex-wrap:wrap;justify-content:space-between;margin-bottom:10px}@media (max-width: 38rem){.homepage-list li a{width:100%}}</style>
+
+    <meta property="og:site_name" content="Craftship">
+      
+      <meta property="og:title" content="Leetocde Pattern">
+      <meta property="og:description" content="">
+
+      <meta property="og:url" content="https://craftship.xyz/patternlc/">
+      <meta property="og:image" content="https://craftship.xyz/hexcell.png">
+
+      <meta property="og:type" content="article" />
+        <meta property="article:published_time" content="2024-02-03T00:00:00+00:00" />
+
+      
+      
+    
+
+  </head>
+  
+
+  <body>
+    <main id="main" role="main">
+
+      
+      <header role="banner">
+        <h3 style="margin-top:0;">
+          <a href="https://craftship.xyz" title="Home">Craftship</a>
+          <br /><small>Record the meaningful time</small>
+          <div style="display: flex; justify-content: flex-end;">
+            <small>
+              <a href="https://craftship.xyz/running_page/" target="_blank">Run</a>
+            </small>
+            <span style="width: 10px;"></span>  <!-- This creates the space between the links -->
+            <small>
+              <a href="https://0x7dot.live/" target="_blank">Notes</a>
+            </small>
+          </div>
+        </h3>
+      
+
+      </header>
+      <hr />
+      
+
+      
+<article>
+  <h1>Leetocde Pattern</h1>
+  
+    <p style="font-size:90%;">Posted on <time datetime="2024-02-03T00:00:00+00:00">February 03, 2024</time></p>
+  
+
+  <p>
+    <ul>
+      
+        <li>
+          <a href="https://craftship.xyz/patternlc/#preface">Preface</a>
+          
+        </li>
+      
+        <li>
+          <a href="https://craftship.xyz/patternlc/#slide-window-two-pointers">slide window &amp; two pointers</a>
+          
+            <ul>
+              
+                <li>
+                  <a href="https://craftship.xyz/patternlc/#slide-window">slide window</a>
+                  
+                </li>
+              
+                <li>
+                  <a href="https://craftship.xyz/patternlc/#2-pointers">2 pointers</a>
+                  
+                </li>
+              
+                <li>
+                  <a href="https://craftship.xyz/patternlc/#compare">compare</a>
+                  
+                </li>
+              
+            </ul>
+          
+        </li>
+      
+        <li>
+          <a href="https://craftship.xyz/patternlc/#linked-list">linked list</a>
+          
+            <ul>
+              
+                <li>
+                  <a href="https://craftship.xyz/patternlc/#edge-condition">edge condition</a>
+                  
+                </li>
+              
+            </ul>
+          
+        </li>
+      
+        <li>
+          <a href="https://craftship.xyz/patternlc/#others">Others</a>
+          
+        </li>
+      
+    </ul>
+  </p>
+
+  <h1 id="preface">Preface</h1>
+<p>I'll conclude some common patterns of LC, which includes the identifying symbol and important ideas of using.</p>
+<h1 id="slide-window-two-pointers">slide window &amp; two pointers</h1>
+<h2 id="slide-window">slide window</h2>
+<p>It always be used in the <strong>array or string</strong>, especially when we need to find the subarray or substring. We can use 2 pointers to control the length of window to <strong>find the best case</strong>.</p>
+<ul>
+<li>the length of window is fixed</li>
+<li>the length of window is not fixed, it can be used to find the max or min length of window</li>
+</ul>
+<h2 id="2-pointers">2 pointers</h2>
+<p>It always be used in the ordered <strong>array or string, linkedlist</strong>, to <strong>find a special case</strong>.</p>
+<ul>
+<li>slow and fast pointers</li>
+<li>left and right pointers</li>
+</ul>
+<h2 id="compare">compare</h2>
+<ul>
+<li>Purpose: Two Pointers is often about finding elements in a sequence that satisfy a condition, while Sliding Window is about optimizing a subrange (like maximizing or minimizing its length while maintaining a property).</li>
+<li>Movement: In Two Pointers, the pointers can move independently or in coordination, sometimes in opposite directions. In Sliding Window, pointers typically move in the same direction, with the 'end' pointer leading the expansion and the 'start' pointer managing the contraction of the window.</li>
+<li>Two Pointers is more about pair-wise relationships and Sliding Window is about optimizing a range within the sequence.</li>
+</ul>
+<h1 id="linked-list">linked list</h1>
+<h2 id="edge-condition">edge condition</h2>
+<p>when you are required to return a new list that is the result of some operation like merging, inserting, or sorting.</p>
+<p>Without a dummy head, you would have to write additional conditional statements to handle the initialization of the head of the result list. This is because the first element requires special handling:</p>
+<ul>
+<li>
+<p>Initialization: When you start merging two lists, you don't know which list has the smallest first element. You would normally compare the first elements and then initialize the head of the result list accordingly. With a dummy head, you can skip this step.</p>
+</li>
+<li>
+<p>Empty Lists: If one or both of the input lists are empty, without a dummy head, you would need additional checks to ensure you don't attempt to access null or None elements.</p>
+</li>
+</ul>
+<h1 id="others">Others</h1>
+<ul>
+<li><a href="https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed">14 patterns</a></li>
+</ul>
+
+</article>
+
+
+      
+      <footer role="contentinfo">
+        <hr />
+        
+        
+        <small>Built with <a href="https://www.getzola.org/">Zola</a>.<br />
+          
+          
+        </small>
+        
+      </footer>
+      
+
+    </main>
+    
+    
+  </body>
+</html>
+
