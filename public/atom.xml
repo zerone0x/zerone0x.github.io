@@ -5,8 +5,28 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-02-03T00:00:00+00:00</updated>
+    <updated>2024-02-04T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>How to Focus</title>
+        <published>2024-02-04T00:00:00+00:00</published>
+        <updated>2024-02-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/focus/" type="text/html"/>
+        <id>https://craftship.xyz/focus/</id>
+        <content type="html">&lt;h1 id=&quot;preface&quot;&gt;Preface&lt;&#x2F;h1&gt;
+&lt;p&gt;Focus is still a big and important topic caused the time is limited.
+I think the key of it is priority and time management.
+First, we need to list the tasks and try to break them down.
+Second, the expection of execution should be too high.
+Third, don&#x27;t focus for longer, like 1hour, its hard to recover.
+Next, watch some nature(Shinrin) photos or exciting videos to recharge.
+Finally, maybe we can use focusduration&#x2F;realduration to measure the focus level.
+Anyway, try it.&lt;&#x2F;p&gt;
+</content>
+    </entry>
     <entry xml:lang="en">
         <title>Leetocde Pattern</title>
         <published>2024-02-03T00:00:00+00:00</published>
