@@ -1,7 +1,7 @@
 +++
 title = "双拼输入法"
 description = ""
-last_modified_date = "2023-10-29"
+update_date = "2023-10-30"
 
 [extra]
 image = "hexcell.png"

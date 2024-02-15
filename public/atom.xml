@@ -5,8 +5,19 @@
     <link href="https://craftship.xyz/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://craftship.xyz"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-02-04T00:00:00+00:00</updated>
+    <updated>2024-02-15T00:00:00+00:00</updated>
     <id>https://craftship.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>System design</title>
+        <published>2024-02-15T00:00:00+00:00</published>
+        <updated>2024-02-15T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://craftship.xyz/sys-design/" type="text/html"/>
+        <id>https://craftship.xyz/sys-design/</id>
+        <content type="html"></content>
+    </entry>
     <entry xml:lang="en">
         <title>How to Focus</title>
         <published>2024-02-04T00:00:00+00:00</published>
@@ -289,17 +300,11 @@ Anyway, try it.&lt;&#x2F;p&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.greatfrontend.com&#x2F;system-design&#x2F;types-of-questions&quot;&gt;GFE&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;app.raindrop.io&#x2F;my&#x2F;0&#x2F;%23systemdesign&quot;&gt;group&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h1 id=&quot;js&quot;&gt;JS&lt;&#x2F;h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;zh.javascript.info&#x2F;&quot;&gt;JavaScript 教程&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;javascript.info&#x2F;&quot;&gt;The Modern JavaScript Tutorial&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.mozilla.org&#x2F;en-US&#x2F;&quot;&gt;MDN&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;v2ex.com&#x2F;t&#x2F;712373&quot;&gt;V2EX 同样的标题，一样的文章，然而...&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.udemy.com&#x2F;course&#x2F;the-complete-web-developer-zero-to-mastery&#x2F;&quot;&gt;Udemy Web Development Course&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stackoverflow.com&#x2F;questions&#x2F;tagged&#x2F;javascript&quot;&gt;stackoverflow js&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;lc&quot;&gt;lc&lt;&#x2F;h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;interviewnoodle.com&#x2F;grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1&quot;&gt;Pattern 25&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackernoon.com&#x2F;14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed&quot;&gt;Pattern 14&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.educative.io&#x2F;courses&#x2F;grokking-coding-interview-patterns-python&quot;&gt;pattern TOC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;spreadsheets&#x2F;d&#x2F;1iFdFIzCSBIgHrWBnSJzTVVArVhuyz1V-HNZ1fic0WkM&#x2F;edit#gid=0&quot;&gt;Google Spreadsheet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;neetcode.io&#x2F;practice&quot;&gt;NeetCode&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;zerone0x&#x2F;coding-interview-university&#x2F;blob&#x2F;main&#x2F;translations&#x2F;README-cn.md#%E5%93%88%E5%B8%8C%E8%A1%A8hash-table&quot;&gt;Coding Interview University - README-cn.md&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -308,6 +313,15 @@ Anyway, try it.&lt;&#x2F;p&gt;
 &lt;li&gt;I already drop this&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;js&quot;&gt;JS&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;zh.javascript.info&#x2F;&quot;&gt;JavaScript 教程&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;javascript.info&#x2F;&quot;&gt;The Modern JavaScript Tutorial&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.mozilla.org&#x2F;en-US&#x2F;&quot;&gt;MDN&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;v2ex.com&#x2F;t&#x2F;712373&quot;&gt;V2EX 同样的标题，一样的文章，然而...&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.udemy.com&#x2F;course&#x2F;the-complete-web-developer-zero-to-mastery&#x2F;&quot;&gt;Udemy Web Development Course&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stackoverflow.com&#x2F;questions&#x2F;tagged&#x2F;javascript&quot;&gt;stackoverflow js&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;mental-help&quot;&gt;mental help&lt;&#x2F;h1&gt;
 &lt;ul&gt;

@@ -1,7 +1,7 @@
 +++
 title = "Leetocde Pattern"
 description = ""
-last_modified_date = "2023-10-29"
+update_date = "2024-02-03"
 
 [extra]
 image = "hexcell.png"
